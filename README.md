@@ -59,7 +59,7 @@ ChaiBot is a smart AI chatbot designed to assist students and faculty with colle
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/akhilalle/chaibot.git
+git clone https://github.com/AlleAkhil/ChaiBot
 cd chaibot
 ```
 
