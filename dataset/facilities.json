@@ -1,0 +1,190 @@
+[
+  {
+    "Hostel": {
+      "description": "The CBIT hostel is located in close proximity to CBIT and offers a spacious and invigorating ambiance. The campus has two residential blocks: one for Senior students (II, III, and IV Years, PG) and another for Junior students (I Years).",
+      "details": {
+        "junior_block": {
+          "rooms": 20,
+          "occupancy": 200,
+          "description": "The Juniors Block accommodates 200 students in 20 rooms, providing a serene and cozy atmosphere filled with lush greenery."
+        },
+        "senior_block": {
+          "rooms": 80,
+          "occupancy": 320,
+          "description": "The Seniors Block accommodates 320 students in 80 rooms, situated separately from the Juniors Block to prevent any ragging-related issues."
+        },
+        "total_capacity": 520,
+        "purpose": "The separation of the Junior and Senior blocks is intended to minimize the risk of ragging."
+      },
+      "contact_info": [
+        {
+          "name": "Dr. M. Ganeshwar Rao",
+          "position": "Professor & Hostel Chief Warden",
+          "phone": "9490316979",
+          "email": "ganeshwararao_maths@cbit.ac.in"
+        },
+        {
+          "name": "Mr. D Hemanth Reddy",
+          "position": "Care Taker",
+          "phone": "7569816506"
+        }
+      ]
+    }
+  },
+  {
+    "transport": {
+      "instructions": {
+        "parents": [
+          "College reserves the right to modify, merge or cancel any proposed route(s) without assigning any reason.",
+          "Seats will be allotted on a first come first serve basis for every academic year after receipt of Transport Fee.",
+          "New routes/buses will be introduced subject to the number of students and availability of buses. Decision of the Institute will be final in this regard.",
+          "Request for the extension or diversion of route(s) and additional stops will not be considered for the existing buses/routes.",
+          "Transport fee once paid is non-refundable.",
+          "Parents are requested to lodge their suggestions/requests/complaints, if any, in writing with the I/c, Students Transport Centre or Principal only."
+        ],
+        "students": [
+          "Must always carry the College and Transport Identity Cards and show them to the faculty in charges/driver on demand.",
+          "Ragging and indecent behaviour is strictly prohibited.",
+          "To be in their respective bus stops at the scheduled time, chasing or forcing the driver to stop the bus is not permitted.",
+          "Activating loudspeakers of cell phones / iPods clapping, whistling, shouting etc. are prohibited.",
+          "Should not keep hands/any other parts of the body out of windows.",
+          "Boys and girls must occupy separate seats.",
+          "Arguing with faculty in charges / drivers leads to the cancellation of the transport facility.",
+          "Any damage made to the seats, glasses, or any other components of the bus (including writing with pens) will be charged.",
+          "Must leave the bus immediately after reaching the college and students are permitted to board into the bus again after 4:00 PM only.",
+          "Students should not leave their belongings (bags, books, etc.) in the buses and the college is not responsible for any loss in this regard."
+        ]
+      },
+      "how_to_apply": [
+        "Approach the Students Transport Centre in K-Block with Transport Fee Receipt and two photographs to get seat allotment in the bus of their choice (First come first serve basis).",
+        "As seats are limited, the vacancy position will be displayed at the transport centre or ascertained from transport staff.",
+        "Transport fee is Rs. 42,000 (for any route/stop for the academic year 2024-2025, for all UG and PG students).",
+        "Fee payment procedure will be intimated separately on the college website."
+      ],
+      "contact_details": [
+        {
+          "name": "Dr. G. Narsimlu",
+          "designation": "Sr. Assistant Professor",
+          "role": "Transport I/C, CBIT",
+          "phone": "9490266616",
+          "working_hours": "4:30 AM to 6:30 PM",
+          "email": "cbitstudenttransport@gmail.com"
+        },
+        {
+          "name": "S. Sateesh Reddy",
+          "designation": "Transport Supervisor",
+          "phone": "9908176475",
+          "working_hours": "9:00 AM to 5:00 PM"
+        }
+      ]
+    }
+  },
+  {
+    "data_center_and_chnms": {
+      "description": "CBIT has a Campus Wide Networking (CWN) Facility monitored by CISCO MX-100 Firewall to serve the local and the Internet Facility with wired and wireless Connectivity. There are five CISCO SG-350 manageable Switches and one CISCO-1900 Router separating the Public and Private LANs connecting more than 2150 Desktop Machines serving the Computational requirements of the Institute and several Mobile Devices. The LANs are managed by more than 100 Giga-Bits manageable Switches with 10 GBPS Multimode Fiber Optic backbone connectivity.",
+      "wifi_facility": {
+        "description": "The Wi-Fi Facility is extended with 105 Meraki & KL-300 access points controlled by the MX-100 and CloudTrax Firewall. Additionally, the CBIT-CWN is supplemented with Mobility aware Wireless Connectivity across the Campus to enable the Seamless Connectivity of Wireless Network to Electronic Gadgets of Students and Staff."
+      },
+      "data_center": {
+        "description": "The Data Center comprises more than 10 Servers including HP c7000 Blade, Rack-mounted and Tower Servers, Printers Catering to the Academic and Administration needs including Web, Mail, Teaching and Learning Services. These Servers can be accessed by the people in a controlled way and are installed with the State-of-Art Software including VM Ware to create Virtual Machines, Fedora, Debian, MS-Windows, Oracle, MatLab, Drillbit, pSpice, Informatica, Rational Rose, Webex, etc."
+      },
+      "chnms": {
+        "description": "Computers’ Hardware & Network Maintenance Systems (CHNMS).",
+        "contacts": [
+          {
+            "name": "Dr. Ramakrishna Kolikipogu",
+            "position": "Professor (IT) – Head, CHNMS"
+          },
+          {
+            "name": "Mr. Syed Sajid",
+            "position": "System Engineer, CHNMS"
+          },
+          {
+            "name": "Mr. Ganji Shiva Kumar",
+            "position": "System Administrator, CHNMS"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "health_center": {
+      "description": "CBIT Campus Health Centre of the Institute facilitates immediate Medical Care for the Staff and Students. The Health Care Centre is equipped with Four Beds, First-Aid Box, Medical Kits, Medicines, Sphygmomanometer for Blood Pressure, Glucometer for Blood Sugar to treat minor Physical Injuries. The Consultation for the Faculty, Staff and Students is Free.",
+      "medical_staff": {
+        "medical_officer": "Visits the Health Centre for Consultations",
+        "staff_nurse": "Qualified and Trained Staff Nurse available during the Working Hours of the Institute"
+      },
+      "ambulance_service": {
+        "availability": "Available on the Campus on all Days",
+        "purpose": "To reach the Patients to Hospitals in case of Medical Emergencies"
+      }
+    }
+  },
+  {
+    "media_center": {
+      "description": "Media Centre | Audio Visual Centre | e-Learning Resource Centre | Lecture Capturing System | Mixing equipment and software.",
+      "e_content": {
+        "development": "The e-Content was developed by individual teachers and is uploaded to AWS Cloud by the respective department.",
+        "public_link": "https://d2n36fr2627nzy.cloudfront.net",
+        "institute_domain_link": "https://learning.cbit.org.in/",
+        "note": "If the same course is handled by different teachers, the e-Content developed by different teachers is also uploaded."
+      },
+      "access_details": {
+        "sharing_initiation": "The practice of sharing e-Content (video lectures) started from the academic year 2020-21.",
+        "recorded_lectures_link": "https://learning.cbit.org.in/",
+        "additional_link": "https://www.cbit.ac.in/library_post/e-library-online-video-recordings/",
+        "access_requirements": "Students can access video content through their individual credentials."
+      }
+    }
+  },
+  {
+    "ict_tools": {
+      "description": "The institute places great importance on the Teaching and Learning process by implementing Outcome-Based Education (OBE) to develop students' skills, knowledge, and attitude. Learner-centric pedagogical approaches are adopted by all faculty members, who are trained to use ICT tools for an improved learning experience.",
+      "infrastructure": {
+        "computer_availability": "A large number of computers are available in engineering departments and central facilities, including the library and Career Development Cell.",
+        "internet_connectivity": "High-speed internet connection is provided throughout the campus.",
+        "faculty_training": "Faculty members are trained through institutional training sessions and faculty development programs to use ICT tools effectively."
+      },
+      "blended_learning": {
+        "approach": "Blended learning, combining in-person tutoring with online learning, is practiced.",
+        "ict_integration": "All academic departments incorporate ICT components, including open-source and licensed software such as MATLAB for computation and simulation.",
+        "tools_used": [
+          "PowerPoint presentations",
+          "Video conferencing",
+          "Educational websites",
+          "CBIT Learning Management System (CBIT-LMS)",
+          "Flipped classrooms",
+          "Blended learning projects",
+          "Digital Library Access",
+          "NPTEL and other MOOCs",
+          "Online Journals",
+          "Online Tests",
+          "LCD Projectors",
+          "Smart boards",
+          "CBIT ERP system",
+          "Google Meet",
+          "Webex"
+        ]
+      },
+      "learning_management_system": {
+        "platform": "CBIT Learning Management System",
+        "url": "https://learning.cbit.org.in/login/index.php",
+        "cloud_storage": "Learning materials for all academic courses are stored in cloud storage.",
+        "cloud_url": "https://d2n36fr2627nzy.cloudfront.net/#",
+        "account_management": "Each faculty member has an account on the LMS, and courses are created for respective faculty and students."
+      },
+      "library_and_information_center": {
+        "digital_resources": {
+          "description": "Provides access to digital e-resources such as e-books and e-journals in Engineering and Management.",
+          "access_method": "Links are provided in the library OPAC and library website.",
+          "accessibility": "IP-based access available from any campus-connected computer."
+        },
+        "remote_access": {
+          "introduction": "Introduced in 2021 for faculty and students.",
+          "purpose": "Enables access to subscribed online databases, e-journals, and e-books from off-campus or home.",
+          "usage": "Widely utilized during the COVID period."
+        }
+      }
+    }
+  }
+]

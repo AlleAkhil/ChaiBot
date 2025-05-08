@@ -1,0 +1,426 @@
+[
+    {
+        "description": "Welcome to a 50.8 Acre campus, where celebrating inspiration is a way of life! CBIT is truly the abode of learning and bonding. The fun campus life fills the hearts of students with optimism. Providing the student a judicious amalgam of education and enjoyment, the CBIT campus offers a host of useful amenities. Thus the student doesn’t need to step out of the university premises for anything. It goes that extra bit to make hostel life, which most students are initially apprehensive of, comfortable and pleasant, thereby making it a second home.",
+        "initiatives": [
+            "Chaitanya Sudhee",
+            "Chaitanya Saahithi",
+            "Chaitanya Samskruthi",
+            "Chaitanya Kreeda",
+            "Chaitanya Seva",
+            "Chaitanya Chaaya",
+            "Chaitanya Smriti"
+        ]
+    },
+    {
+        "chaitanya_sudhee": {
+            "description": "Chaitanya Sudhee is a platform that nurtures students' skills, entrepreneurial spirit, and technical expertise through various clubs and cells.",
+            "clubs_and_cells": [
+                {
+                    "name": "Career Guidance Cell"
+                },
+                {
+                    "name": "Entrepreneurship Development Cell",
+                    "description": "Entrepreneurship Development Cell (EDC), CBIT, is a student-coordinated club supervised by experienced faculty members. The motto of the club is Entrepreneur 'rising' ideas. The club has a vision to pave a path towards ‘Entrepreneurial India’. The institute aims to groom and support all students with entrepreneurial interests and start-up ideas."
+                },
+                {
+                    "name": "Robotics & Innovation Club"
+                },
+                {
+                    "name": "Energy Savers Club"
+                },
+                {
+                    "name": "Open Source Club"
+                },
+                {
+                    "name": "Skill Development Cell"
+                },
+                {
+                    "name": "Google Student Club"
+                },
+                {
+                    "name": "Digital Transactions Competency Centre"
+                },
+                {
+                    "name": "Ramanujan Maths Club"
+                }
+            ]
+        }
+    },
+    {
+        "chaitanya_saahithi": {
+            "description": "Chaitanya Saahithi is a platform that promotes literary, communication, and leadership skills among students through various clubs and activities.",
+            "clubs_and_activities": [
+                {
+                    "name": "Literati Club"
+                },
+                {
+                    "name": "News Letter"
+                },
+                {
+                    "name": "Communicando"
+                },
+                {
+                    "name": "Model United Nations"
+                },
+                {
+                    "name": "Toast Masters Club"
+                },
+                {
+                    "name": "Transcendent"
+                }
+            ]
+        }
+    },
+    {
+        "chaitanya_samskruthi": {
+            "description": "Chaitanya Samskruthi is a cultural platform that encourages students to explore their artistic talents through singing, dancing, instrumental music, and creative writing.",
+            "clubs": [
+                {
+                    "name": "Chaitanya Geethi",
+                    "description": "Singing Club"
+                },
+                {
+                    "name": "Chaitanya Lasya",
+                    "description": "Dancing Club"
+                },
+                {
+                    "name": "Chaitanya Vaadya",
+                    "description": "Instrumental Club"
+                },
+                {
+                    "name": "Chaitanya Kruthi",
+                    "description": "The Writers & Poet Club"
+                }
+            ]
+        }
+    },
+    {
+        "chaitanya_kreeda": {
+            "description": "Chaitanya Kreeda is the sports and games club of CBIT, dedicated to organizing competitions at various levels and encouraging students to participate in university, state, national, and international events. The club actively contributes to the 'Fit India' movement and conducts 'Yoga Day' every year. It also provides facilities for both indoor and outdoor sports.",
+            "achievements": "Over the last 42 years, CBIT students have consistently figured among achievers at various levels in sports and games.",
+            "facilities": "A dedicated block for indoor sports and games activities, along with outdoor facilities to meet the needs of all students."
+        }
+    },
+    {
+        "Physical Education": {
+            "description": "The Department of Physical Education at CBIT focuses on the holistic development of students through physical fitness and sports. The department maintains state-of-the-art infrastructure to support a wide range of sports and physical activities.",
+            "infrastructure": {
+                "sports_building": "24000 sft",
+                "badminton_hall": "4225 sft",
+                "basketball_court": "2000 sft",
+                "cricket_ground": "64350 sft",
+                "volleyball_courts": "2574 sft",
+                "throwball_court": "2400 sft",
+                "football_field": "65340 sft",
+                "total_area": "164889 sft"
+            }
+        }
+    },
+    {
+        "chaitanya_seva": {
+            "description": "Chaitanya Seva is dedicated to promoting social responsibility and community service among students through various initiatives and clubs.",
+            "clubs": [
+                {
+                    "name": "NSS",
+                    "description": "Established in 2007, NSS CBIT consists of UG and PG students actively participating in social service activities within the institute and the society."
+                },
+                {
+                    "name": "Street Cause",
+                    "description": "An NGO established in 2009, committed to social welfare and community development, making CBIT one of the best and longest-running divisions."
+                },
+                {
+                    "name": "Engineers Without Borders (EWB)",
+                    "description": "Founded in 2015 by Dr. Shaukat Mirza, EWB-CBIT undertakes real-life sustainable social projects to create global leaders."
+                },
+                {
+                    "name": "NCC",
+                    "description": "The National Cadet Corps at CBIT trains students in leadership, discipline, and service to the nation."
+                },
+                {
+                    "name": "Parivrita",
+                    "description": "A social initiative club that engages students in community service and various social causes."
+                }
+            ]
+        }
+    },
+    {
+        "chaitanya_chaaya": {
+            "description": "Chaitanya Chaaya is a creative platform that nurtures visual storytelling and artistic expression through film making and photography.",
+            "clubs": [
+                {
+                    "name": "Film Making Club",
+                    "description": "A club dedicated to exploring and mastering the art of filmmaking through workshops, projects, and screenings."
+                },
+                {
+                    "name": "Photography Club",
+                    "description": "A community of photography enthusiasts who capture moments and creatively express ideas through images."
+                }
+            ]
+        }
+    },
+    {
+        "chaitanya_smriti": {
+            "description": "Chaitanya Smriti is the Alumni Club of CBIT, fostering connections between alumni and the institution to build a strong and supportive community.",
+            "clubs": [
+                {
+                    "name": "Alumni Club",
+                    "description": "A platform for alumni to stay connected, share experiences, and contribute to the growth of the institution."
+                }
+            ]
+        }
+    },
+    {
+        "students_clubs": {
+            "description": "Students are encouraged to join professional bodies and clubs to develop skills, nurture creativity, and build strong interpersonal communication and teamwork.",
+            "registrations": {
+                "students": "Technical & Non-Technical Clubs Registration Form",
+                "staff": "Technical & Non-Technical Clubs Registration Form"
+            },
+            "extra_curricular_activities": [
+                {
+                    "name": "Chaitanya Samskruthi",
+                    "description": "CBCC"
+                },
+                {
+                    "name": "Chaitanya Lasya",
+                    "description": "UDC"
+                },
+                {
+                    "name": "Chaitanya Geethi",
+                    "description": "Singing Club"
+                },
+                {
+                    "name": "Chaitanya Vaadhya",
+                    "description": "Music Instruments"
+                },
+                {
+                    "name": "Chaitanya Chaya",
+                    "description": "Film, Photography, Drama"
+                },
+                {
+                    "name": "Chaitanya Srujana",
+                    "description": "Painting & other crafts"
+                },
+                {
+                    "name": "Chaitanya Sahithi",
+                    "description": "Literature Club",
+                    "sub_clubs": [
+                        "Geervana Bharathi",
+                        "Communicando",
+                        "Toast Masters",
+                        "Model United Nations (MUN)",
+                        "Transcendent"
+                    ]
+                },
+                {
+                    "name": "Chaitanya Kruthi",
+                    "description": "Writers & Poets Club"
+                },
+                {
+                    "name": "Chaitanya Seva",
+                    "description": "The Social Service Club"
+                },
+                {
+                    "name": "NSS",
+                    "description": "National Service Scheme"
+                },
+                {
+                    "name": "Chaitanya Spandana",
+                    "description": "Formerly Street Cause CBIT"
+                },
+                {
+                    "name": "Engineers without Borders (EWB)",
+                    "description": "Social projects and global leadership"
+                },
+                {
+                    "name": "Technical Seva",
+                    "description": "Chaitanya Medha"
+                },
+                {
+                    "name": "Electoral Literacy Club",
+                    "description": "Chaitanya Reethi"
+                },
+                {
+                    "name": "Energy Savers Lab",
+                    "description": "Chaitanya Oorja"
+                },
+                {
+                    "name": "Entrepreneurship Development Cell (EDC)",
+                    "description": "Chaitanya Teja"
+                },
+                {
+                    "name": "Wellness Club",
+                    "description": "Chaitanya Svaasthya"
+                },
+                {
+                    "name": "Women Safety Club",
+                    "description": "Chaitanya Suraksha"
+                },
+                {
+                    "name": "UHV Club",
+                    "description": "Universal Human Values"
+                },
+                {
+                    "name": "Chaitanya Kreeda",
+                    "description": "Sports Club"
+                },
+                {
+                    "name": "Yoga Club",
+                    "description": "Health and fitness"
+                }
+            ],
+            "co_curricular_activities": {
+                "technical_clubs": [
+                    {
+                        "department": "CIVIL",
+                        "clubs": [
+                            "Civil Engineering Association",
+                            "Indian Concrete Institution",
+                            "Indian Green Building Council"
+                        ]
+                    },
+                    {
+                        "department": "MECHANICAL",
+                        "clubs": [
+                            "MEA",
+                            "Robotics & Innovation Club",
+                            "INNOVATION",
+                            "SAE",
+                            "ASME",
+                            "ASTRA"
+                        ]
+                    },
+                    {
+                        "department": "EEE",
+                        "clubs": [
+                            "IEEE"
+                        ]
+                    },
+                    {
+                        "department": "ECE",
+                        "clubs": [
+                            "IEEE Student Chapter",
+                            "IETE Student Forum",
+                            "IEEE Circuits & Systems Society - Student Branch",
+                            "Makers of India"
+                        ]
+                    },
+                    {
+                        "department": "CSE",
+                        "clubs": [
+                            "Makers of India",
+                            "Google Developer Student Club",
+                            "Hackiton"
+                        ]
+                    },
+                    {
+                        "department": "IT & CSE",
+                        "clubs": [
+                            "COSC",
+                            "United Coders Club"
+                        ]
+                    },
+                    {
+                        "department": "CHEMICAL",
+                        "clubs": [
+                            "IICHE"
+                        ]
+                    },
+                    {
+                        "department": "Biotechnology",
+                        "clubs": [
+                            "Bioengineering & Biotechnology"
+                        ]
+                    },
+                    {
+                        "department": "MCA",
+                        "clubs": [
+                            "Digital Transactions Competence"
+                        ]
+                    },
+                    {
+                        "department": "SMS",
+                        "clubs": [
+                            "Think Club"
+                        ]
+                    },
+                    {
+                        "department": "Mathematics",
+                        "clubs": [
+                            "Ramanujan Maths Club"
+                        ]
+                    }
+                ]
+            },
+            "students_chapters": {
+                "professional_bodies": [
+                    "Indian Society for Technical Education (ISTE)",
+                    "Institute of Electrical and Electronics Engineers (IEEE)",
+                    "Indian Institute of Chemical Engineers (IIChE)",
+                    "American Society for Mechanical Engineers (ASME)",
+                    "Society of Automotive Engineers (SAE)",
+                    "Indian Institute of Engineers (IIE)",
+                    "Indian Society for Mechanical Engineers (ISME)"
+                ]
+            }
+        }
+    },
+    {
+        "title": "Anti-Ragging Information",
+        "academic_year": "2024-2025",
+        "committees": [
+            {
+                "name": "Anti-Ragging Committee",
+                "description": "This Committee looks into registered cases of ragging at the Institute level and awards punishment to defaulters after a thorough enquiry as per the Guidelines of UGC and AICTE. Depending on the seriousness of the case, the Committee decides on the need for further help from Police or Legal forces."
+            },
+            {
+                "name": "Anti-Ragging Squad",
+                "description": "The members of this Squad must be alert and active at all times, meeting the requirements of any emergency situations, when informed by the Anti-ragging Cell or noticed by themselves. They make surprise visits to the campus, hostels, and surroundings vulnerable to ragging, and are empowered to curb the menace on the spot, reporting to the Principal and the Directorate of Student Affairs."
+            },
+            {
+                "name": "Anti-Ragging Duties",
+                "description": "The Heads of Departments are directed to take a leading role in preventing ragging at the CBIT campus and surrounding areas, including Gandipet, Mehdipatnam, Langarhouse, Khanapur Bus Stands, Boys Hostel, and Girls Hostel. Anti-ragging duties are to be performed from 4:10 PM to 6:00 PM daily from the first day of class work for first-year students."
+            },
+            {
+                "name": "Anti-Ragging Cell (Help Desk)",
+                "description": "This Cell can be contacted or informed through messages 24/7 to register or report cases of ragging.",
+                "contacts": [
+                    {
+                        "name": "Prof. B. Sreenivasa Reddy",
+                        "designation": "Head, Physics and I Year Co-ordinating Head",
+                        "mobile": "9849272455"
+                    },
+                    {
+                        "name": "Prof. M. Ganeshwar Rao",
+                        "designation": "Mathematics and Chief Warden, CBIT Hostels",
+                        "mobile": "9490316979"
+                    },
+                    {
+                        "name": "Principal's Office",
+                        "mobile": "8466997201"
+                    },
+                    {
+                        "name": "Office of the Advisor-SA&P",
+                        "mobile": "6300685276"
+                    }
+                ]
+            },
+            {
+                "name": "Disciplinary Committee",
+                "description": "A Disciplinary Committee is constituted to look into the general conduct of students in the campus and their compliance with the Code of Conduct. It monitors discipline within the campus, hostels, and even outside if necessary. The committee reports violation cases to the Principal and takes necessary action based on the severity of the situation.",
+                "members": [
+                    "Principal (Chairman)",
+                    "Advisor-Student Affairs & Progression (Convenor)",
+                    "All Directors",
+                    "Joint Directors",
+                    "Heads of Departments",
+                    "Heads of Sections",
+                    "Librarian",
+                    "CoE",
+                    "Assistant PD",
+                    "All Professors of the Institute"
+                ]
+            }
+        ]
+    }
+]

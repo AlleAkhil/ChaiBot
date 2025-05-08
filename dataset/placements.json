@@ -1,0 +1,304 @@
+{
+    "Vision": "To foster the students to achieve their career goals who in turn contribute to the socio-economic growth of the nation.",
+    "Mission": [
+        "Enlightening and guiding the students in setting their career goals.",
+        "Imparting Soft skills, Domain knowledge and Professional ethics to the students through training activities in enabling them to accomplish their career aspirations.",
+        "Striving to place all eligible and interested students by strengthening Industry Institute Interactions."
+    ],
+    "Guidelines": [
+        "It is mandatory for the prefinal year students to give their career choices like placement, higher education, entrepreneurship, etc., in the prescribed proforma available on the website.",
+        "Students shall participate in all the relevant events organized by CDC with discipline and commitment.",
+        "Students shall not possess backlog history and maintain excellent academic grades consistently. Students shall not possess active backlogs and maintain a minimum of 6.5 CGPA before the beginning of the final year.",
+        "Students shall complete at least two industry-approved certifications in the latest technologies before the beginning of the final year.",
+        "Students shall participate in at least two hackathons before the beginning of the final year.",
+        "Students shall participate in at least two coding competitions before the beginning of the final year.",
+        "Students shall complete two capstone projects in their specialization beyond the curriculum before the beginning of the final year.",
+        "Students aspiring for placements in the Core sector shall clear the GATE examination with a good rank.",
+        "All circuit branch students shall build their coding profile from the III Semester onwards on platforms like LeetCode, Codeforces, CodeChef, HackerRank, etc.",
+        "Students shall check the career pages of Fortune companies to know the required skills for super dream placements.",
+        "Students shall maintain a digital profile on professional networking platforms like LinkedIn from the day of joining CBIT.",
+        "Students interested in Higher Education shall meet counseling teams available on campus as per the notified dates.",
+        "Students aspiring to be entrepreneurs shall connect with the Innovation and Incubation Cell (IIC), Research and Entrepreneurship (R&E), and Atal Community Innovation Center (ACIC) in the campus.",
+        "Students who secured placements off-campus are instructed to submit proof of their placement to the respective Department Faculty Placement Coordinators.",
+        "Students shall continuously check any correspondence from CDC and act without any delay."
+    ],
+    "Placement_Policy": [
+        "Students shall appear in formal attire for all placement-related activities.",
+        "A student who registers for a placement drive and fails to attend will be blocked from attending further placements.",
+        "Students involved in any indiscipline activities during their course of study are not eligible for placements.",
+        "Students should not communicate directly with company officials under any circumstances.",
+        "Students shall not decline the first confirmed offer letter after willingly participating in the specific placement drive.",
+        "A student with a confirmed offer letter is eligible to apply for the next placement drive only if the CTC is more than 1.50 times the CTC of the confirmed offer.",
+        "A student without a confirmed PPO (Pre-Placement Offer) through summer internships shall become eligible for further placement drives. Later, if a PPO is confirmed, the student has the option to choose either the confirmed PPO or the offer received from the subsequent placement.",
+        "Students from core branches are eligible for one core and one software placement drive. Such students shall choose one of the above offers and inform their offer acceptance to CDC immediately.",
+        "A student who is placed shall abide by the company hiring policy, including service agreements, joining dates, mandated internships, work locations, etc.",
+        "Students opting for higher studies or other career goals are not allowed for placements.",
+        "A Letter of Recommendation will be issued to placed students who complete a minimum of one year of service in the placed company. Any deferment of joining dates will be considered only if delayed by more than six months.",
+        "The institute is not responsible for any deferment or withdrawal of an offer letter by the company.",
+        "Any violation of the above policies will attract punishment or disciplinary action."
+    ],
+    "Internship_guidelines": [
+        "https://www.cbit.ac.in/wp-content/uploads/2024/09/Affidavit-VIII-Sem-Internships-17.08-2.pdf",
+        "https://www.cbit.ac.in/wp-content/uploads/2024/09/Affidavit-VII-Sem-Internships-17.08-1.pdf"
+    ],
+    "LOR_Format": [
+        "https://www.cbit.ac.in/wp-content/uploads/2019/03/LOR-Format-from-CDC-3.pdf"
+    ],
+    "facets": {
+        "placement_data": [
+            {
+                "year": "2024-25",
+                "placements_secured": 895,
+                "link": "https://www.cbit.ac.in/wp-content/uploads/2025/02/Year-wise-Placements-2024-25-In-Progress.pdf"
+            },
+            {
+                "year": "2023-24",
+                "placements_secured": 1039,
+                "link": "https://www.cbit.ac.in/wp-content/uploads/2024/11/Year-wise-Placements-2023-24.pdf"
+            },
+            {
+                "year": "2022-23",
+                "placements_secured": 1375,
+                "link": "https://www.cbit.ac.in/wp-content/uploads/2024/08/Year-Wise-Placements-2022-2023.pdf"
+            },
+            {
+                "year": "2021-22",
+                "placements_secured": 1736,
+                "link": "https://www.cbit.ac.in/wp-content/uploads/2022/11/Year-Wise-Placements-for-the-AY-2021-22.pdf"
+            },
+            {
+                "year": "2020-21",
+                "placements_secured": 1246,
+                "link": "https://www.cbit.ac.in/wp-content/uploads/2023/04/Placement-details-of-students-for-the-AY-2020-21.pdf"
+            },
+            {
+                "year": "2019-20",
+                "placements_secured": 1223,
+                "link": "https://www.cbit.ac.in/wp-content/uploads/2021/12/2019-20-Placements.pdf"
+            },
+            {
+                "year": "2018-19",
+                "placements_secured": 1217,
+                "link": "https://www.cbit.ac.in/wp-content/uploads/2021/12/2018-19-placements.pdf"
+            },
+            {
+                "year": "2017-18",
+                "placements_secured": 961,
+                "link": "https://www.cbit.ac.in/wp-content/uploads/2021/12/2017-18-placements.pdf"
+            },
+            {
+                "year": "2016-17",
+                "placements_secured": 1366,
+                "link": "https://www.cbit.ac.in/wp-content/uploads/2019/12/2016-17-placements.pdf"
+            },
+            {
+                "year": "2015-16",
+                "placements_secured": 1355,
+                "link": "https://www.cbit.ac.in/wp-content/uploads/2019/12/2015-16_placements.pdf"
+            },
+            {
+                "year": "2014-15",
+                "placements_secured": 1176,
+                "link": "https://www.cbit.ac.in/wp-content/uploads/2019/12/2014-15_placements.pdf"
+            },
+            {
+                "year": "2013-14",
+                "placements_secured": 853,
+                "link": "https://www.cbit.ac.in/wp-content/uploads/2019/12/2013-14_placements-1.pdf"
+            },
+            {
+                "year": "2012-13",
+                "placements_secured": 918,
+                "link": "https://www.cbit.ac.in/wp-content/uploads/2019/12/2012-13_placements-1.pdf"
+            },
+            {
+                "year": "2011-12",
+                "placements_secured": 1153,
+                "link": "https://www.cbit.ac.in/wp-content/uploads/2019/12/2011-12_placements-1.pdf"
+            },
+            {
+                "year": "2010-11",
+                "placements_secured": 1110,
+                "link": "https://www.cbit.ac.in/wp-content/uploads/2019/12/2010-11_placements-1.pdf"
+            },
+            {
+                "year": "2009-10",
+                "placements_secured": 631,
+                "link": "https://www.cbit.ac.in/wp-content/uploads/2019/12/2009-10-Placements.pdf"
+            },
+            {
+                "year": "2008-09",
+                "placements_secured": 617,
+                "link": ""
+            },
+            {
+                "year": "2007-08",
+                "placements_secured": 688,
+                "link": ""
+            },
+            {
+                "year": "2006-07",
+                "placements_secured": 581,
+                "link": ""
+            },
+            {
+                "year": "2005-06",
+                "placements_secured": 443,
+                "link": ""
+            },
+            {
+                "year": "2004-05",
+                "placements_secured": 397,
+                "link": ""
+            },
+            {
+                "year": "2003-04",
+                "placements_secured": 264,
+                "link": ""
+            },
+            {
+                "year": "2002-03",
+                "placements_secured": 216,
+                "link": ""
+            }
+        ]
+    },
+    "cdc_team": [
+        {
+            "name": "Dr. N.L.N. Reddy",
+            "designation": "Advisor-CDC",
+            "contact_no": "9849466587",
+            "email": [
+                "placements@cbit.ac.in",
+                "director_cdc@cbit.ac.in"
+            ]
+        },
+        {
+            "name": "Dr. S. Solomon Raj",
+            "designation": "Asst.Director-CDC",
+            "contact_no": "9949655133",
+            "email": [
+                "po@cbit.ac.in"
+            ]
+        },
+        {
+            "name": "Dr. Prathima Tirumalareddy",
+            "designation": "Asst.Director-CDC",
+            "contact_no": "9441044722",
+            "email": [
+                "tpo@cbit.ac.in"
+            ]
+        },
+        {
+            "name": "Mr. K. Venkat Reddy",
+            "designation": "Asst. Programmer",
+            "contact_no": "9989693219",
+            "email": [
+                "kvenkatreddy_asstprog@cbit.ac.in"
+            ]
+        },
+        {
+            "name": "Mr. Y. Prasada Rao",
+            "designation": "Spl Gr. Computer Operator",
+            "contact_no": "9701239306",
+            "email": [
+                "yprasadarao_co@cbit.ac.in"
+            ]
+        },
+        {
+            "name": "Mr. K. Mallesh",
+            "designation": "Attender",
+            "contact_no": "9948837135",
+            "email": []
+        },
+        {
+            "name": "Mr. K. Vijay Kumar",
+            "designation": "Attender",
+            "contact_no": "9676113862",
+            "email": []
+        }
+    ],
+    "skill_development_programmes": {
+        "2021-22": "https://www.cbit.ac.in/wp-content/uploads/2024/01/2021-22-Training-Programs-1.pdf",
+        "2022-23": "https://www.cbit.ac.in/wp-content/uploads/2024/01/2022-23-Training-Programs-1.pdf",
+        "2023-24": "https://www.cbit.ac.in/wp-content/uploads/2024/01/2023-24-Training-Programs-.pdf"
+    },
+    "student_placement_coordinators": {
+        "2024-25": "https://www.cbit.ac.in/wp-content/uploads/2019/12/PC-List-2024-25.pdf",
+        "2023-24": "https://www.cbit.ac.in/wp-content/uploads/2019/12/PC-List-2023-24.pdf",
+        "2022-23": "https://cbit.ac.in/wp-content/uploads/2019/12/PLacement-Coordinators-list-2022-23.pdf",
+        "2021-22": "https://cbit.ac.in/wp-content/uploads/2019/12/PC-List-2021-22.pdf",
+        "2020-21": "https://www.cbit.ac.in/wp-content/uploads/2019/12/PC-List-2020-21.pdf",
+        "2019-20": "https://www.cbit.ac.in/wp-content/uploads/2019/12/PC-List-2019-20.pdf",
+        "2018-19": "https://www.cbit.ac.in/wp-content/uploads/2019/12/PC-List-2018-19.pdf",
+        "2017-18": "https://www.cbit.ac.in/wp-content/uploads/2019/12/PC-List-2017-18.pdf",
+        "2016-17": "https://www.cbit.ac.in/wp-content/uploads/2019/12/PC-List-2016-17.pdf",
+        "2015-16": "https://www.cbit.ac.in/wp-content/uploads/2019/12/PC-List-2015-16.pdf",
+        "2014-15": "https://www.cbit.ac.in/wp-content/uploads/2019/12/PC-List-2014-15.pdf",
+        "2013-14": "https://www.cbit.ac.in/wp-content/uploads/2019/12/PC-List-2013-14.pdf",
+        "2012-13": "https://www.cbit.ac.in/wp-content/uploads/2019/12/PC-List-2012-13.pdf",
+        "2011-12": "https://www.cbit.ac.in/wp-content/uploads/2019/12/PC-List-2011-12.pdf",
+        "2010-11": "https://www.cbit.ac.in/wp-content/uploads/2019/12/PC-List-2010-11.pdf"
+    },
+    "infrastructure": {
+        "description": "Campus Recruitment Training programs (CRT), seminars, workshops on upcoming technologies are conducted. Internships are also offered at MNCs and research centers through Career Development Centre.",
+        "facilities": [
+            {
+                "facility": "CDC",
+                "area": "18000 sqft"
+            },
+            {
+                "facility": "Centralized A/c in Assembly Hall",
+                "capacity": "600 Seated"
+            },
+            {
+                "facility": "A/c Conference Hall",
+                "capacity": "250 Seated"
+            },
+            {
+                "facility": "A/c Interview/ GD Rooms",
+                "count": 12
+            },
+            {
+                "facility": "Dining Hall",
+                "capacity": "20"
+            },
+            {
+                "facility": "LCD Projectors",
+                "count": 10
+            },
+            {
+                "facility": "No of Systems (Online Exam Center)",
+                "count": 256
+            },
+            {
+                "facility": "Logitech HD Webcam",
+                "count": 256
+            },
+            {
+                "facility": "No of Printers",
+                "count": 4
+            }
+        ]
+    },
+    "events": {
+        "2024": "https://www.cbit.ac.in/wp-content/uploads/2019/12/CDC-Placements-Events-2024.pdf",
+        "2023": "https://www.cbit.ac.in/wp-content/uploads/2019/12/CDC-Events-2023.pdf",
+        "2022": "https://www.cbit.ac.in/wp-content/uploads/2019/12/Events-2022.pdf",
+        "2021": "https://cbit.ac.in/wp-content/uploads/2019/12/Events-2021.pdf",
+        "2020": "https://cbit.ac.in/wp-content/uploads/2019/12/Events-2020.pdf",
+        "2019": "https://www.cbit.ac.in/wp-content/uploads/2019/12/Events-2019.pdf",
+        "2018": "https://www.cbit.ac.in/wp-content/uploads/2019/12/Events-2018.pdf",
+        "2017": "https://www.cbit.ac.in/wp-content/uploads/2019/12/Events-2017.pdf",
+        "2016": "https://www.cbit.ac.in/wp-content/uploads/2019/12/Events-2016.pdf",
+        "2015": "https://www.cbit.ac.in/wp-content/uploads/2019/12/Events-2015.pdf",
+        "2014": "https://www.cbit.ac.in/wp-content/uploads/2019/12/Events-2014.pdf",
+        "2013": "https://www.cbit.ac.in/wp-content/uploads/2019/12/Events-2013.pdf"
+    },
+    "contact": {
+        "name": "Dr. N. L. N. Reddy",
+        "designation": "Director – CDC",
+        "email": "placements@cbit.ac.in",
+        "phone": "9849466587"
+    }
+}

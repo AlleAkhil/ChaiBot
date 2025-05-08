@@ -1,0 +1,26 @@
+[
+  {
+    "text": "Tell me about sports at CBIT",
+    "intent": "ask_pe_info",
+    "intent_prediction": {
+      "name": "ask_physical_education_info",
+      "confidence": 0.6518994569778442
+    }
+  },
+  {
+    "text": "Tell me about the research facilities",
+    "intent": "ask_research_info",
+    "intent_prediction": {
+      "name": "ask_research_infrastructure",
+      "confidence": 0.48595231771469116
+    }
+  },
+  {
+    "text": "Who is responsible for managing the hostel?",
+    "intent": "ask_hostel_contact",
+    "intent_prediction": {
+      "name": "ask_specific_hods",
+      "confidence": 0.41827037930488586
+    }
+  }
+]

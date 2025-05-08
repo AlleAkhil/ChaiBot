@@ -1,0 +1,2833 @@
+{
+    "about": "Chaitanya Bharathi Institute of Technology, established in the Year 1979, esteemed as the Premier Engineering Institute in the States of Telangana and Andhra Pradesh, was promoted by a Group of Visionaries from varied Professions of Engineering, Medical, Legal and Management, with an Objective to facilitate the Best Engineering and Management Education to the Students and contribute towards meeting the need of Skilled and Technically conversant Engineers and Management Professionals, for the Country that embarked on an Economic Growth Plan.The Institute, committed to Education and Innovation, started with three-Degree Courses in Engineering for 200 Students and over the 45 Years, has emerged as a Dream Destination for; Students seeking to excel in Engineering and Management Education, Teaching Community to progress with a rewarding Career and Corporates to source well-rounded Engineers.Stringent Academic Standards, Industry compliant Teaching Methodology, Research Projects from Private and Public Sector Industries in Engineering and Management and Consultancy Practice, enabled the Institute to establish its Identity in the Technical Education and is Ranked No. 1 amongst the Private Engineering Colleges in both the Telugu Speaking States.The Practices and the Culture at the Institute has always been to provide Quality Education by enhancing the overall Educational experience of Students adopting a wide range of Academic, Practical, Co-Curricular, Extra-Curricular Programs in the State-of-the-Art Facilities, Services and Activities to enable the required exposure to a variety of Social, Cultural, Intellectual, Recreational Opportunities and Challenges. Such learning experiences have enriched the lives of Students and helped them to develop into a Multi-Skilled and Multi -Tasking Personalities that ensured success in their Careers and Occupations. Co-curricular and Extra-Curricular activities are planned and executed through a number of Associations, Clubs, Societies, Students’ Chapters of Professional Bodies, with a view to allow the Students, the necessary freedom to plan and execute every effort and in the process nurture them to be the future Leaders who learn to address Challenges and carve a path of Success.In its Four Decades of existence, all the Stake Holders of the Institute, relentlessly endeavored to position CBIT as an Institution that is a Leader and an Innovator in the Ecosystem of Engineering Higher Education. With the Students being the singular Objective, the Institute has established excellent Infrastructure such as State-of – the Art Laboratories, spacious Library with Printed and Digital Collection of Books and Journals, Sports, Hostel, and other Infrastructure for Extra and Co-Curricular Engagements with a total Built-up Area of about 57,714 Sq. Mts., in the serene Ambience of 50 Acres to inspire, encourage and pursue Academics. In its relentless strive for Academic excellence, CBIT has scaled great heights both Nationally and Internationally in Industry and Global Universities.",
+    "affiliations_accreditations": [
+        "Permanently Affiliated to Osmania University, Hyderabad",
+        "Autonomous Institution (UGC Approved) since 2013",
+        "Accredited in the third cycle by National Assessment and Accreditation Council (NAAC) with Grade A++",
+        "All UG Engineering and five PG Programs have been Accredited by National Board of Accreditation"
+    ],
+    "awards_recognitions": [
+        "12B Status by UGC",
+        "ISO 9001:2015 Certified Institution",
+        "Ranked No.1 in both the Telugu states amongst the Self-financed Engineering Institutions",
+        "Ranked all India 151-200 band by NIRF-MHRD,2023",
+        "Ranked 2nd in the State of Telangana by the Education World, 2022",
+        "Ranked all India 38th by Week 2021",
+        "Ranked all India 36th by Outlook June 2020",
+        "Recognition of departments as research centers"
+    ],
+    "academics_highlights": [
+        "Top Rankers of EAMCET / JEE are seeking admission",
+        "Facility to earn Honors &Minor Engineering Degree",
+        "333+ Highly Dedicated & Experienced Faculty and Staff",
+        "140+ Faculty are with Ph. D",
+        "68+ Research Projects from AICTE, DST, DRDO, MSME, State Governments",
+        "14+ Patents Registered",
+        "7500+ Publications"
+    ],
+    "placements_highlights": [
+        "Excellent internships and Placement Opportunities",
+        "1375+ Placements with Rs.45.6 Lakh Highest Package during 2022-23",
+        "59.91 Lakhs Highest Package by Atlassian (2023-24)",
+        "Total 20610 Students placed in more than 200+ globally reputed companies",
+        "Strong Alumni relationship with more than 25000+ Alumni across the Globe"
+    ],
+    "infrastructure": [
+        "State of Art Infrastructure",
+        "45 Computer labs with 2200+ Computers",
+        "Wi-Fi enabled Campus",
+        "Spacious well stocked Library & Information Centre with huge inventory of Printed and Digital collection of Books & Journals (1.00 lakh+ volumes & 5000+ E.Journals (IEEE, Science Direct, Springer, ASCE, ASME, EBSCO-BSE, Access Engg etc.)",
+        "Established CBIT-NPTEL Local Chapter",
+        "Registered National Digital Library of India (NDLI) Club",
+        "34 Clubs for Co / Extra Curricular Activities"
+    ],
+    "teaching_learning": [
+        "Effective Mentoring and Strong Teaching Learning Process",
+        "Industry Complied Pedagogy",
+        "Industry expertise labs established by Hexagon, Cognizant, AAU, SAC-ISRO etc.",
+        "State of Art Incubation Centers by ACIC & MSME",
+        "More than 56 MoUs including recent AWS, Coursera",
+        "Coding School Established to meet the emerging Industry needs"
+    ],
+    "clg_vision": "To be the center of excellence in technical education and research",
+    "clg_mission": "To address the emerging needs through quality technical education and advanced research",
+    "clg_recognitions": [
+        {
+            "type": "Approval",
+            "organization": "AICTE",
+            "details": "Approved by All India Council for Technical Education"
+        },
+        {
+            "type": "Affiliation",
+            "organization": "Osmania University",
+            "details": "Affiliated to Osmania University"
+        },
+        {
+            "type": "Autonomy",
+            "organization": "UGC",
+            "details": "UGC Autonomous status"
+        },
+        {
+            "type": "Accreditation",
+            "organization": "NBA",
+            "details": "10 Programs accredited by National Board of Accreditation"
+        },
+        {
+            "type": "Accreditation",
+            "organization": "NAAC",
+            "details": "Grade A++ in National Assessment and Accreditation Council"
+        },
+        {
+            "type": "Ranking",
+            "organization": "NIRF",
+            "details": "All India Ranking 151-200 Band in National Institutional Ranking Framework"
+        }
+    ],
+    "clg_first_management_committee": {
+        "Chairman": "JUSTICE KONDA MADHAVA REDDY",
+        "Vice Chairman 1": "PADMABHUSHAN Dr. P. SIVA REDDY",
+        "Vice Chairman 2": "A.P. RANGANADHA SWAMY",
+        "Vice Chairman 3": "VASTHUSHILPI Dr. B.N. REDDY",
+        "Secretary": "Dr. V. MALAKONDA REDDY",
+        "Joint Secretary": "SRI T. YOGAIAH NAIDU",
+        "Treasurer": "SRI D. KAMALAKAR REDDY",
+        "Member 1": "Dr. B. VENKAT REDDY",
+        "Member 2": "SRI N. MASTANAIAH CHOWDARY",
+        "Member 3": "SRI J. SHYAM SUNDER REDDY",
+        "Member 4": "SRI P. PRABHAKAR REDDY",
+        "Member 5": "SRI V.V. NARAYANA",
+        "Member 6": "PROF. G. RAMANA REDDY"
+    },
+    "clg_board_of_management": {
+        "President": "Sri. N. Subash",
+        "Member, Authorized Signatory": "Mrs. P. Divya Reddy",
+        "Member 1": "Sri. J. Shyam Sunder Reddy",
+        "Member 2": "Mrs. S. Uma Devi",
+        "Member 3": "Sri. J. Pratap Reddy",
+        "Member 4": "Sri. D. Praveen Reddy",
+        "Member 5": "Sri. P. Chakradhar Reddy",
+        "Member 6": "Sri. T. Venkat Ramdev",
+        "Member 7": "Sri. B. Saharsh Reddy",
+        "Member 8": "Mrs. B. Shalini Reddy",
+        "Member 9": "Mrs. T. Kranti",
+        "Member 10": "Sri. N. Ravindra Kumar",
+        "Member 11": "Mrs. N.Padma",
+        "Member 12": "Mrs. Dr. C. Jayasree",
+        "Member 13": "Mrs. Dr. D. Rajyasree"
+    },
+    "president_message": "I welcome you to one of the most reputed and highly ranked Engineering Institutes of the Country. CBIT towers above all the other Private Engineering Institutes in the State for we continually endeavor to foster excellence in Technical Education and Research. This has been possible due to the contribution and participation of every stakeholder, and the Institute's firm reliance, recognition and utilization of their ideas, perspectives, talents, and, abilities. And so, with gratitude we acknowledge every participant's contribution in the growth of the Institute and the students.Established in 1979, CBIT has reinvented itself over the years, amalgamating holistic education with latest world class amenities. It has grown into a fully integrated campus offering a broad array of UG and PG Programs with a meticulous emphasis on even the minutest aspect of the Curriculum and Pedagogy.The Institute boasts of having highly qualified and distinguished Faculties who work as facilitators making the learning process interesting, engrossing, and enjoyable. The campus strives to provide the latest and the best tools, technologies, equipment's, and the most modernized and conducive learning environment. The Library housing the best books and having access to the most acclaimed Journals, modernized Labs which are continually upgraded and a distinctive R&D Block, dedicated to Research and Development, are testimonies to the Institute's firm focus on student's research, learning and achievement. CBIT leverages the unique potential, talent, and curiosity of students to transform them into future leaders, technocrats, entrepreneurs, and stalwarts in the field of Engineering and Technology. To aid students realize their professional aspirations, the Career Development Cell conducts a range of training programs so that students excel technically and professionally. The internships, industry exposure, extra-curricular activities and the various student clubs make this overall learning process complete.Committed towards excellence and the best Institutional practices, the Institute, ever since its inception has maintained transparency and rigorous analytics in all aspects of Teaching-Learning and Governance. Every milestone we have achieved has been possible due to the ingrained ethical responsibility, integrity, commitment, dynamism, and an unremitting aspiration towards innovation, incubation, and meritocracy. Driven towards creating a pool of Societal Stalwarts known for their professionalism and skills we unremittingly try to outperform the benchmark we set for ourselves.It is a great honour for me to lead this Institute and I welcome all who have chosen CBIT as the pathways to design their future in the world of Engineering and Industry! Step into the most intellectually thriving and bustling Engineering campus of Hyderabad and realize your dreams",
+    "principle_message": "Dear all,I welcome you to Chaitanya Bharathi Institute of Technology (CBIT), one of the most prestigious institutes in India and pride of both Telugu States. CBIT was established in 1979 with a vision “To be the Centre of Excellence in Technical Education and Research” by a group of great visionaries. It is an UGC Autonomous Institution, some programs are accredited 7 times by NBA since 1998 and accredited by NAAC with A++ in Cycle 3 since 2023. The institute has state of the art infrastructure in lush green environment with highly qualified, dedicated and experienced faculty.It is striving hard over the past 45 years to impart Quality Education to the students, matching International standards. With over four decades of thorough nurturing of engineering knowledge at the Institute by the expert faculty, I assure, the students will evolve as exemplary engineers equipped with skills to face the Industry-5.0 challenges and the dynamic disruption that is being experienced in every industry. CBIT has a strong industry links; reputed companies have set up labs and also engaged in developmental activities with the college. At CBIT, the structure of the curriculum is framed to meet the industry requirements by following the fundamentals of AICTE model Curriculum, National Education Policy (NEP)-2020 and OBE which expedites creative thinking through greater freedom to learn, lead, experiment and innovate. We feel, it is time for us to “re-invent” and encourage students to align them to such creative thinking.CBIT facilitates employment with attractive package for students through Placement-Training programs and skill development programs. I wish the students also utilize the opportunity available in the campus to get choicest employment with dream package. However, I strongly feel that they all utilize the services of well-established EDC (Entrepreneur Development Centre) in the campus effectively, enhance their entrepreneurial skills, become useful entrepreneurs for the Nation and thus contribute to the institute for achieving its motto “Swayam Tejaswin Bhava”.We have established start-ups and incubation ecosystem to support ideation and implementation under the guidance of faculty/experts and well-known thought leaders in their fields of Engineering and Management. Results are impending in the direction of motivating the students towards Research, Innovation, Start-ups, Patenting and Product development for sustainable technology.CBIT has its own way in encouraging students towards co-curricular and extracurricular activities apart from the curriculum to show their talents. This helps students to become well rounded personalities and responsible social citizens. In view of this, there are over 56 co-curricular and extra-curricular activity clubs in the campus to contribute for the holistic development of the students. These clubs also make campus life more lively, memorable and fruitful for them. In addition to this, my penchant for participatory learning ensures students to participate in sports, arts & aesthetics and skill development clubs, leadership & personality development initiatives as part of academic life of students at CBIT.As a firm believer in ‘pragmatic education’ I align myself delightedly with the institute and I am here to encourage effective performance and motivate all the stakeholders to be working happily for the growth of the Institute. I always assert “doing is learning” and encourage students to get involved in innovative projects for an effective overall learning experience. Further, I believe that problem based learning, project based learning and experiential learning are the tools to achieve the objectives of OBE and thus will yield better learning outcomes. My coinage, “the 5Ps”: Placements, Publications, Projects, Patents, and Participatory administration are the key to sustain our brand on the National and International platform.In CBIT, it is believed and practiced that excellence is a continuous process and in pursuit of which the institute has made deep forays in contributing to this world with renowned technocrats, successful entrepreneurs, competent leaders, innovative scientists and researchers. I humbly request all the stakeholders to join hands with me in taking this institute to the next level.",
+    "directors": {
+        "Principal and Chairman-IQAC": "Prof. C. V. Narasimhulu",
+        "Vice - Principal - Academics": "Prof. K. Krishna Veni",
+        "Vice - Principal - Administration": "Prof. P.V.R Ravindra Reddy",
+        "Director & Head of R&E Hub": "Prof. P. Ravinder Reddy",
+        "Director - IQAC": "Dr. N. V. Koteswara Rao",
+        "Director - AEC & CoE": "Prof. Suresh Pabboju",
+        "Director - Academics": "Prof. P. Prabhakar Reddy",
+        "Director - Students Affairs & Progression": "Prof. B. Linga Reddy",
+        "Director - Research & Development": "Prof. D. Krishna Reddy",
+        "Director - Innovation & Incubation": "Prof. Umakanta Chaudhury",
+        "Director - CDC - Career Development Cell": "Dr. N. L. N. Reddy",
+        "Controller of Examinations": "Prof. P. Venkata Prasad",
+        "Associate Director - R&D": "Dr. T. Sudhakar Babu",
+        "Associate Director - IQAC": "Prof. R. Madana Mohana",
+        "Assistant Director - Student Affairs and Progression": "Dr C. Nagendranatha Reddy",
+        "Assistant Director - Academics": "Dr. Yawer Abbas Khan"
+    },
+    "courses": [
+        "Department of Civil Engineering",
+        "Department of Mechanical Engineering",
+        "Department of Electrical and Electronics Engineering",
+        "Department of Electronics and Communications Engineering",
+        "Department of Computer Science and Engineering",
+        "Department of Artificial Intelligence and Machine Learning",
+        "Department of Computer Engineering and Technology (IOT, CS & BCT)",
+        "Department of Information Technology",
+        "Department of Artificial Intelligence and Data Science",
+        "Department of Chemical Engineering",
+        "Department of Biotechnology",
+        "Department of Computer Applications",
+        "Department of School of Management Studies",
+        "Department of Physics",
+        "Department of Chemistry",
+        "Department of Mathematics",
+        "Department of English",
+        "Library and Information center",
+        "Department of Physical Education"
+    ],
+    "hods": {
+        "Department of Civil Engineering": "Prof. K. Jagannadha Rao (Head)",
+        "Department of Mechanical Engineering": "Dr. R.P. Chowdhary",
+        "Department of Electrical and Electronics Engineering": "Prof. M. Bala Subba Reddy",
+        "Department of Electronics and Communications Engineering": "Dr. K. Vasanth",
+        "Department of Computer Science and Engineering": "Prof. S. China Ramu",
+        "Department of Artificial Intelligence and Machine Learning": "Prof. Y. Ramadevi",
+        "Department of Computer Engineering and Technology (IOT, CS & BCT)": "Prof. Sangeeta Gupta",
+        "Department of Information Technology": "(I/C Head) Prof. M. Venugopala chari",
+        "Department of Artificial Intelligence and Data Science": "Prof. K. Radhika",
+        "Department of Chemical Engineering": "Prof. K. Mukunda Vani",
+        "Department of Biotechnology": "Dr. Y. Rajasri",
+        "Department of Computer Applications": "Dr. B. Indira",
+        "Department of School of Management Studies": "Dr. S. Saraswathi",
+        "Department of Physics": "Prof. B. Sreenivasa Reddy",
+        "Department of Chemistry": "Dr. K. Ramesh",
+        "Department of Mathematics": "Dr. Swatmaram",
+        "Department of English": "Dr. Shagufta Parween",
+        "Library and Information center": "Dr.C.Srikanth Reddy",
+        "Department of Physical Education": "Dr. R.Rajeswari"
+    },
+    "faculty": [
+        {
+            "department": "Mechanical Engineering",
+            "teaching_staff": {
+                "professors": [
+                    {
+                        "name": "Dr. P. Ravinder Reddy",
+                        "position": "Director & Head of R&E Hub"
+                    },
+                    {
+                        "name": "Dr. G. Chandra Mohan Reddy"
+                    },
+                    {
+                        "name": "Dr. P. V. R. Ravindra Reddy",
+                        "position": "Vice-Principal (Administration)"
+                    },
+                    {
+                        "name": "Dr. N. V. Srinivasulu"
+                    },
+                    {
+                        "name": "Dr. P. Prabhakar Reddy",
+                        "position": "Director – Academics"
+                    },
+                    {
+                        "name": "Dr. G. Laxmaiah"
+                    },
+                    {
+                        "name": "Dr. Rakesh Kumar Sharma",
+                        "position": "Adjunct"
+                    }
+                ],
+                "associate_professors": [
+                    {
+                        "name": "Dr. R. P. Chowdary",
+                        "position": "Head"
+                    },
+                    {
+                        "name": "Dr. K. Kishor"
+                    },
+                    {
+                        "name": "Dr. V. V. R. Seshagiri Rao"
+                    },
+                    {
+                        "name": "Dr. S. Solomon Raj"
+                    },
+                    {
+                        "name": "Dr. Md. Aleem Pasha"
+                    }
+                ],
+                "assistant_professors": [
+                    {
+                        "name": "Sri. P. Radha Krishna Prasad"
+                    },
+                    {
+                        "name": "Dr. P. Kiran Kumar"
+                    },
+                    {
+                        "name": "Dr. L. Suresh Kumar"
+                    },
+                    {
+                        "name": "Dr. Y. Nagini"
+                    },
+                    {
+                        "name": "Dr. Ch. Indira Priyadarsini"
+                    },
+                    {
+                        "name": "Dr. B. V. S. Rao"
+                    },
+                    {
+                        "name": "Smt. V. Sandhya"
+                    },
+                    {
+                        "name": "Dr. S. Narasimha Kumar"
+                    },
+                    {
+                        "name": "Dr. N. Janardhan"
+                    },
+                    {
+                        "name": "Smt. N. Jyothirmayi"
+                    },
+                    {
+                        "name": "Sri. V. Jaipal Reddy"
+                    },
+                    {
+                        "name": "Dr. P. Anjani Devi"
+                    },
+                    {
+                        "name": "Dr. P. Rama Lakshmi"
+                    },
+                    {
+                        "name": "Sri. T. N. Aditya"
+                    },
+                    {
+                        "name": "Dr. Ch. Venkata Sushma"
+                    },
+                    {
+                        "name": "Dr. A. Chandrakanth"
+                    },
+                    {
+                        "name": "Sri. K. Gurubrahmam"
+                    },
+                    {
+                        "name": "Sri. D. Ravi"
+                    },
+                    {
+                        "name": "Dr. Rahul"
+                    },
+                    {
+                        "name": "Sri. P. Surendar Reddy"
+                    },
+                    {
+                        "name": "Dr. Y. S. Kannan"
+                    },
+                    {
+                        "name": "Dr. Inturi Vamsi"
+                    },
+                    {
+                        "name": "Dr. Kiran Kumar Amireddy"
+                    },
+                    {
+                        "name": "Dr. Ashutosh Sahu"
+                    },
+                    {
+                        "name": "Dr. Ranjit J. Singh",
+                        "status": "on Study Leave"
+                    },
+                    {
+                        "name": "Ms. Ipsita Mohanty"
+                    },
+                    {
+                        "name": "Smt. D. Sita Madhuri"
+                    },
+                    {
+                        "name": "Smt. K N V Sreedevi"
+                    },
+                    {
+                        "name": "Sri C. Sharath Reddy"
+                    },
+                    {
+                        "name": "Dr. Hari Krishan Yadav"
+                    },
+                    {
+                        "name": "Ms. R. Navneetha"
+                    }
+                ]
+            },
+            "non_teaching_staff": [
+                {
+                    "name": "Mr. G. Krishna Murthy",
+                    "position": "Tech.Grd.I",
+                    "email": "krishnamurthy_ntmech@cbit.ac.in"
+                },
+                {
+                    "name": "Mr. A. Nagaiah",
+                    "position": "Tech.Grd.I",
+                    "email": "nagaiah_ntmech@cbit.ac.in"
+                },
+                {
+                    "name": "Mr. N. Chandra Sekhar",
+                    "position": "Tech.Grd.II",
+                    "email": "nchandrasekhar_ntmech@cbit.ac.in"
+                },
+                {
+                    "name": "Mr. M. Laxmaiah",
+                    "position": "Tech.Grd.II",
+                    "email": "mlaxmaiah_ntmech@cbit.ac.in"
+                },
+                {
+                    "name": "Mr. T. Mallesh",
+                    "position": "Tech.Grd.III",
+                    "email": "tmallesh_ntmech@cbit.ac.in"
+                },
+                {
+                    "name": "Mr. R. Kumar",
+                    "position": "Tech.Grd.III",
+                    "email": "rkumar_ntmech@cbit.ac.in"
+                },
+                {
+                    "name": "Mr. E. Ramchander",
+                    "position": "Tech.Grd.III",
+                    "email": "ramachander_ntmech@cbit.ac.in"
+                },
+                {
+                    "name": "Mr. K. Rajgopal",
+                    "position": "Tech.Grd.III",
+                    "email": "rajgopal_ntmech@cbit.ac.in"
+                },
+                {
+                    "name": "Mr. M. Devender Reddy",
+                    "position": "Tech.Grd.III",
+                    "email": "devender_ntmech@cbit.ac.in"
+                },
+                {
+                    "name": "Mr. A. Srikanth",
+                    "position": "Tech.Grd.III",
+                    "email": "asrikanth_ntmech@cbit.ac.in"
+                },
+                {
+                    "name": "Mr. Vadde Srinivas",
+                    "position": "Tech.Grd.III",
+                    "email": "srinivas_ntmech@cbit.ac.in"
+                },
+                {
+                    "name": "Mr. Vangara Venkatesh",
+                    "position": "Tech.Grd.III",
+                    "email": "venkatesh_ntmech@cbit.ac.in"
+                },
+                {
+                    "name": "Mr. V. Srinivas",
+                    "position": "Tech.Grd.III",
+                    "email": "Srinivasv_ntmech@cbit.ac.in"
+                },
+                {
+                    "name": "Mr. S. Lava Kumar",
+                    "position": "Skilled Assistant",
+                    "email": "lavakumar_ntmech@cbit.ac.in"
+                },
+                {
+                    "name": "Mr. E. Ramesh",
+                    "position": "Skilled Assistant",
+                    "email": "ramesh_ntmech@cbit.ac.in"
+                },
+                {
+                    "name": "Mr. S. Koteswara Rao",
+                    "position": "Skilled Assistant",
+                    "email": "koteswararao_ntmech@cbit.ac.in"
+                },
+                {
+                    "name": "Mr. T. Sadasiva Rao",
+                    "position": "Skilled Assistant",
+                    "email": "sadasivarao_ntmech@cbit.ac.in"
+                },
+                {
+                    "name": "Mr. Joel Johnson Karepally",
+                    "position": "Administrative Executive",
+                    "email": "joeljohnsonk_admnex@cbit.ac.in"
+                },
+                {
+                    "name": "Mr. R. Narsing Rao",
+                    "position": "Spl.Grd.Attender",
+                    "email": "narsingrao828@gmail.com"
+                },
+                {
+                    "name": "Mr. K. Balakrishna",
+                    "position": "Spl.Grd.Attender",
+                    "email": "balakrishnak_attender@cbit.ac.in"
+                },
+                {
+                    "name": "Mr. M. Sammaiah",
+                    "position": "Spl.Grd.Attender",
+                    "email": "sammaiah_attender@cbit.ac.in"
+                },
+                {
+                    "name": "Mr. M. Ramulu",
+                    "position": "Spl.Grd.Attender",
+                    "email": "ramuluk_attender@cbit.ac.in"
+                }
+            ]
+        },
+        {
+            "department": "Civil Engineering",
+            "teaching_staff": {
+                "professors": [
+                    {
+                        "name": "Dr. K. Jagannadha Rao",
+                        "position": "Head and Joint Director – Students Affairs & Progression"
+                    },
+                    {
+                        "name": "Sri. P. Sreenivas Sarma",
+                        "position": "Advisor – Campus Construction activities"
+                    },
+                    {
+                        "name": "Dr. C. Ravi Kumar Reddy"
+                    }
+                ],
+                "associate_professors": [
+                    {
+                        "name": "Dr. N. R. Dakshina Murthy"
+                    },
+                    {
+                        "name": "Dr. A. Balaji Rao"
+                    },
+                    {
+                        "name": "Dr. R. Durga Prasad"
+                    }
+                ],
+                "assistant_professors": [
+                    {
+                        "name": "Sri T. Vasudeva Rao"
+                    },
+                    {
+                        "name": "Smt K. Manasa"
+                    },
+                    {
+                        "name": "Dr. P. Srinivas Reddy"
+                    },
+                    {
+                        "name": "Ms. T. Malleswari Devi"
+                    },
+                    {
+                        "name": "Smt. Aswari Sultana Begum"
+                    },
+                    {
+                        "name": "Sri. E Maheshwar Reddy"
+                    },
+                    {
+                        "name": "Sri. Ramanarayana Sankriti"
+                    },
+                    {
+                        "name": "Smt. N. Lalitha Kumari"
+                    },
+                    {
+                        "name": "Sri. M. Kalyan"
+                    },
+                    {
+                        "name": "Sri. Vishwanath Gopisetty"
+                    },
+                    {
+                        "name": "Dr. T. Chaitanya Srikrishna"
+                    },
+                    {
+                        "name": "Dr. Jnana Ranjan Khuntia"
+                    },
+                    {
+                        "name": "Dr. Srikanth Koniki"
+                    },
+                    {
+                        "name": "Dr. Arshad Hussain Choudhury"
+                    },
+                    {
+                        "name": "Dr. Dudam Bharath Kumar"
+                    },
+                    {
+                        "name": "Dr. Angshuman Das"
+                    },
+                    {
+                        "name": "Dr. Raghava Aditya Bhamidipati"
+                    },
+                    {
+                        "name": "Dr. Kakara Srikanth"
+                    },
+                    {
+                        "name": "Dr. Vishal Singh"
+                    },
+                    {
+                        "name": "Dr. G. Mallikarjuna Rao"
+                    }
+                ]
+            },
+            "non_teaching_staff": [
+                {
+                    "name": "Smt. K. Vasantha Lakshmi",
+                    "position": "Lab Assistant",
+                    "email": "vasanthalaxmi_ntcivil@cbit.ac.in"
+                },
+                {
+                    "name": "Sri.T. Venkateswarlu",
+                    "position": "Assistant Programmer",
+                    "email": "tvenkateswarlu_ntcivil@cbit.ac.in"
+                },
+                {
+                    "name": "Sri K. Balaiah",
+                    "position": "Technician Grade - III",
+                    "email": "balaiah_ntcivil@cbit.ac.in"
+                },
+                {
+                    "name": "Smt. B. Bhagya Lakshmi",
+                    "position": "Technician Grade - III",
+                    "email": "bhagyalakshmi_ntcivil@cbit.ac.in"
+                },
+                {
+                    "name": "Ms.A.Dakshayani",
+                    "position": "Technician Grade - III",
+                    "email": "dakshyani_ntcivil@cbit.ac.in"
+                },
+                {
+                    "name": "Sri. B. Vinay",
+                    "position": "Technician Grade - III",
+                    "email": "bvinay_ntcivil@cbit.ac.in"
+                },
+                {
+                    "name": "Sri. A. Sri Vishnu",
+                    "position": "Technician Grade - III",
+                    "email": "asrivishnu_ntcivil@cbit.ac.in"
+                },
+                {
+                    "name": "Sri. J. Prashanth Kumar",
+                    "position": "Administrative Executive",
+                    "email": "prashanthkumarj_admnex@cbit.ac.in"
+                },
+                {
+                    "name": "Ms. Narala Shivathmika",
+                    "position": "Administrative Executive",
+                    "email": "shivathmikan_admnex@cbit.ac.in"
+                },
+                {
+                    "name": "Mr. M. Shravan Raj",
+                    "position": "Administrative Executive"
+                },
+                {
+                    "name": "Sri P.L.N. Swamy",
+                    "position": "Attender"
+                },
+                {
+                    "name": "Sri B.Yadagiri",
+                    "position": "Attender"
+                },
+                {
+                    "name": "Sri. T. Mallesh",
+                    "position": "Attender"
+                }
+            ]
+        },
+        {
+            "department": "Electrical and Electronics Engineering",
+            "teaching_staff": {
+                "professors": [
+                    {
+                        "name": "Dr. K. Krishna Veni",
+                        "position": "Vice – Principal (Academics)"
+                    },
+                    {
+                        "name": "Dr. P. Venkata Prasad",
+                        "position": "CoE"
+                    },
+                    {
+                        "name": "Dr. G. Suresh Babu"
+                    },
+                    {
+                        "name": "Dr. M. Balasubba Reddy",
+                        "position": "Head"
+                    },
+                    {
+                        "name": "Dr. Umakanta Choudhury",
+                        "position": "Advisor-Innovation & Incubation"
+                    },
+                    {
+                        "name": "Mr. B.J. Hari Charan",
+                        "position": "Adjunct Professor"
+                    }
+                ],
+                "associate_professors": [
+                    {
+                        "name": "Dr. B. Suresh Kumar"
+                    },
+                    {
+                        "name": "Dr. T. Murali Krishna"
+                    },
+                    {
+                        "name": "Dr. P. Kowstubha"
+                    },
+                    {
+                        "name": "Dr. T. Sudhakar babu",
+                        "position": "Associate Director-R & D"
+                    },
+                    {
+                        "name": "Dr. N. Vasantha Gowri"
+                    }
+                ],
+                "assistant_professors": [
+                    {
+                        "name": "Dr. Ch. Venkata Krishna Reddy"
+                    },
+                    {
+                        "name": "Sri I. Pranav"
+                    },
+                    {
+                        "name": "Sri P. Hemeshwar Chary"
+                    },
+                    {
+                        "name": "Sri Ch. Harish"
+                    },
+                    {
+                        "name": "Sri D. Harsha"
+                    },
+                    {
+                        "name": "Sri N. Santosh Kumar"
+                    },
+                    {
+                        "name": "Sri C. Srisailam"
+                    },
+                    {
+                        "name": "Dr. B. Krishna Chaitanya"
+                    },
+                    {
+                        "name": "Dr. P. Vijay Babu"
+                    },
+                    {
+                        "name": "Dr. Madhulika Das"
+                    },
+                    {
+                        "name": "Dr. Yawer Abbas Khan",
+                        "position": "Assistant Director – Academics"
+                    },
+                    {
+                        "name": "Sri D. Sathish"
+                    },
+                    {
+                        "name": "Ms. Dasyam Sushma"
+                    },
+                    {
+                        "name": "Dr. R.Vijay"
+                    },
+                    {
+                        "name": "Dr. T. Sukanth"
+                    },
+                    {
+                        "name": "Mr. Mavuri Sri Suresh"
+                    },
+                    {
+                        "name": "Dr. Mahmood Shaik"
+                    }
+                ]
+            },
+            "non_teaching_staff": [
+                {
+                    "name": "Sri. A. Krishnama Chary",
+                    "position": "Spl Gr. Technician Gr-III",
+                    "email": "krishnamachary_nteee@cbit.ac.in"
+                },
+                {
+                    "name": "Sri. K. Mallesha",
+                    "position": "Spl Gr. Technician Gr-III",
+                    "email": "kmallesh_nteee@cbit.ac.in"
+                },
+                {
+                    "name": "Sri. B.Maheshwar",
+                    "position": "Spl Gr. Technician Gr-III",
+                    "email": "maheshwar_nteee@cbit.ac.in"
+                },
+                {
+                    "name": "Sri. P.Venumadhava Chary",
+                    "position": "Spl Gr. Technician Gr-III",
+                    "email": "venumadhavachary_nteee@cbit.ac.in"
+                },
+                {
+                    "name": "Sri. B.Yadaiah",
+                    "position": "Technician Gr-III",
+                    "email": "byadaiah_nteee@cbit.ac.in"
+                },
+                {
+                    "name": "Sri. V. S. Krishna",
+                    "position": "Technician Gr-III",
+                    "email": "skrishna_nteee@cbit.ac.in"
+                },
+                {
+                    "name": "Sri. S.Srinivas",
+                    "position": "Technician Gr-III",
+                    "email": "srinivas_nteee@cbit.ac.in"
+                },
+                {
+                    "name": "Sri . M. Kishore",
+                    "position": "Technician Gr-III",
+                    "email": "mkishore_nteee@cbit.ac.in"
+                },
+                {
+                    "name": "Smt. T. Samatha",
+                    "position": "Technician Gr-III",
+                    "email": "tsamatha_nteee@cbit.ac.in"
+                },
+                {
+                    "name": "Sri B.Kumar",
+                    "position": "Computer Operator",
+                    "email": "bkumar_co@cbit.ac.in"
+                },
+                {
+                    "name": "Sri C.Sreenivas",
+                    "position": "Spl. Gr. Attender"
+                }
+            ]
+        },
+        {
+            "department": "Electronics and Communications Engineering",
+            "teaching_staff": {
+                "professors": [
+                    {
+                        "name": "Dr. N. V. Koteswara Rao",
+                        "position": "Director – IQAC"
+                    },
+                    {
+                        "name": "Dr. D. Krishna Reddy",
+                        "position": "Director – R&D"
+                    },
+                    {
+                        "name": "Dr. P. Narahari Sastry"
+                    },
+                    {
+                        "name": "Dr. C. Venkata Narasimhulu",
+                        "position": "Principal"
+                    },
+                    {
+                        "name": "Dr. M. Sushanth Babu"
+                    },
+                    {
+                        "name": "Dr. Vivek Singh Kushwah"
+                    },
+                    {
+                        "name": "Dr. A. D. Sarma"
+                    },
+                    {
+                        "name": "Dr. Satyanarayana Katukojwalawala",
+                        "position": "Adjunct"
+                    }
+                ],
+                "associate_professors": [
+                    {
+                        "name": "Dr. A. Supraja Reddy"
+                    },
+                    {
+                        "name": "Dr. Pamulapati Anuradha"
+                    },
+                    {
+                        "name": "Dr. S.Radha"
+                    },
+                    {
+                        "name": "Dr. B. Khaleelu Rahman"
+                    },
+                    {
+                        "name": "Dr. K. Vasanth",
+                        "position": "Head"
+                    },
+                    {
+                        "name": "Dr. A. Vani"
+                    },
+                    {
+                        "name": "Dr. Vinodh Kumar Minchula"
+                    },
+                    {
+                        "name": "Dr. M. L. N. Acharyulu"
+                    },
+                    {
+                        "name": "Dr. M. Bhanu Chandra"
+                    }
+                ],
+                "assistant_professors": [
+                    {
+                        "name": "Sri M. V. Nagabhushanam"
+                    },
+                    {
+                        "name": "Dr. M. Ramana Reddy"
+                    },
+                    {
+                        "name": "Dr. K. S. R. S. Jyothsna"
+                    },
+                    {
+                        "name": "Sri A. Krishna Kumar"
+                    },
+                    {
+                        "name": "Sri N. Jagan Mohan Reddy"
+                    },
+                    {
+                        "name": "Smt. A. Satyavathi"
+                    },
+                    {
+                        "name": "Dr. N. Dhanalakshmi"
+                    },
+                    {
+                        "name": "Dr. P. Sathish"
+                    },
+                    {
+                        "name": "Dr. T. Aravinda Babu"
+                    },
+                    {
+                        "name": "Dr. B. Neeraja"
+                    },
+                    {
+                        "name": "Dr. K. Suman"
+                    },
+                    {
+                        "name": "Dr. G. Mallikarjuna Rao"
+                    },
+                    {
+                        "name": "Sri T. Sridhar"
+                    },
+                    {
+                        "name": "Sri P. Chandra Sekhar"
+                    },
+                    {
+                        "name": "Dr. G. V. Pradeep Kumar"
+                    },
+                    {
+                        "name": "Dr. Mohd. Ziauddin Jahangir"
+                    },
+                    {
+                        "name": "Dr. D. Nagadevi"
+                    },
+                    {
+                        "name": "Sri E. Chandra Sekhar"
+                    },
+                    {
+                        "name": "Dr. Sai Krishna Kondoju"
+                    },
+                    {
+                        "name": "Dr. Ch. Navitha"
+                    },
+                    {
+                        "name": "Sri P. Ranjith"
+                    },
+                    {
+                        "name": "Dr. S. Siva Priyanka"
+                    },
+                    {
+                        "name": "Dr. Bhasker Dappuri"
+                    },
+                    {
+                        "name": "Dr. D.Srikar"
+                    },
+                    {
+                        "name": "Dr. D. Sony"
+                    },
+                    {
+                        "name": "Smt. Ghata Chauhan"
+                    },
+                    {
+                        "name": "Dr. M. Venkata Sireesha"
+                    },
+                    {
+                        "name": "Dr. M Raj Kumar Naik"
+                    }
+                ]
+            },
+            "non_teaching_staff": [
+                {
+                    "name": "Mr. K. Vijaya Bhaskar Reddy",
+                    "qualifications": "ITI , DECE",
+                    "position": "Lab Assistant",
+                    "email": "vijayabhaskar_ntece@cbit.ac.in"
+                },
+                {
+                    "name": "Mr. V. Siva Ramaiah",
+                    "qualifications": "DECE , B.Tech",
+                    "position": "Lab Assistant",
+                    "email": "shivaramaiah_ntece@cbit.ac.in"
+                },
+                {
+                    "name": "Mr. S. Chandra Reddy",
+                    "qualifications": "DECE",
+                    "position": "Spl.Technician Grade –I",
+                    "email": "chandrareddy_ntece@cbit.ac.in"
+                },
+                {
+                    "name": "Mr. N. Seshagiri Rao",
+                    "qualifications": "I.T.I., B.A",
+                    "position": "Technician Grade – I",
+                    "email": "seshagirirao_ntece@cbit.ac.in"
+                },
+                {
+                    "name": "Mr. E. Yadagiri",
+                    "qualifications": "I.T.I.",
+                    "position": "Technician Grade – I",
+                    "email": "yadagiri_ntece@cbit.ac.in"
+                },
+                {
+                    "name": "Mr. M. Krishna",
+                    "qualifications": "D.E.C.E., B.Tech",
+                    "position": "Technician Grade –II",
+                    "email": "mkrishna_ntece@cbit.ac.in"
+                },
+                {
+                    "name": "Mr. V. Yadhagiri",
+                    "qualifications": "B.Tech, M.Tech (CSE)",
+                    "position": "Programmer",
+                    "email": "vyadagiri_prog@cbit.ac.in"
+                },
+                {
+                    "name": "Mr. G. Sanjeeva",
+                    "qualifications": "Diploma(CSE)",
+                    "position": "Assistant Programmer",
+                    "email": "gsanjeeva_asstprog@cbit.ac.in"
+                },
+                {
+                    "name": "Smt. B Padmavathi",
+                    "qualifications": "B.Sc.(Electronics), M.Sc.(Maths), MTech (CSE)",
+                    "position": "Spl. Gr. Computer Operator",
+                    "email": "bpadmavathi_co@cbit.ac.in"
+                },
+                {
+                    "name": "Mr. N .Krishnaiah",
+                    "qualifications": "ITI",
+                    "position": "Skilled Assistant",
+                    "email": "nkrishnaiah_ntece@cbit.ac.in"
+                },
+                {
+                    "name": "Mr. V. Shiva Kumar",
+                    "qualifications": "I.T.I, B.Com",
+                    "position": "Skilled Assistant",
+                    "email": "shivakumarv_ntece@cbit.ac.in"
+                },
+                {
+                    "name": "Smt. M.P. Radha",
+                    "qualifications": "B.Tech.",
+                    "position": "Technician Grade –III",
+                    "email": "mpradha_ntece@cbit.ac.in"
+                },
+                {
+                    "name": "Mr. V. Chandrashekar Yadav",
+                    "qualifications": "DAEIE",
+                    "position": "Technician Grade –III",
+                    "email": "chandrashekar_ntece@cbit.ac.in"
+                },
+                {
+                    "name": "Mr. G. Surender",
+                    "qualifications": "Diploma(ECE)",
+                    "position": "Technician Grade –III",
+                    "email": "gandurisuri@gmail.com"
+                },
+                {
+                    "name": "Sri. K. Sridhar Babu",
+                    "qualifications": "DEIE, B.Tech(ECE)",
+                    "position": "Technician Grade –III",
+                    "email": "ksridhar_ntece@cbit.ac.in"
+                },
+                {
+                    "name": "Mr. Mohammed Kursheed",
+                    "position": "Junior Research Fellow (DST Project)"
+                },
+                {
+                    "name": "Dr. K. Chandrasekar Reddy",
+                    "position": "Project Associate-II (DST Project)"
+                },
+                {
+                    "name": "Sri. K. Madhukar",
+                    "position": "Project Associate-I (MeitY-C2S Project)"
+                },
+                {
+                    "name": "Ms. P. Shirisha",
+                    "position": "Project Associate-I (MeitY-C2S Project)"
+                },
+                {
+                    "name": "Ms. P. Charishma",
+                    "position": "Project Associate-I (MeitY-C2S Project)"
+                },
+                {
+                    "name": "Smt. A. Rajini",
+                    "qualifications": "SSC",
+                    "position": "Spl.Gr.Attender",
+                    "email": "thotak30@gmail.com"
+                },
+                {
+                    "name": "Mr. T. Rohith Yadav",
+                    "qualifications": "SSC",
+                    "position": "Attender"
+                }
+            ]
+        },
+        {
+            "department": "Computer Science and Engineering",
+            "teaching_staff": {
+                "professors": [
+                    {
+                        "name": "Dr. M. Swamy Das"
+                    },
+                    {
+                        "name": "Dr. S. China Ramu",
+                        "position": "Head"
+                    },
+                    {
+                        "name": "Dr. Dugyala Raman"
+                    },
+                    {
+                        "name": "Dr. Sangeeta Gupta",
+                        "note": "Deputed to CET"
+                    },
+                    {
+                        "name": "Dr. R. Ravinder Reddy"
+                    },
+                    {
+                        "name": "Dr. Bruhadeshwar Bezawada",
+                        "position": "Adjunct"
+                    }
+                ],
+                "associate_professors": [
+                    {
+                        "name": "Dr. T. Sridevi"
+                    },
+                    {
+                        "name": "Dr. V. Padmavathi"
+                    },
+                    {
+                        "name": "Dr. E. Padmalatha"
+                    },
+                    {
+                        "name": "Dr. Kolla Morarjee"
+                    },
+                    {
+                        "name": "Dr. Ravi Uyyala"
+                    },
+                    {
+                        "name": "Dr. G. Vanita"
+                    },
+                    {
+                        "name": "Dr. G. KiranKumar"
+                    },
+                    {
+                        "name": "Dr. Uma Maheswari V"
+                    }
+                ],
+                "assistant_professors": [
+                    {
+                        "name": "Smt I. Srujana"
+                    },
+                    {
+                        "name": "Smt. Ch. Vijaya Lakshmi"
+                    },
+                    {
+                        "name": "Smt. A. Sangeetha"
+                    },
+                    {
+                        "name": "Sri B. Ramadasu"
+                    },
+                    {
+                        "name": "Smt. E. Kalpana"
+                    },
+                    {
+                        "name": "Dr. T. Suvarna Kumari"
+                    },
+                    {
+                        "name": "Dr. K. Spandana"
+                    },
+                    {
+                        "name": "Smt. Ch. Madhavi Sudha"
+                    },
+                    {
+                        "name": "Sri K. Kiran Prakash"
+                    },
+                    {
+                        "name": "Dr. B. Ramana Reddy"
+                    },
+                    {
+                        "name": "Smt. S. Durga Devi"
+                    },
+                    {
+                        "name": "Sri A. Mohan"
+                    },
+                    {
+                        "name": "Smt. E. Swathi"
+                    },
+                    {
+                        "name": "Smt. Isha Padhy"
+                    },
+                    {
+                        "name": "Smt. G. Shanmukhi Rama"
+                    },
+                    {
+                        "name": "Dr. M. Venkata Krishna Reddy"
+                    },
+                    {
+                        "name": "Dr. Anila Macharla"
+                    },
+                    {
+                        "name": "Sri J. Shiva Sai"
+                    },
+                    {
+                        "name": "Ms. B. Deepthi"
+                    },
+                    {
+                        "name": "Mr. Venkata Siva Rao Alapati"
+                    }
+                ]
+            },
+            "non_teaching_staff": [
+                {
+                    "name": "M. NAGA JYOTHI",
+                    "position": "Programmer",
+                    "email": "mnagajyothi_prog@cbit.ac.in"
+                },
+                {
+                    "name": "B. SANGEEV KUMAR",
+                    "position": "Programmer",
+                    "email": "bsangeevkumar_prog@cbit.ac.in"
+                },
+                {
+                    "name": "P. RAMESH BABU",
+                    "position": "Programmer",
+                    "email": "prameshbabu_prog@cbit.ac.in"
+                },
+                {
+                    "name": "J. RAMESH BABU",
+                    "position": "Asst. Programmer",
+                    "email": "jrameshbabu_asstprog@cbit.ac.in"
+                },
+                {
+                    "name": "G. KOTIBABU",
+                    "position": "Spl Gr. Computer Operator",
+                    "email": "gkotibabu_co@cbit.ac.in"
+                },
+                {
+                    "name": "J. RAJESH",
+                    "position": "Computer Operator",
+                    "email": "jrajesh_co@cbit.ac.in"
+                },
+                {
+                    "name": "Donthi Sadhana",
+                    "position": "Administrative Executive",
+                    "email": "sadhanad_admnex@cbit.ac.in"
+                },
+                {
+                    "name": "Ganji Shiva Kumar",
+                    "position": "System Administrator"
+                },
+                {
+                    "name": "Chittaboina Raju",
+                    "position": "Computer Operator"
+                },
+                {
+                    "name": "U. Poorna Chandar",
+                    "position": "Computer Operator"
+                },
+                {
+                    "name": "Syed Moulali",
+                    "position": "Spl. Gr. Attender"
+                },
+                {
+                    "name": "Andaalu",
+                    "position": "Spl. Gr. Attender"
+                }
+            ]
+        },
+        {
+            "department": "Artificial Intelligence and Machine Learning",
+            "teaching_staff": {
+                "professors": [
+                    {
+                        "name": "Dr. Y. Ramadevi",
+                        "position": "Head"
+                    },
+                    {
+                        "name": "Dr. Prabhakar Kandukuri"
+                    },
+                    {
+                        "name": "Dr. Damodar Reddy Edla",
+                        "position": "Adjunct"
+                    }
+                ],
+                "associate_professors": [
+                    {
+                        "name": "Dr. Y. C. A. Padmanabha Reddy"
+                    },
+                    {
+                        "name": "Dr. Garlapati Narayana"
+                    }
+                ],
+                "assistant_professors": [
+                    {
+                        "name": "Smt. K. Mary Sudha Rani"
+                    },
+                    {
+                        "name": "Sri B. Sateesh"
+                    },
+                    {
+                        "name": "Smt. G. Kavita"
+                    },
+                    {
+                        "name": "Smt. D. Naga Jyothi"
+                    },
+                    {
+                        "name": "Mr. Panigrahi Srikanth"
+                    },
+                    {
+                        "name": "Ms. Ramya Thavva"
+                    },
+                    {
+                        "name": "Ms. Dusa Prachi Pramod"
+                    },
+                    {
+                        "name": "Ms. Atufa Javeed"
+                    },
+                    {
+                        "name": "Ms. Falak Naaz"
+                    },
+                    {
+                        "name": "Mr. Panduraju Pagidimalla"
+                    },
+                    {
+                        "name": "Mr. N.V. Krishna Rao"
+                    },
+                    {
+                        "name": "Mr. Rathod Sai Vamshi Krishna"
+                    }
+                ]
+            },
+            "non_teaching_staff": [
+                {
+                    "name": "R. Anand Raj",
+                    "position": "Asst. Programmer",
+                    "email": "ranandraj_asstprog@cbit.ac.in"
+                },
+                {
+                    "name": "Mr.Telukanti Thirupathi",
+                    "position": "Asst. Programmer (contract)"
+                },
+                {
+                    "name": "N. D. Ramesh",
+                    "position": "DEO as Jr. Assistant",
+                    "email": "ndramesh_deo@cbit.ac.in"
+                },
+                {
+                    "name": "Mr. M. Lokesh",
+                    "position": "Computer Operator",
+                    "email": "lokeshm_co@cbit.ac.in"
+                },
+                {
+                    "name": "Mrs. B. Shirisha",
+                    "position": "Computer Operator"
+                },
+                {
+                    "name": "Mr. D. Laxman",
+                    "position": "Attender",
+                    "email": "laxmand_attender@cbit.ac.in"
+                }
+            ]
+        },
+        {
+            "department": "Computer Engineering and Technology (IOT, CS & BCT)",
+            "teaching_staff": {
+                "professors": [
+                    {
+                        "name": "Dr. N. Ramadevi"
+                    },
+                    {
+                        "name": "Dr. M. Subramaniam"
+                    },
+                    {
+                        "name": "Dr. Sangeeta Gupta",
+                        "position": "Head",
+                        "note": "Deputed from CSE"
+                    }
+                ],
+                "associate_professors": [
+                    {
+                        "name": "Dr. Singamaneni Kranthi Kumar"
+                    }
+                ],
+                "assistant_professors": [
+                    {
+                        "name": "Smt. P. Vimala Manohara Ruth"
+                    },
+                    {
+                        "name": "Smt. Kavita Agarwal"
+                    },
+                    {
+                        "name": "Smt. G. Mamatha"
+                    },
+                    {
+                        "name": "Dr. G. Jaya Rao"
+                    },
+                    {
+                        "name": "Smt. N. Sujata Gupta"
+                    },
+                    {
+                        "name": "Mrs. Ch. Srilakshmi"
+                    },
+                    {
+                        "name": "Mr. Manish Kumar"
+                    }
+                ]
+            },
+            "non_teaching_staff": [
+                {
+                    "name": "S.RAJESH",
+                    "position": "Computer Operator",
+                    "email": "rajeshsuddoju_co@cbit.ac.in"
+                },
+                {
+                    "name": "Ms. MD. SHABANA",
+                    "position": "Administrative Executive",
+                    "email": "shabanamd_admnex@cbit.ac.in"
+                }
+            ]
+        },
+        {
+            "department": "Information Technology",
+            "teaching_staff": {
+                "professors": [
+                    {
+                        "name": "Dr. P. Suresh",
+                        "position": "Director-AEC & CoE"
+                    },
+                    {
+                        "name": "Dr. Kolikipogu Ramakrishna",
+                        "position": "Head – CHNMS"
+                    },
+                    {
+                        "name": "Dr. M. Venu Gopalachari",
+                        "position": "I/c Head"
+                    },
+                    {
+                        "name": "Dr. V. Sreekumar",
+                        "position": "Adjunct Professor"
+                    }
+                ],
+                "associate_professors": [
+                    {
+                        "name": "Dr. R. M. Krishna Sureddi"
+                    },
+                    {
+                        "name": "Dr. B. Veera Jyothi"
+                    },
+                    {
+                        "name": "Dr. T. Satyanarayana Murthy"
+                    },
+                    {
+                        "name": "Dr. P. Ramesh Babu"
+                    },
+                    {
+                        "name": "Dr. Ramu Kuchipudi"
+                    },
+                    {
+                        "name": "Dr. N. Sudhakar Yadav"
+                    },
+                    {
+                        "name": "Dr. Sagar Gujjunoori"
+                    },
+                    {
+                        "name": "Dr. V. Prashanthi"
+                    }
+                ],
+                "assistant_professors": [
+                    {
+                        "name": "Dr. D. Jayaram"
+                    },
+                    {
+                        "name": "Dr. K. Sugamya"
+                    },
+                    {
+                        "name": "Dr. A. Sirisha"
+                    },
+                    {
+                        "name": "Smt. E. Ramalakshmi"
+                    },
+                    {
+                        "name": "Dr. T. Prathima"
+                    },
+                    {
+                        "name": "Smt. K. Swathi"
+                    },
+                    {
+                        "name": "Sri V. Santhosh"
+                    },
+                    {
+                        "name": "Sri K. Gangadhar Rao"
+                    },
+                    {
+                        "name": "Sri U. Sai Ram"
+                    },
+                    {
+                        "name": "Dr. B. Swathi Sowmya"
+                    },
+                    {
+                        "name": "Sri R. Govardhan Reddy"
+                    },
+                    {
+                        "name": "Sri Rudroju Sai Venkat"
+                    },
+                    {
+                        "name": "Sri G. Srikanth"
+                    },
+                    {
+                        "name": "Smt. A. Srilakshmi"
+                    },
+                    {
+                        "name": "Sri N. Shiva Kumar"
+                    },
+                    {
+                        "name": "Ms. P. Kiranmaie"
+                    },
+                    {
+                        "name": "Sri. B. Harish Goud"
+                    },
+                    {
+                        "name": "Ms. T. Madhuri"
+                    },
+                    {
+                        "name": "Dr. K. Hepshiba Vijaya Kumari"
+                    },
+                    {
+                        "name": "Dr. Pragati Priyadarshinee"
+                    },
+                    {
+                        "name": "Mr. Vaskula Srikanth"
+                    }
+                ]
+            },
+            "non_teaching_staff": [
+                {
+                    "name": "Smt.K.Madhavi",
+                    "position": "Spl-IA Programmer",
+                    "email": "kmadhavi_prog@cbit.ac.in"
+                },
+                {
+                    "name": "Smt.B. Kavitha",
+                    "position": "Programmer",
+                    "email": "bkavitha_prog@cbit.ac.in"
+                },
+                {
+                    "name": "Mr. Y. Chandra Sekhar",
+                    "position": "Asst. Programmer",
+                    "email": "ychandrasekhar_asstprog@cbit.ac.in"
+                },
+                {
+                    "name": "Smt. Y. Lakshmi Saroja",
+                    "position": "Administrative Executive",
+                    "email": "lakshmisarojay_admnex@cbit.ac.in"
+                },
+                {
+                    "name": "Mrs. P. Jeevani",
+                    "position": "Administrative Executive"
+                },
+                {
+                    "name": "Mr. Mallela Kishore",
+                    "position": "Computer Operator",
+                    "email": "mallelakishore_co@cbit.ac.in"
+                },
+                {
+                    "name": "Mr. Shaik Jani Bhasha",
+                    "position": "Computer Operator"
+                },
+                {
+                    "name": "Mr. Jinukula Madhu",
+                    "position": "Computer Operator"
+                },
+                {
+                    "name": "Smt. Uma Rani",
+                    "position": "Attender",
+                    "email": "umarani_attendar@cbit.ac.in"
+                }
+            ]
+        },
+        {
+            "department": "Artificial Intelligence and Data Science",
+            "teaching_staff": {
+                "professors": [
+                    {
+                        "name": "Dr. K. Radhika",
+                        "position": "Head"
+                    },
+                    {
+                        "name": "Dr. R. Madana Mohana",
+                        "position": "Associate Director-IQAC"
+                    },
+                    {
+                        "name": "Dr. Nitul Dutta"
+                    }
+                ],
+                "associate_professors": [
+                    {
+                        "name": "Dr. D. Lakshmi Srinivasa Reddy"
+                    },
+                    {
+                        "name": "Dr. Kadiyala Ramana"
+                    },
+                    {
+                        "name": "Dr. Pulipati Srilatha"
+                    },
+                    {
+                        "name": "Dr. Srinivasarao Madala"
+                    }
+                ],
+                "assistant_professors": [
+                    {
+                        "name": "Dr. T. Satya Kiranmai"
+                    },
+                    {
+                        "name": "Smt. V. Krishna Aravinda"
+                    },
+                    {
+                        "name": "Dr. S. Shobarani"
+                    },
+                    {
+                        "name": "Dr. Sheena Mohammed"
+                    },
+                    {
+                        "name": "Mrs. Swathi Tejah Yalla"
+                    },
+                    {
+                        "name": "Ms. Kaneez Fatima"
+                    },
+                    {
+                        "name": "Ms. Anjum Nabi Sheikh"
+                    },
+                    {
+                        "name": "Mrs. Batta Saranya"
+                    },
+                    {
+                        "name": "Mr. Naveen Raja S M"
+                    },
+                    {
+                        "name": "Ms. Talla Sai Sree"
+                    },
+                    {
+                        "name": "Ms. V. Vasuki Rohini Devi"
+                    },
+                    {
+                        "name": "Mr. Pavan Kumar Singhal"
+                    },
+                    {
+                        "name": "Ms. Yenigalla Pallavi"
+                    }
+                ]
+            },
+            "non_teaching_staff": [
+                {
+                    "name": "Smt.T.Vijaya",
+                    "position": "Computer Operator",
+                    "email": "tvijaya_co@cbit.ac.in"
+                },
+                {
+                    "name": "Mr. Mohammed Samiullah Khan",
+                    "position": "Computer operator",
+                    "email": "samiullahkhanmd_co@cbit.ac.in"
+                },
+                {
+                    "name": "Mr.Srikanth Vemula",
+                    "position": "Administrative Executive",
+                    "email": "srikanthvemula_admnex@cbit.ac.in"
+                },
+                {
+                    "name": "Mr. Afsar",
+                    "position": "Attender",
+                    "email": "skafsar_attendar@cbit.ac.in"
+                }
+            ]
+        },
+        {
+            "department": "Chemical Engineering",
+            "teaching_staff": {
+                "professors": [
+                    {
+                        "name": "Dr. M. Mukunda Vani",
+                        "position": "Head"
+                    },
+                    {
+                        "name": "Dr. Ravi Gujjula",
+                        "position": "Adjunct"
+                    }
+                ],
+                "associate_professors": [
+                    {
+                        "name": "Dr. P. V. Naga Prapurna"
+                    },
+                    {
+                        "name": "Dr. N. L. N. Reddy",
+                        "position": "Advisor – Career Development Center"
+                    },
+                    {
+                        "name": "Dr. Mekala Mallaiah"
+                    }
+                ],
+                "assistant_professors": [
+                    {
+                        "name": "Sri I. Balakrishna"
+                    },
+                    {
+                        "name": "Dr. P. Madhuri"
+                    },
+                    {
+                        "name": "Dr. K. Prasad Babu"
+                    },
+                    {
+                        "name": "Dr. B. Ganesh"
+                    },
+                    {
+                        "name": "Dr. Prasanna Rani R"
+                    },
+                    {
+                        "name": "Dr. Venkata Sesha Praveen Bulusu"
+                    }
+                ]
+            },
+            "non_teaching_staff": [
+                {
+                    "name": "Sri M. Laxmana Chary",
+                    "position": "Technician Grade - I",
+                    "email": "laxmanachary_ntchem@cbit.ac.in"
+                },
+                {
+                    "name": "Sri V. Sanjeeva Reddy",
+                    "position": "Technician Grade - III",
+                    "email": "vsanjeevareddy_ntchem@cbit.ac.in"
+                },
+                {
+                    "name": "Mr. N. Raj Kumar",
+                    "position": "Administrative Executive"
+                },
+                {
+                    "name": "Mrs. Sandhya Palaparthi",
+                    "position": "Administrative Executive"
+                },
+                {
+                    "name": "Mr. G. Raju",
+                    "position": "Spl. Gr. Attender"
+                }
+            ]
+        },
+        {
+            "department": "Biotechnology",
+            "teaching_staff": {
+                "professors": [
+                    {
+                        "name": "Dr. Ashoutosh Panday"
+                    },
+                    {
+                        "name": "Dr. Sandhya Kumaraswamy",
+                        "position": "Adjunct"
+                    }
+                ],
+                "associate_professors": [
+                    {
+                        "name": "Dr. V. Aruna"
+                    },
+                    {
+                        "name": "Dr. G. Vijaya Laxmi"
+                    },
+                    {
+                        "name": "Dr. Yadavalli Rajasri",
+                        "position": "Head"
+                    }
+                ],
+                "assistant_professors": [
+                    {
+                        "name": "Dr. C. Obul Reddy"
+                    },
+                    {
+                        "name": "Dr. S. Sumithra"
+                    },
+                    {
+                        "name": "Dr. Bishwambhar Mishra"
+                    },
+                    {
+                        "name": "Dr. C. Nagendranatha Reddy",
+                        "position": "Assistant Director-Student Affairs and Progression"
+                    },
+                    {
+                        "name": "Dr. Dharmalingam K"
+                    },
+                    {
+                        "name": "Dr. B. Sumithra"
+                    },
+                    {
+                        "name": "Dr. Kiran Yellappa Vajanthri"
+                    },
+                    {
+                        "name": "Dr. Sanjeeb Kumar Mandal"
+                    }
+                ]
+            },
+            "non_teaching_staff": [
+                {
+                    "name": "Dr. D. Madhavi latha",
+                    "position": "Technician Gr-II",
+                    "email": "madhavilatha_ntbiotech@cbit.ac.in"
+                },
+                {
+                    "name": "D.Mahboob Basha",
+                    "position": "Technician Gr-II",
+                    "email": "mahaboobbasha_ntbiotech@cbit.ac.in"
+                },
+                {
+                    "name": "S.Kavitha",
+                    "position": "Technician Gr-III",
+                    "email": "skavitha_ntbiotech@cbit.ac.in"
+                },
+                {
+                    "name": "Shaik Amir",
+                    "position": "Spl.Gr.skilled assistant",
+                    "email": "shaikamir_ntbiotech@cbit.ac.in"
+                },
+                {
+                    "name": "B.Sekhar",
+                    "position": "Computer operator",
+                    "email": "bsekhar_co@cbit.ac.in"
+                },
+                {
+                    "name": "E. Ilesh",
+                    "position": "Attender"
+                }
+            ]
+        },
+        {
+            "department": "Computer Applications",
+            "teaching_staff": {
+                "associate_professors": [
+                    {
+                        "name": "Dr. B. Indira",
+                        "position": "Head"
+                    }
+                ],
+                "assistant_professors": [
+                    {
+                        "name": "Dr. G. N. R. Prasad"
+                    },
+                    {
+                        "name": "Dr. D. Jayaram",
+                        "note": "Deputed to IT"
+                    },
+                    {
+                        "name": "Dr. M. Ramchander"
+                    },
+                    {
+                        "name": "Sri P. Krishna Prasad"
+                    },
+                    {
+                        "name": "Sri B. Srinivas S. P. Kumar"
+                    },
+                    {
+                        "name": "Mr. Rambabu Potabattula"
+                    }
+                ]
+            },
+            "non_teaching_staff": "NA"
+        },
+        {
+            "department": "School of Management Studies",
+            "teaching_staff": {
+                "professors": [
+                    {
+                        "name": "Dr. B. Neeraja"
+                    }
+                ],
+                "associate_professors": [
+                    {
+                        "name": "Dr. S. Saraswathi",
+                        "position": "Head"
+                    },
+                    {
+                        "name": "Dr. T. S. Poorna Chandrika"
+                    },
+                    {
+                        "name": "Dr. B.V. Jayanthi"
+                    }
+                ],
+                "assistant_professors": [
+                    {
+                        "name": "Dr. B. Lavanya"
+                    },
+                    {
+                        "name": "Dr. P. Vara Prasad Goud"
+                    },
+                    {
+                        "name": "Smt. J. Mounika Reddy"
+                    },
+                    {
+                        "name": "Dr. K. Sowmya"
+                    },
+                    {
+                        "name": "Dr. T. Venkata Ramana"
+                    },
+                    {
+                        "name": "Dr. Rakhee Renapurkar"
+                    },
+                    {
+                        "name": "Dr. Parmeshwari"
+                    },
+                    {
+                        "name": "Dr. K. Bhagya Lakshmi"
+                    },
+                    {
+                        "name": "Dr. S. Tulasi Ram"
+                    },
+                    {
+                        "name": "Smt. M. Sangeetha"
+                    },
+                    {
+                        "name": "Sri. V. Balaji Kesava Rao"
+                    },
+                    {
+                        "name": "Dr. Ramesh Muthangi"
+                    },
+                    {
+                        "name": "Dr. Yesubabu Konga"
+                    }
+                ]
+            },
+            "non_teaching_staff": [
+                {
+                    "name": "M Vijaya Chandra Rao",
+                    "position": "Special Grade Record Assistant",
+                    "email": "vijayachandrarao_ntsms@cbit.ac.in"
+                }
+            ]
+        },
+        {
+            "department": "Physics",
+            "teaching_staff": {
+                "professors": [
+                    {
+                        "name": "Dr. B. Linga Reddy",
+                        "position": "Director -Students Affairs & Progression"
+                    },
+                    {
+                        "name": "Dr. B. Sreenivasa Reddy",
+                        "position": "Head"
+                    }
+                ],
+                "associate_professors": [
+                    {
+                        "name": "Dr. K. Vinaya Kumar Reddy"
+                    }
+                ],
+                "assistant_professors": [
+                    {
+                        "name": "Dr. Y. Srinivasa Reddy"
+                    },
+                    {
+                        "name": "Dr. G. Nataraju"
+                    },
+                    {
+                        "name": "Dr. K. Raja Gopal"
+                    },
+                    {
+                        "name": "Dr. M. Subhadra"
+                    },
+                    {
+                        "name": "Dr. S. Shravan Kumar Reddy"
+                    },
+                    {
+                        "name": "Dr. S. Shanmukharao Samatham"
+                    },
+                    {
+                        "name": "Dr. A. Santhosh Kumar"
+                    },
+                    {
+                        "name": "Dr. B. M. Pratima"
+                    },
+                    {
+                        "name": "Dr. Madunuri Chandra Sekhar"
+                    },
+                    {
+                        "name": "Dr. Bunty Rani Roy"
+                    }
+                ]
+            },
+            "non_teaching_staff": [
+                {
+                    "name": "S . Narsimha Reddy",
+                    "position": "Spl Gr- lab Technician",
+                    "email": "snarasimhareddy_ntphysics@cbit.ac.in"
+                },
+                {
+                    "name": "S. Siva Kumar",
+                    "position": "Technician Gr-1",
+                    "email": "ssivakumar_ntphysics@cbit.ac.in"
+                },
+                {
+                    "name": "M Malathi Latha",
+                    "position": "Administrative Executive",
+                    "email": "malathilatham_admnex@cbit.ac.in"
+                },
+                {
+                    "name": "Mr. Ravindra Chary V",
+                    "position": "Lab Technician Grade - III (Contract)"
+                }
+            ]
+        },
+        {
+            "department": "Chemistry",
+            "teaching_staff": {
+                "professors": [
+                    {
+                        "name": "Dr. K. Laxmi"
+                    }
+                ],
+                "associate_professors": [
+                    {
+                        "name": "Dr. D. Saritha"
+                    },
+                    {
+                        "name": "Dr. G. Venkata Ramesh"
+                    }
+                ],
+                "assistant_professors": [
+                    {
+                        "name": "Dr. S. Shylaja"
+                    },
+                    {
+                        "name": "Dr. K. Ramesh",
+                        "position": "Head"
+                    },
+                    {
+                        "name": "Dr. M. Mamatha"
+                    },
+                    {
+                        "name": "Dr. P. Murali Krishna"
+                    },
+                    {
+                        "name": "Dr. M. Rama Devi"
+                    },
+                    {
+                        "name": "Dr. N. Mahendar Reddy"
+                    },
+                    {
+                        "name": "Dr. T. Venkata Surendra"
+                    },
+                    {
+                        "name": "Dr. Ganji Saidulu"
+                    },
+                    {
+                        "name": "Dr. Md. Atif Qaiyum"
+                    }
+                ]
+            },
+            "non_teaching_staff": [
+                {
+                    "name": "G. Mahender Reddy",
+                    "position": "Technician Grade-III",
+                    "email": "Mahenderreddy_ntchm@cbit.ac.in"
+                },
+                {
+                    "name": "B.Santhi Jayakar",
+                    "position": "Technician Grade-III",
+                    "email": "santhijayakar@gmail.com"
+                },
+                {
+                    "name": "G. Ravi Kumar",
+                    "position": "Technician Grade-III",
+                    "email": "gangiravikumar@gmail.com"
+                },
+                {
+                    "name": "A.Hari Babu",
+                    "position": "Technician Grade-III",
+                    "email": "haribabusvr88@gmail.com"
+                },
+                {
+                    "name": "Mr. P. Ravi",
+                    "position": "Lab Technician Grade - III (Contract)"
+                },
+                {
+                    "name": "B.Venkataiah",
+                    "position": "Record Assistant Special Grade"
+                }
+            ]
+        },
+        {
+            "department": "Mathematics",
+            "teaching_staff": {
+                "professors": [
+                    {
+                        "name": "Dr. M. Ganeshwar Rao"
+                    }
+                ],
+                "associate_professors": [
+                    {
+                        "name": "Dr. Swatmaram",
+                        "position": "Head"
+                    }
+                ],
+                "assistant_professors": [
+                    {
+                        "name": "Dr. G. Narsimlu"
+                    },
+                    {
+                        "name": "Dr. B. R. Sreedhar"
+                    },
+                    {
+                        "name": "Dr. P. Suresh"
+                    },
+                    {
+                        "name": "Dr. G. Deepa"
+                    },
+                    {
+                        "name": "Sri M. Amarnath"
+                    },
+                    {
+                        "name": "Dr. K. Sharada"
+                    },
+                    {
+                        "name": "Dr. Mamta Thakur"
+                    },
+                    {
+                        "name": "Dr. A. Padma Reddy"
+                    },
+                    {
+                        "name": "Dr. Palle Kiran"
+                    },
+                    {
+                        "name": "Dr. Macha Madhu"
+                    },
+                    {
+                        "name": "Dr. V. Sree Ramani"
+                    },
+                    {
+                        "name": "Dr. Lakshmi Sireesha"
+                    },
+                    {
+                        "name": "Dr. M. Santoshi Kumari"
+                    },
+                    {
+                        "name": "Dr. V. Omeshwar Reddy"
+                    },
+                    {
+                        "name": "Mr. Motapothula Tirupathi Rao"
+                    }
+                ]
+            },
+            "non_teaching_staff": "NA"
+        },
+        {
+            "department": "English",
+            "teaching_staff": {
+                "assistant_professors": [
+                    {
+                        "name": "Dr. A. Vijaya Lakshmi"
+                    },
+                    {
+                        "name": "Sri. Srinivasulu Andoju"
+                    },
+                    {
+                        "name": "Dr. Shagufta Parween",
+                        "position": "Head"
+                    },
+                    {
+                        "name": "Dr. Shirisha Deshpande"
+                    },
+                    {
+                        "name": "Sri. Vare Laxman"
+                    },
+                    {
+                        "name": "Dr. Nandigama Madhu"
+                    },
+                    {
+                        "name": "Dr. Md. Sarfaraj"
+                    },
+                    {
+                        "name": "Dr. Gayathri Raparthi",
+                        "note": "Part Time"
+                    },
+                    {
+                        "name": "Mrs. Roshan Jameer Md",
+                        "note": "Part Time"
+                    },
+                    {
+                        "name": "Dr. Saloman Raju Yarlagadda"
+                    },
+                    {
+                        "name": "Mr. V. Temuzion kumuja"
+                    },
+                    {
+                        "name": "Dr. Samadhanam Emimal"
+                    }
+                ]
+            },
+            "non_teaching_staff": [
+                {
+                    "name": "Mrs. M. Sunitha",
+                    "position": "Record Assistant",
+                    "email": "mandumula.sunitha@gmail.com"
+                },
+                {
+                    "name": "Mr. Abdul Gani",
+                    "position": "Attender"
+                }
+            ]
+        },
+        {
+            "department": "Physical Education",
+            "teaching_staff": {
+                "assistant_physical_directors": [
+                    {
+                        "name": "Dr. R. Rajeswari"
+                    },
+                    {
+                        "name": "Dr. Sathuluri Raju"
+                    }
+                ]
+            },
+            "non_teaching_staff": [
+                {
+                    "name": "Smt.A.Padma",
+                    "position": "Attender",
+                    "email": "arikepadma@gmail.com"
+                },
+                {
+                    "name": "Sri G.Sravan Babu",
+                    "position": "Attender",
+                    "email": "sravan.babu9@gmail.com"
+                },
+                {
+                    "name": "Sri G.Mahender Reddy",
+                    "position": "Attender",
+                    "email": "mahenderr976@gmail.com"
+                }
+            ]
+        }
+    ],
+    "aec_and_coe": {
+        "AEC_Management_Team": [
+            {
+                "name": "Dr. P Suresh",
+                "designation": "Director-AEC & COE",
+                "email": "psuresh_it@cbit.ac.in"
+            },
+            {
+                "name": "Dr. G. V. Pradeep Kumar",
+                "designation": "Co-Incharge",
+                "email": "pradeepkumar_ece@cbit.ac.in"
+            },
+            {
+                "name": "Mr. P. Kiran Kumar",
+                "designation": "Co-Incharge",
+                "email": "pkirankumar_mech@cbit.ac.in"
+            },
+            {
+                "name": "Dr. Vasantha Gowri",
+                "designation": "Co-Incharge",
+                "email": "vasanthagowri_eee@cbit.ac.in"
+            },
+            {
+                "name": "Dr. P. Murali Krishna",
+                "designation": "Co-Incharge",
+                "email": "pmuralikrishna_chm@cbit.ac.in"
+            },
+            {
+                "name": "Dr. Suman Kshirsagar",
+                "designation": "Co-Incharge",
+                "email": "ksuman_ece@cbit.ac.in"
+            },
+            {
+                "name": "Dr. C. Obula Reddy",
+                "designation": "Co-Incharge",
+                "email": "cobulreddy_biotech@cbit.ac.in"
+            },
+            {
+                "name": "P Srinivasa Reddy",
+                "designation": "Programmer",
+                "email": "psrinivasareddy_prog@cbit.ac.in"
+            },
+            {
+                "name": "K Vara Prasad",
+                "designation": "Sr. Assistant",
+                "email": "kvaraprasad_aec@cbit.ac.in"
+            },
+            {
+                "name": "D Hemalatha",
+                "designation": "Sr. Assistant",
+                "email": "dhemalatha_aec@cbit.ac.in"
+            },
+            {
+                "name": "T L Lalithamba",
+                "designation": "Sr. Assistant",
+                "email": "lalithamba_aec@cbit.ac.in"
+            },
+            {
+                "name": "G Bangar Reddy",
+                "designation": "Sr. Assistant",
+                "email": "bangarreddy_aec@cbit.ac.in"
+            },
+            {
+                "name": "S Kirpal Singh",
+                "designation": "DTP Operator",
+                "email": "kirpalsingh_hrd@cbit.ac.in"
+            },
+            {
+                "name": "G Baloji",
+                "designation": "Administrative Executive",
+                "email": "gbaloji_admnex@cbit.ac.in"
+            },
+            {
+                "name": "M. Bhavani",
+                "designation": "DEO as Jr. Assistant",
+                "email": "bhavani_aec@cbit.ac.in"
+            },
+            {
+                "name": "E. Vindhya Rani",
+                "designation": "Computer Operator",
+                "email": "vindhyarani_co@cbit.ac.in"
+            },
+            {
+                "name": "K. Venkatesham",
+                "designation": "Administrative Executive",
+                "email": "venkateshamk_admnex@cbit.ac.in"
+            },
+            {
+                "name": "T Ramesh",
+                "designation": "Record Assistant",
+                "email": "ramesh_aec@cbit.ac.in"
+            },
+            {
+                "name": "Ms. Firdaus Sultana",
+                "designation": "Administrative Executive",
+                "email": ""
+            }
+        ],
+        "CoE_Management_Team": [
+            {
+                "name": "Dr. P Venkata Prasad",
+                "designation": "Controller of Examinations",
+                "email": "coe@cbit.ac.in"
+            },
+            {
+                "name": "Dr. V V R Seshagiri Rao",
+                "designation": "ACoE – Evaluation",
+                "email": "acoe_e@cbit.ac.in"
+            },
+            {
+                "name": "Dr. P. Sathish",
+                "designation": "ACoE – Confidential",
+                "email": "acoe@cbit.ac.in"
+            },
+            {
+                "name": "A. Krishna Reddy",
+                "designation": "Programmer",
+                "email": "akrishnareddy_prog@cbit.ac.in"
+            },
+            {
+                "name": "J. Pradeep Kumar",
+                "designation": "DEO as Junior Assistant",
+                "email": "pradeepkumar_jrasst@cbit.ac.in"
+            },
+            {
+                "name": "Y. Ravinder",
+                "designation": "Administrative Executive",
+                "email": "ravindery_admnex@cbit.ac.in"
+            },
+            {
+                "name": "Mohammed Kareemulla",
+                "designation": "DEO as Junior Assistant",
+                "email": "kareemullamd_deo@cbit.ac.in"
+            },
+            {
+                "name": "M. Vikas",
+                "designation": "Administrative Executive",
+                "email": "vikasm_admnex@cbit.ac.in"
+            },
+            {
+                "name": "P. Satish",
+                "designation": "Administrative Executive",
+                "email": "satishp_admnex@cbit.ac.in"
+            },
+            {
+                "name": "Donthi Reddy Tulasi Kavya",
+                "designation": "Data Entry Operator",
+                "email": "tulasikavyad_deo@cbit.ac.in"
+            },
+            {
+                "name": "V. Surya Prakash Rao",
+                "designation": "Administrative Executive",
+                "email": "suryaprakashraov_admnex@cbit.ac.in"
+            },
+            {
+                "name": "T. Swetha",
+                "designation": "Administrative Executive",
+                "email": "swethat_admnex@cbit.ac.in)"
+            },
+            {
+                "name": "Ganta Kiran",
+                "designation": "Administrative Executive",
+                "email": "kiranganta_admnex@cbit.ac.in"
+            },
+            {
+                "name": "B. Praveen",
+                "designation": "Attender",
+                "email": "praveenkumar_attender@cbit.ac.in"
+            }
+        ]
+    },
+    "hr_team": [
+        {
+            "name": "Mrs. Anne Violet",
+            "position": "Head",
+            "email": "hr@cbit.ac.in"
+        },
+        {
+            "name": "Sri. T. Sudhakar Reddy",
+            "position": "Sr. Assistant",
+            "email": ""
+        },
+        {
+            "name": "Sri. J. Bala Subramanyam",
+            "position": "Spl. Cat. Stenographer",
+            "email": ""
+        },
+        {
+            "name": "Mr. G. Sandeep",
+            "position": "Jr. Assistant",
+            "email": ""
+        },
+        {
+            "name": "Mr. K. Venkatesh",
+            "position": "Administrative Executive",
+            "email": ""
+        }
+    ],
+    "project_office_team": [
+        {
+            "name": "Mr. G. Rajesh",
+            "designation": "Site Engineer",
+            "email": ""
+        },
+        {
+            "name": "Mr. Dharavath Prasad",
+            "designation": "Site Engineer",
+            "email": ""
+        },
+        {
+            "name": "Mr. Imran Mohiuddin",
+            "designation": "Project Engineer",
+            "email": ""
+        }
+    ],
+    "acc_off_staff": [
+        {
+            "name": "DVN.RATHAN KUMAR",
+            "designation": "Sr. Assistant, Accounts",
+            "email": "rathankumar_admin@cbit.ac.in"
+        },
+        {
+            "name": "Mr. S. Anil Kumar",
+            "designation": "Senior Assistant",
+            "email": ""
+        },
+        {
+            "name": "Mr. V. Ravindar",
+            "designation": "Senior Assistant",
+            "email": ""
+        },
+        {
+            "name": "D.PRASANNA GOUD",
+            "designation": "Asst. Programmer, Scholarship",
+            "email": "prasannagoud_admin@cbit.ac.in"
+        },
+        {
+            "name": "T.KIRANMAYI",
+            "designation": "Stenographer , Principal Office",
+            "email": "tkiranmayi_admin@cbit.ac.in"
+        },
+        {
+            "name": "B.SRIKANTH",
+            "designation": "Computer Operator, Scholarship",
+            "email": "bsrikanth_co@cbit.ac.in"
+        },
+        {
+            "name": "G.SRISAILAM",
+            "designation": "Jr. Assistant, Accounts",
+            "email": "gsrisailam_admin@cbit.ac.in"
+        },
+        {
+            "name": "S.SATHEESH REDDY",
+            "designation": "Vehicle Maintenance Supervisor",
+            "email": "satheeshreddy_admin@cbit.ac.in"
+        },
+        {
+            "name": "V. LAVANYA",
+            "designation": "Jr. Assistant, Accounts",
+            "email": ""
+        },
+        {
+            "name": "G. GANESH",
+            "designation": "Jr. Assistant, Accounts",
+            "email": ""
+        },
+        {
+            "name": "HITENDRA H KHANT",
+            "designation": "Accountant",
+            "email": ""
+        },
+        {
+            "name": "VEMPATI SRINIVAS",
+            "designation": "Administrative Executive (Contract)",
+            "email": ""
+        },
+        {
+            "name": "Mr. Mohd Samiullah Khan",
+            "designation": "Computer Operator Contract, Admin Office",
+            "email": ""
+        },
+        {
+            "name": "Mr. P. PRABHAKAR",
+            "designation": "Electrician",
+            "email": ""
+        },
+        {
+            "name": "Mr. Bondi Venkata Nageswara Rao",
+            "designation": "Electrician (C)",
+            "email": ""
+        },
+        {
+            "name": "K.NAGENDER",
+            "designation": "Attender",
+            "email": ""
+        }
+    ],
+    "purchase_off_team": [
+        {
+            "name": "Mr. A. Ramakrishna",
+            "designation": "Purchase Officer"
+        },
+        {
+            "name": "Mrs. Kolakonda Sandhya",
+            "designation": "Junior Purchase Officer"
+        }
+    ],
+    "alumni_off_team": [
+        {
+            "name": "Mr. Soumya Banerjee",
+            "designation": "Alumni Coordinator"
+        },
+        {
+            "name": "Mr. B. Shiva Kishore Yadav",
+            "designation": "Computer Operator"
+        }
+    ],
+    "advisory_body": [
+        {
+            "name": "Prof. M. Narasimha Murty",
+            "department_and_institute": "Computer Science and Engineering, IISc Bangalore"
+        },
+        {
+            "name": "Prof. R. Govindarajan",
+            "department_and_institute": "Computer Science and Engineering, IISc Bangalore"
+        },
+        {
+            "name": "Prof. C. Chandra Sekhar",
+            "department_and_institute": "Computer Science and Engineering, IITM"
+        },
+        {
+            "name": "Prof. P. Sreenivasa Kumar",
+            "department_and_institute": "Computer Science and Engineering, IITM"
+        },
+        {
+            "name": "Prof. B. S. Rajanikanth",
+            "department_and_institute": "Electrical Engineering, IISc Bangalore"
+        },
+        {
+            "name": "Prof. Ramanujam Sarathi",
+            "department_and_institute": "Electrical Engineering, IITM"
+        },
+        {
+            "name": "Prof. T. Srinivas",
+            "department_and_institute": "Electrical and Communication Engineering, IISc Bangalore"
+        },
+        {
+            "name": "Prof. Kavitha Arunachalam Ph.D",
+            "department_and_institute": "Engineering Design, IITM"
+        },
+        {
+            "name": "Prof. M. S. Bobji",
+            "department_and_institute": "Mechanical Engineering, IISc Bangalore"
+        },
+        {
+            "name": "Prof. P. Venkitanarayanan",
+            "department_and_institute": "Mechanical Engineering, IIT, Kanpur"
+        },
+        {
+            "name": "Prof. D. Nagesh kumar",
+            "department_and_institute": "Civil Engineering, IISc Bangalore"
+        },
+        {
+            "name": "Prof. Sivakumar Babu G L",
+            "department_and_institute": "Civil Engineering, IISc Bangalore"
+        },
+        {
+            "name": "Prof. Ch. Subrahmanyam",
+            "department_and_institute": "Chemistry, IITH"
+        },
+        {
+            "name": "Prof. Venkata Dasu Veeranki",
+            "department_and_institute": "Biotechnology, IIT Guwahati"
+        },
+        {
+            "name": "Prof. Dhirendra S.Katti",
+            "department_and_institute": "Biotechnology, IIT Kanpur"
+        },
+        {
+            "name": "Prof. K. P. Ramesh",
+            "department_and_institute": "Physics, IISc Bangalore"
+        },
+        {
+            "name": "Prof. Kirti Chandra Sahu",
+            "department_and_institute": "Chemical Engineering, IITH"
+        },
+        {
+            "name": "Prof. J. R. Mudakavi",
+            "department_and_institute": "Chemical Engineering, IISc Bangalore"
+        },
+        {
+            "name": "Prof. Mrinal K. Ghosh",
+            "department_and_institute": "Mathematics, IISc Bangalore"
+        },
+        {
+            "name": "Prof. M. H. Bala Subrahmanya",
+            "department_and_institute": "Management Studies, IISc Bangalore"
+        }
+    ],
+    "governing_body": [
+        {
+            "name": "Sri. N. Subash",
+            "designation": "President & Chairperson"
+        },
+        {
+            "name": "Sri. J. Pratap Reddy",
+            "designation": "Member"
+        },
+        {
+            "name": "Mrs. S. Uma Devi",
+            "designation": "Member"
+        },
+        {
+            "name": "Mrs. B. Shalini Reddy",
+            "designation": "Member"
+        },
+        {
+            "name": "Mrs. T. Kranti",
+            "designation": "Member"
+        },
+        {
+            "name": "Prof. K. Krishnaveni",
+            "designation": "Director-Academics, CBIT"
+        },
+        {
+            "name": "Prof. D. Krishna Reddy",
+            "designation": "Prof of ECE, CBIT"
+        },
+        {
+            "name": "Prof. B.S.Murthy",
+            "designation": "Director-IIT Hyderabad"
+        },
+        {
+            "name": "Commissioner of Technical Education or his nominee",
+            "designation": "Hyderabad"
+        },
+        {
+            "name": "Prof. V. Bhikshma",
+            "designation": "Prof of Civil Engg., Nominee of Osmania University., Hyderabad."
+        },
+        {
+            "name": "Prof. C. V. Narasimhulu",
+            "designation": "Principal & Member Secretary"
+        }
+    ],
+    "academic_council_constitution": "The Principal (Chairman), All the Heads of Department in the college, four Teachers of the College representing different categories of teaching staff by rotation on the basis of seniority of  service in the college, not less than four experts from outside the college representing such areas as Industry, Commerce, Law, Education, medicine, Engineering etc., to be nominated by the Governing Body, three nominees of the University, Member from CII (Ref: AICTE letter dated 04/10/2018), faculty Member nominated by the principal",
+    "academic_council_mem": {
+        "chairman": {
+            "position": "The Principal (Chairman)",
+            "name": "Dr. C. V. Narasimhulu"
+        },
+        "heads_of_department": [
+            "Head Department : Biotechnology",
+            "Head Department: Chemical Engg",
+            "Head Department: Civil Engg",
+            "Head Department: Computer Science & Engg. (CSE)",
+            "Head Department: Electrical & Electronics Engg. (EEE)",
+            "Head Department: Electronics & Comm. Engg. (ECE)",
+            "Head Department: Information Technology (IT)",
+            "Head Department: Mechanical Engg",
+            "Head Department: MCA",
+            "Head Department : MBA",
+            "Head Department : Mathematics",
+            "Head Department : Physics",
+            "Head Department : Chemistry",
+            "Head Department : English"
+        ],
+        "teachers_from_college": [
+            {
+                "name": "Dr. M. Koti Reddy",
+                "position": "Professor, Civil Engg. Dept."
+            },
+            {
+                "name": "Dr. M. Swamy Das",
+                "position": "Joint Director - Academics"
+            },
+            {
+                "name": "Dr. A. Supraja Reddy",
+                "position": "Assoc. Professor, ECE Dept."
+            },
+            {
+                "name": "Dr. N. Vasantha Gowri",
+                "position": "Asst. Professor, EEE Dept."
+            }
+        ],
+        "external_experts": [
+            {
+                "name": "Dr Y. Sreenivasa Rao",
+                "position": "Out Standing Scientist, Project Director, Program AD, RCI, DRDO, Hyderabad"
+            },
+            {
+                "name": "Prof N. Venkata Reddy",
+                "position": "Dept. of Mechanical Engg., IIT, Hyderabad"
+            },
+            {
+                "name": "Sri Kuncham Jagadeesh",
+                "position": "Vice-President, Capgemeni, Hyderabad"
+            },
+            {
+                "name": "Sri B. Jaipal Reddy",
+                "position": "MD, Apollo Computing Laboratories(P) Ltd., Hyd."
+            }
+        ],
+        "university_nominees": [
+            {
+                "name": "Prof. K. Shyamala",
+                "position": "Dept. of CSE, OUCE"
+            },
+            {
+                "name": "Prof . V.V. Basava Rao",
+                "position": "Dept. of Chem. Engg, OUCT"
+            },
+            {
+                "name": "Prof. M. Gopal Naik",
+                "position": "Dept. of Civil Engg. OUCE"
+            }
+        ],
+        "cii_member": {
+            "name": "Mr. Vagish Dixit",
+            "position": "CII Member"
+        },
+        "faculty_nominee": {
+            "name": "Dr. K. Krishnaveni",
+            "position": "Faculty Nominee"
+        }
+    },
+    "iqac": {
+        "introduction": "National Assessment and Accreditation Council (NAAC) proposes that every accredited institution should establish an Internal Quality Assurance Cell (IQAC) as a post-accreditation quality sustenance measure for its action plan for performance evaluation, assessment & accreditation and quality up-gradation of institutions of higher education. Since quality enhancement is a continuous process, the IQAC will become a part of the institution's system & work towards realization of the goals of quality enhancement & sustenance. The prime task of the IQAC is to develop a system for conscious, consistent & catalytic improvement in the overall performance of institutions. IQAC was established in CBIT on 27-04-2011. It has been channelizing all efforts & measures of the institution towards promoting its holistic academic excellence. IQAC will facilitate to ensure heightened level of clarity and focus in institutional functioning towards quality enhancement, ensure internalization of the quality culture, ensure enhancement and coordination among various activities of the institution and institutionalize all good practices, provide a sound basis for decision-making to improve institutional functioning, act as a dynamic system for quality changes in HEIs, build an organized methodology of documentation and internal communication.",
+        "vision": "To ensure quality culture as the prime concern for the Higher Education Institutions through institutionalizing and internalizing all the initiatives taken with internal and external support.",
+        "objective": [
+            "To develop a system for conscious, consistent and catalytic action to improve the academic and administrative performance of the institution.",
+            "To promote measures for institutional functioning towards quality enhancement through internalization of quality culture and institutionalization of best practices."
+        ],
+        "strategies": [
+            "Ensuring timely, efficient and progressive performance of academic, administrative and financial tasks",
+            "Relevant and quality academic/ research programmes",
+            "Equitable access to and affordability of academic programmes for various sections of society",
+            "Optimization and integration of modern methods of teaching and learning",
+            "The credibility of assessment and evaluation process",
+            "Ensuring the adequacy, maintenance and proper allocation of support structure and services",
+            "Sharing of research findings and networking with other institutions in India and abroad."
+        ],
+        "functions": [
+            "Development and application of quality benchmarks",
+            "Parameters for various academic and administrative activities of the institution",
+            "Facilitating the creation of a learner-centric environment conducive to quality education and faculty maturation to adopt the required knowledge and technology for participatory teaching and learning process",
+            "Collection and analysis of feedback from all stakeholders on quality-related institutional processes",
+            "Dissemination of information on various quality parameters to all stakeholders",
+            "Organization of inter and intra institutional workshops, seminars on quality related themes and promotion of quality circles",
+            "Documentation of the various programmes/activities leading to quality improvement",
+            "Acting as a nodal agency of the Institution for coordinating quality-related activities, including adoption and dissemination of best practices",
+            "Development and maintenance of institutional database through MIS for the purpose of maintaining /enhancing the institutional quality",
+            "Periodical conduct of Academic and Administrative Audit and its follow-up",
+            "Preparation and submission of the Annual Quality Assurance Report (AQAR) as per guidelines and parameters of NAAC."
+        ],
+        "benefits": [
+            "Ensure clarity and focus in institutional functioning towards quality enhancement.",
+            "Ensure internalization of the quality culture.",
+            "Ensure enhancement and coordination among various activities of the institution and institutionalize all good practices.",
+            "Provide a sound basis for decision-making to improve institutional functioning Guidelines of IQAC and submission of AQAR",
+            "Act as a dynamic system for quality changes in HEIs",
+            "Build an organised methodology of documentation and internal communication."
+        ]
+    },
+    "clg_committees": [
+        "Academic Audit Committee",
+        "Anti Ragging Committee",
+        "Anti-Sexual Harassment Committee",
+        "Co-Curricular & Extra-Curricular Activities Committee",
+        "College Admissions Committee",
+        "Electoral Literacy Club (ELC)",
+        "Energy Audit Committee",
+        "Exams Results Committee",
+        "Grievance Redressal Committee for Staff",
+        "Grievance Redressal Committee for Students",
+        "Green Audit Committee",
+        "Internal Complaints Committee",
+        "Institute Industry Cell",
+        "Institute Innovation Cell",
+        "Intellectual Property Right (IPR) Cell",
+        "Internal Quality Assurance Cell (IQAC)",
+        "Library Committee",
+        "Minority Cell",
+        "OBC Cell",
+        "Planning Evaluation Committee",
+        "Psychological Counselling Committee",
+        "Research Advisory Committee",
+        "SC/ST Cell",
+        "Social Media Cell",
+        "Student Counselling Committee",
+        "Student Welfare Committee",
+        "Women Development Cell"
+    ],
+    "clg_mous": [
+        "Megasynth Technologies Pvt.Ltd.",
+        "Rapture Biotech Hyderabad Private Limited",
+        "Regional Telecom Training Centre (RTTC) estd. by BSNL",
+        "Eduexpose",
+        "Quinfosystem Pvt. Ltd.",
+        "M/s Levyug Private Limited",
+        "Vroomster",
+        "Y Holding Ltd.",
+        "ByteXL Teched Private Limited",
+        "Cyber Security Centre of Excellence",
+        "Constelli Signals Pvt. Ltd., Hyderabad",
+        "National Institute for Micro, Small and Medium Enterprises (ni-msme), Hyderabad",
+        "Fastworks consulting services (3D labs India)",
+        "Birla Institute of Technology & Science, Philani",
+        "Code Sprint",
+        "Coincent.AI",
+        "CALYXPOD Talent Solutions Pvt. Ltd.",
+        "Bioworld Research Technologies",
+        "LearnWik Solutions Pvt. Ltd.",
+        "ExcelR Solutions",
+        "International University of Tourism and Entrepreneurship of Tajikistan",
+        "Puakai Agri Aqua",
+        "Berkadia Services India Private Limited",
+        "Centre for Development of Advanced Computing (C-DAC)",
+        "Global Education & Career Forum",
+        "Integrated Learning Systems",
+        "ACIC-CBIT Research and Entrepreneurship Founadation With Strategy M",
+        "Institute of Management and Foreign Studies",
+        "Vaishnavi Biotech International, Pvt. Ltd., Hyderabad",
+        "Sri Yuva Biotech Pvt.Ltd",
+        "Prathista Industries Ltd",
+        "Tripura Biotech Ltd",
+        "Green bubble Algal works Pvt Ltd",
+        "Panace.AI",
+        "Engineering Staff College of India",
+        "Kapil Knowledge Pvt. Ltd.",
+        "3D Labs India",
+        "Rowan University",
+        "College Bag Pvt. Ltd.",
+        "SVAK Life sciences",
+        "Biosephia Engineering Services Pvt. Ltd.",
+        "Green Waves Environmental Solutions",
+        "Coursera",
+        "AWS Amazon",
+        "National Stock Exchange (NSE)",
+        "Zoom Technologies Pvt. Ltd.",
+        "Curtin University Western Australia",
+        "KernelSphere Technologies",
+        "Robotic Process Automation (RPA)",
+        "Hyderabad Institute of Electrical Engineers (HIEE)",
+        "Atlas",
+        "Bamboo Mission",
+        "Innopark Ventures",
+        "DSCI (Centre of Excellence)",
+        "Contractors Development Institute (CDI)",
+        "Centre for Innovations and Public Systems(CIPS)",
+        "Curtin University Western Australia",
+        "42 Learn",
+        "VisCommerce Pvt Ltd",
+        "Urban Rebox IT Pvt. Ltd."
+    ],
+    "college_contact_info": {
+        "address": "Gandipet, Hyderabad, Telangana",
+        "pin": "500075",
+        "phone": "040-24193276",
+        "mobile": "8466997201",
+        "admissions_enquiry": "8466997216",
+        "email": "principal@cbit.ac.in"
+    },
+    "social_media": {
+        "facebook": "https://www.facebook.com/CBIThyderabad/",
+        "instagram": "https://www.instagram.com/cbithyderabad/",
+        "twitter": "https://twitter.com/CBIThyd",
+        "youtube": "https://www.youtube.com/channel/UCUW8oQB8Fl6j-pg2g_sf1tw"
+    }
+}

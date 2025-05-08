@@ -1,0 +1,1136 @@
+[
+    {
+        "department": "Civil Engineering",
+        "description": "The Civil Engineering department at CBIT is dedicated to producing skilled professionals and conducting cutting-edge research. Officially recognized as a research center by Osmania University, the department has received numerous accolades and scholarship grants.",
+        "programs_offered": [
+            "BE Civil",
+            "ME Civil – Structural Engineering"
+        ],
+        "vision": "To strive for excellence in academics, research and consultancy in the field of Civil Engineering and contribute to the sustainable development of the country by producing quality Civil Engineers with professional and ethical values.",
+        "mission": [
+            "Maintaining high academic standards to develop analytical thinking and independent judgment among the students so that they are fit for industry and higher studies.",
+            "Promoting skills and values among the students to prepare them as responsible global citizens who can solve complex problems.",
+            "Preparing the students as good individuals and team members with professional attitude, ethics, concern for environment and zeal for lifelong learning who can contribute to society."
+        ],
+        "objectives": {
+            "PEO1": "Acquire basic knowledge and expertise necessary for professional practice in Civil Engineering for higher studies and research.",
+            "PEO2": "Attain and practice technical skills to identify, analyze and solve complex problems and issues related to Civil Engineering.",
+            "PEO3": "Possess a professional attitude as an individual or a team member to work for the betterment of the society and environment.",
+            "PEO4": "Work with professional ethics as refined technocrats with a thirst for lifelong learning."
+        },
+        "program_specific_outcomes": {
+            "PSO1": "Effectively apply engineering fundamentals for the development and management of eco-friendly civil engineering systems which benefit society at large.",
+            "PSO2": "Develop the ability to provide solutions to complex problems in civil engineering through individual and team work with a spirit for lifelong learning.",
+            "PSO3": "Develop the competence to plan, build and maintain sustainable infrastructural facilities like housing, water management, transportation, and geotechnical services."
+        },
+        "program_outcomes": {
+            "PO1": "Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization for the solution of complex engineering problems.",
+            "PO2": "Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.",
+            "PO3": "Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for public health and safety, and cultural, societal, and environmental considerations.",
+            "PO4": "Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions.",
+            "PO5": "Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools, including prediction and modeling to complex engineering activities, with an understanding of the limitations.",
+            "PO6": "Apply reasoning informed by the contextual knowledge to assess societal health, safety, legal, and cultural issues and the consequent responsibilities relevant to the professional engineering practice.",
+            "PO7": "Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of and need for sustainable development.",
+            "PO8": "Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.",
+            "PO9": "Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.",
+            "PO10": "Communicate effectively on complex engineering activities with the engineering community and with the society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.",
+            "PO11": "Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.",
+            "PO12": "Recognize the need for, and have the preparation and ability to engage in independent and lifelong learning in the broadest context of technological change."
+        }
+    },
+    {
+        "department": "Mechanical Engineering",
+        "description": "The mechanical engineering department at CBIT always strives to stay at the forefront of technological innovation.",
+        "programs_offered": {
+            "UG": [
+                "BE Mechanical Engineering"
+            ],
+            "PG": [
+                "ME in Thermal Engineering",
+                "ME in CAD/CAM"
+            ]
+        },
+        "vision": "To be the destination for aspiring young minds to become globally competitive, enlightened, innovative, immediate contributors to the industry and successful in higher studies in the field of mechanical engineering.",
+        "mission": [
+            "To impart quality and innovative education in mechanical engineering with basic and specialised training, internships to meet the current and emerging needs of the industry.",
+            "To prepare the students for a successful professional career by inculcating ethical, entrepreneurial and leadership qualities.",
+            "To foster Research and Development environment by disseminating knowledge and technology by involving the students in publications, sponsored projects and consultancy."
+        ],
+        "placements": "Under the leadership of Dr.P.Prabhakar Reddy, students of the mechanical engineering department have been consistently getting placements in their dream companies for the past few years.",
+        "objectives": {
+            "BE Mechanical Engineering": [
+                "Ample technical knowledge and skills for a successful career in Mechanical Engineering and product development, design, development and implementation of engineering systems, services and processes.",
+                "Capability to develop competitive technologies and find solutions to industry, societal challenges and engineering problems with ethical and professional standards.",
+                "Ability to be entrepreneurial, innovative in the context of global scenarios of technological challenges and environmental issues.",
+                "To pursue life-long learning and to adapt to the changing industry requirements.",
+                "To be a team player, lead and engage diverse teams through effective communication, inter-personal and project management skills."
+            ],
+            "BE Production Engineering": [
+                "Widespread knowledge in basic sciences and fundamentals of Production Engineering.",
+                "Knowledge in core areas like Design Engineering, Industrial Engineering, Manufacturing Engineering, and Thermal Engineering.",
+                "Competency for research in core areas and interdisciplinary research activities like environment & sustainability.",
+                "Professional & ethical values, teamwork, leadership skills, moral responsibility, industrial relations, and communication skills.",
+                "Enrichment in project, finance management and technical know-how skills."
+            ]
+        },
+        "program_specific_outcomes": {
+            "BE Mechanical Engineering": [
+                "Apply their learning to design and develop basic mechanical systems and processes.",
+                "Select manufacturing processes and their appropriate parameters for the production of typical engineering components.",
+                "Apply mechanical engineering concepts in power generation, aerospace, environmental, biomedical, automotive, and sustainable energy systems."
+            ],
+            "BE Production Engineering": [
+                "Fundamental knowledge of theoretical background for applied technologies and methods in Production Engineering.",
+                "Ability to think and work in a problem-oriented, project-oriented, and interdisciplinary way.",
+                "Work independently as well as in teams and develop leadership and entrepreneurship qualities."
+            ]
+        },
+        "program_outcomes": {
+            "BE Program": [
+                "Apply mathematics, science, and engineering fundamentals to solve complex engineering problems.",
+                "Identify, formulate, and analyze complex engineering problems using first principles.",
+                "Design solutions with appropriate consideration for public health, safety, and environmental considerations.",
+                "Conduct investigations using research-based knowledge and experimental methods.",
+                "Utilize modern tools and techniques in engineering applications.",
+                "Assess societal, legal, and cultural responsibilities relevant to professional engineering practice.",
+                "Understand the impact of engineering solutions on sustainability.",
+                "Commit to ethical principles and professional responsibilities.",
+                "Function effectively as individuals and team members.",
+                "Communicate effectively in professional settings.",
+                "Apply engineering and management principles to project management.",
+                "Engage in lifelong learning and adapt to technological changes."
+            ]
+        },
+        "PEOs_Masters": {
+            "M.E. CAD/CAM": [
+                "Graduates will become professional contributors in the CAD/CAM industry.",
+                "Graduates will excel in Research, Development, and Consultancy.",
+                "Graduates will become Entrepreneurs in CAD/CAM industry."
+            ],
+            "M.E. Thermal Engineering": [
+                "Prepare Graduates with analytical, computational, and experimental skills for energy-efficient systems.",
+                "Prepare Graduates with high-level technical competency and research skills.",
+                "Encourage lifelong learning with a concern for society and the environment.",
+                "Foster teamwork, communication, and interpersonal skills."
+            ]
+        },
+        "PSOs_Masters": {
+            "M.E. CAD/CAM": [
+                "Apply and analyze the concepts of design engineering.",
+                "Use design and analysis software tools to solve real-world problems.",
+                "Develop new product designs using CAD/CAM tools while adhering to global best practices."
+            ],
+            "M.E. Thermal Engineering": [
+                "Apply thermal and fluid sciences to engineering problems.",
+                "Develop alternative energy sources for sustainability.",
+                "Use CFD software tools for advanced thermal analysis."
+            ]
+        },
+        "POs_Masters": [
+            "Independently carry out research and solve practical problems.",
+            "Write and present substantial technical reports.",
+            "Demonstrate mastery in their area of specialization.",
+            "Commit to professional ethics and responsibilities.",
+            "Apply management principles for project execution.",
+            "Engage in lifelong learning."
+        ]
+    },
+    {
+        "department": "Electrical and Electronics Engineering",
+        "vision": "To achieve Academic and Professional Excellence in Teaching and Research in the frontier areas of Electrical and Electronics Engineering Vis-a -Vis serve as a Valuable Resource for Industry and Society.",
+        "mission": [
+            {
+                "M1": "Emphasis on providing Strong Theoretical Foundation & Engineering Leadership Eminence, infusion of Creativity and Management skill while maintaining Ethics and Moral for Sustainable Development. (Individual development)"
+            },
+            {
+                "M2": "Enable the Faculty and Student Interactions to trigger interest for Applied Multidisciplinary Research and Entrepreneurship Culture resulting in Significant Advancement of the field of Specialization with Involvement of Industries and Collaborative Educational Networks. (Sense of Ownership, Networking, and Eco system development)"
+            },
+            {
+                "M3": "Extend the Conducive Neighbourhoods for Innovation in frontier areas to keep pace with Environmental, Societal and Technological Developments of the National and International Community to Serve Humanity. (Service to Society, Atmanirbhar Bharat)"
+            }
+        ],
+        "programs_offered": [
+            "BE (EEE)",
+            "ME (PS & PE)"
+        ],
+        "placements": "Thanks to the highly synergized efforts of faculty and students of CBIT EEE department, securing placement for pass-outs has never been a problem.",
+        "program_outcomes": [
+            {
+                "PO1": "Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization for the solution of complex engineering problems."
+            },
+            {
+                "PO2": "Identify, formulate, review research literature, and analyse complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences."
+            },
+            {
+                "PO3": "Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for public health and safety, and cultural, societal, and environmental considerations."
+            },
+            {
+                "PO4": "Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions."
+            },
+            {
+                "PO5": "Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools, including prediction and modelling to complex engineering activities, with an understanding of the limitations."
+            },
+            {
+                "PO6": "Apply reasoning informed by the contextual knowledge to assess societal health, safety, legal, and cultural issues and the consequent responsibilities relevant to the professional engineering practice."
+            },
+            {
+                "PO7": "Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of and need for sustainable development."
+            },
+            {
+                "PO8": "Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice."
+            },
+            {
+                "PO9": "Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings."
+            },
+            {
+                "PO10": "Communicate effectively on complex engineering activities with the engineering community and with the society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions."
+            },
+            {
+                "PO11": "Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments."
+            },
+            {
+                "PO12": "Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change."
+            }
+        ]
+    },
+    {
+        "department": "Electronics and Communication Engineering",
+        "vision": "To emerge as a vibrant model of excellence in education, research and innovation in Electronics and Communication Engineering.",
+        "mission": [
+            "To impart strong theoretical and practical knowledge of the state of art technologies to meet growing challenges in the industry",
+            "To carry out the advanced and need based research in consultation with the renowned research and industrial organizations",
+            "To create entrepreneurship environment including innovation, incubation and encourage to patent the work"
+        ],
+        "programs_offered": {
+            "undergraduate": [
+                "BE ECE",
+                "B.E (Electronics Engineering) – VLSID"
+            ],
+            "postgraduate": [
+                "ME Communication Engineering",
+                "M.E Embedded Systems & VLSI Design"
+            ]
+        },
+        "program_educational_objectives": {
+            "BE_ECE": [
+                "Engage successfully in professional career and/or pursue higher education in Electronics and Communication and allied areas.",
+                "Pursue research, design and development of state-of-the art systems applying the knowledge of Electronics and Communication engineering.",
+                "Begin start-ups and involve in entrepreneurship activities by adopting changing professional and societal needs.",
+                "Exhibit professional ethics and values with lifelong learning and work effectively as individuals/team members in multidisciplinary projects."
+            ],
+            "BE_Electronics_VLSID": [
+                "Graduates will have a strong foundation in electronics principles with specialized knowledge in VLSI design and related tools, enabling them to solve complex engineering problems in the domain of microelectronics.",
+                "Graduates will be successful in their professional careers by exhibiting ethical standards, leadership skills, and effective communication.",
+                "Graduates will engage in lifelong learning adapting to technological advancements, pursuing higher education, research, and professional development in emerging fields of VLSI.",
+                "Graduates will contribute to sustainable solutions for real-time societal problems by collaborating across multi-disciplinary teams."
+            ],
+            "ME_Communication_Engineering": [
+                "Graduates will Design & Develop Communication Systems either independently or in a group.",
+                "Graduates will be able to learn and adopt the emerging technologies in the area of Communication Engineering.",
+                "Graduates will demonstrate the ability to do research and become lifelong learners.",
+                "Graduates will develop a rational approach to solving real-world problems with self-confidence and ethical & societal responsibilities."
+            ],
+            "ME_Embedded_Systems_VLSI_Design": [
+                "Graduates will apply engineering expertise to solve real-world problems in the areas of Embedded Systems and VLSI Design.",
+                "Graduates will have the ability to adopt the latest technologies.",
+                "Graduates will be able to carry out research in the fields of Micro Electronics and Embedded Systems.",
+                "Graduates will develop professional ethics, effective communication skills, self-confidence, and societal responsibilities."
+            ]
+        },
+        "program_specific_outcomes": {
+            "BE_ECE": [
+                "Ability to apply the acquired knowledge of core subjects in design and development of Communications/Signal processing/ VLSI/ Embedded systems.",
+                "Analyze and solve the complex Electronics and Communication engineering problems using state-of-art hardware and software tools.",
+                "Develop innovative technologies for Entrepreneurship based on the research outcomes of Electronics and Communication engineering."
+            ],
+            "BE_Electronics_VLSID": [
+                "Ability to apply the acquired knowledge for electronic system design using Integrated Circuit technologies.",
+                "Analyze and solve the complex Electronic System Design problems using software and hardware tools.",
+                "Will be competent enough to carry research and contribute to societal needs."
+            ]
+        },
+        "program_outcomes": {
+            "BE_ECE": [
+                "Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization for the solution of complex engineering problems.",
+                "Identify, formulate, research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.",
+                "Design solutions for complex engineering problems and design system components or processes that meet specified needs with appropriate consideration for public health and safety, and cultural, societal, and environmental considerations.",
+                "Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions.",
+                "Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools, including prediction and modeling to complex engineering activities, with an understanding of the limitations.",
+                "Apply reasoning informed by contextual knowledge to assess societal, health, safety, legal, and cultural issues and the consequent responsibilities relevant to professional engineering practice.",
+                "Understand the impact of professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.",
+                "Apply ethical principles and commit to professional ethics and responsibilities and norms of engineering practice.",
+                "Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.",
+                "Communicate effectively on complex engineering activities with the engineering community and with society at large.",
+                "Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.",
+                "Recognize the need for, and have the preparation and ability to engage in independent and lifelong learning in the broadest context of technological change."
+            ]
+        }
+    },
+    {
+        "department": "Computer Science and Engineering",
+        "about": {
+            "established_year": 1985,
+            "initial_intake": 20,
+            "current_intake": 300,
+            "programs_offered": [
+                "BE(CSE)",
+                "BE CSE (AI & ML)",
+                "BE CSE (IoT & CS including BC Technology)",
+                "M.Tech CSE"
+            ],
+            "nba_accreditation": [
+                {
+                    "year": 1998,
+                    "grade": "A"
+                },
+                {
+                    "year": 2004
+                },
+                {
+                    "year": 2008
+                },
+                {
+                    "year": 2013
+                },
+                {
+                    "year": 2017
+                }
+            ],
+            "research_recognition": "Recognized research center under Osmania University",
+            "centers_of_excellence": [
+                "IoT",
+                "AI/ML",
+                "Cyber Security",
+                "AAiHC"
+            ],
+            "mou_partners": [
+                "MSME",
+                "Robotic Process Automation",
+                "KernelSphere Technologies",
+                "Telangana State Council of Science and Technology",
+                "DSCI"
+            ],
+            "faculty_research_areas": [
+                "AI",
+                "ML",
+                "Cyber Security",
+                "Data Science",
+                "Data Mining",
+                "Blockchain"
+            ],
+            "collaborations": {
+                "professional_bodies": [
+                    "CSI",
+                    "ISTE",
+                    "IEEE (Student Branch)",
+                    "CSI (Student Branch)"
+                ],
+                "workshops_certifications": [
+                    "Microsoft",
+                    "IBM"
+                ]
+            },
+            "technical_clubs": [
+                "CBIT Open Source (COSC) Club",
+                "Security Club"
+            ]
+        },
+        "placements": {
+            "yearly_statistics": [
+                {
+                    "year": "2018-19",
+                    "students_placed": 169,
+                    "total_jobs": 286,
+                    "highest_package": "39L per annum",
+                    "average_package": "7L per annum"
+                },
+                {
+                    "year": "2019-20",
+                    "students_placed": 187,
+                    "total_jobs": 302,
+                    "highest_package": "41L per annum",
+                    "average_package": "7L per annum"
+                },
+                {
+                    "year": "2020-21",
+                    "students_placed": 195,
+                    "total_jobs": 355,
+                    "highest_package": "43L per annum",
+                    "average_package": "7L per annum"
+                }
+            ],
+            "notable_offers": [
+                {
+                    "students": 11,
+                    "package": "11L per annum"
+                },
+                {
+                    "students": 3,
+                    "package": "25L per annum",
+                    "companies": [
+                        "JPMC",
+                        "Service Now"
+                    ]
+                }
+            ],
+            "top_recruiters": [
+                "Microsoft",
+                "Wipro",
+                "TCS",
+                "Accenture",
+                "Service Now",
+                "Oracle",
+                "Deloitte",
+                "LTI",
+                "Cognizant",
+                "Accelerate 360",
+                "Infosys"
+            ],
+            "internships": {
+                "statistics": [
+                    {
+                        "year": "2018-19",
+                        "total": 53
+                    },
+                    {
+                        "year": "2019-20",
+                        "total": 113
+                    },
+                    {
+                        "year": "2020-21",
+                        "total": 149
+                    },
+                    {
+                        "year": "2021-22",
+                        "total": 109,
+                        "stipend_offered": "50K per month"
+                    }
+                ]
+            }
+        },
+        "vision": "To be in the frontiers of Computer Science and Engineering with academic excellence and Research.",
+        "mission": [
+            "Educate students with the best practices of Computer Science by integrating the latest research into the curriculum.",
+            "Develop professionals with sound knowledge in theory and practice of Computer Science and Engineering.",
+            "Facilitate the development of academia-industry collaboration and societal outreach programs.",
+            "Prepare students for full and ethical participation in a diverse society and encourage lifelong learning."
+        ],
+        "programs": {
+            "ug": [
+                "B.E (CSE)",
+                "B.E (CSE) with Honors"
+            ],
+            "pg": [
+                "M.Tech (CSE)"
+            ],
+            "minor_degrees": [
+                "Computer Engineering",
+                "Computer Vision",
+                "Cloud Computing",
+                "Cyber Security",
+                "Internet of Things",
+                "Advanced Web Technologies"
+            ]
+        },
+        "program_outcomes": [
+            "Apply the knowledge of mathematics, science, engineering fundamentals and an engineering specialization for the solution of complex engineering problems.",
+            "Identify, formulate, research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.",
+            "Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for public health and safety, and cultural, societal, and environmental considerations.",
+            "Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions.",
+            "Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools, including prediction and modeling to complex engineering activities, with an understanding of the limitations.",
+            "Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal, and cultural issues and the consequent responsibilities relevant to the professional engineering practice.",
+            "Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.",
+            "Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.",
+            "Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.",
+            "Communicate effectively on complex engineering activities with the engineering community and with the society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.",
+            "Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.",
+            "Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change."
+        ]
+    },
+    {
+        "department": "Artificial Intelligence and Machine Learning (AI&ML)",
+        "about": "The theory and development of computer systems that can perform tasks normally requiring human intelligence, such as visual perception, speech recognition, decision-making, and translation and interpretation are formalized as AI. Machine learning is a method of data analysis that automates analytical model building.",
+        "mission": [
+            "Impart rigorous training to generate knowledge through the state-of-the-art concepts and technologies in Artificial Intelligence and Machine Learning.",
+            "Develop technical proficiency in students through creativity and leadership.",
+            "Encourage lifelong learning, social responsibility, environmental conservation, and professional ethics.",
+            "Establish centres of excellence in leading areas of computer and artificial intelligence disciplines."
+        ],
+        "vision": "To produce professionals in artificial intelligence and machine learning through the best possible education, acquire international recognition as a destination, and advance society in exciting and creative ways.",
+        "programs_offered": {
+            "B.E. (AIML)": {
+                "intake": 60,
+                "PEOs": [
+                    "Work effectively in inter-disciplinary field with the knowledge of Artificial Intelligence and Machine Learning to develop appropriate solutions to real-world problems.",
+                    "Excel in their professional careers and pursue advanced study in the area of machine learning and artificial intelligence.",
+                    "Use ongoing education to apply their expertise to the technology transformation.",
+                    "Excel as socially responsible engineers or entrepreneurs with high moral and ethical standards."
+                ],
+                "PSOs": [
+                    "Ability to evaluate and apply knowledge of data engineering, artificial intelligence, machine learning, and human cognition to real-world issues in order to solve potential challenges.",
+                    "Ability to acquire computational knowledge and project development abilities using novel tools and methodologies to tackle challenges in the fields related to Deep Learning, Machine learning, Artificial Intelligence.",
+                    "Capacity to direct a team or firm that develops products and to use the knowledge learned to recognize actual research issues."
+                ]
+            },
+            "B.E. (CSE-AIML)": {
+                "intake": 60,
+                "PEOs": [
+                    "Using a solid foundation in mathematical, scientific, engineering, and current computing principles, formulate, analyse, and resolve engineering issues.",
+                    "Apply artificial intelligence theory and concepts to analyse the requirements, realise technical specifications, and design engineering solutions.",
+                    "Through cross-disciplinary projects and a variety of professional activities, demonstrate technical proficiency, AI competency, and foster collaborative learning and a sense of teamwork.",
+                    "Provide graduates with solid knowledge, competence, and soft skills that will enable them to ethically contribute to societal demands and achieve sustainable advancement in emerging computer technologies through lifelong learning."
+                ],
+                "PSOs": [
+                    "Apply the principal concepts of AI Engineering to design, develop, deploy and prototype AI Subsystems.",
+                    "Apply the knowledge gained pertaining to data storage, data analytics and AI concepts to solve real-world business problems.",
+                    "Apply, analyse, design, develop, and test principles of AI concepts on Intelligent Systems."
+                ]
+            }
+        },
+        "program_outcomes": [
+            "Apply the knowledge of mathematics, science, engineering fundamentals and an engineering specialization for the solution of complex engineering problems.",
+            "Identify, formulate, research literature, and analyse complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.",
+            "Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for public health and safety, and cultural, societal, and environmental considerations.",
+            "Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions.",
+            "Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools, including prediction and modelling to complex engineering activities, with an understanding of the limitations.",
+            "Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal, and cultural issues and the consequent responsibilities relevant to the professional engineering practice.",
+            "Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.",
+            "Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.",
+            "Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.",
+            "Communicate effectively on complex engineering activities with the engineering community and with the society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.",
+            "Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.",
+            "Recognize the need for, and have the preparation and ability to engage in independent and lifelong learning in the broadest context of technological change."
+        ]
+    },
+    {
+        "department": "Information Technology",
+        "overview": "We’re talking game-changing IT education.",
+        "description": "The IT department at CBIT does not need any lucky stars to thank, since we have stars among us who are always willing to go that extra mile. When excellence is the permanent goal, obstacles appear as temporary. That is the spirit with which our departmental teachers, students and research scholars work in order to retain the prestigious position it holds in this field of engineering.",
+        "vision": "To be a center of excellence in the field of information technology that yields pioneers and research experts who can contribute for the socio-economic development of the nation.",
+        "mission": [
+            "To impart state-of-the-art value based education in the field of Information Technology.",
+            "To collaborate with industries and research organizations and excel in the emerging areas of research.",
+            "To imbibe social responsibility in students.",
+            "To motivate students to be trend setters and technopreneurs."
+        ],
+        "programs_offered": {
+            "undergraduate": {
+                "name": "B.E. (Information Technology)",
+                "intake": 180
+            }
+        },
+        "program_outcomes": {
+            "engineering_knowledge": "Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization for the solution of complex engineering problems.",
+            "problem_analysis": "Identify, formulate, review, research literature, and analyse complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.",
+            "design_and_development": "Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and cultural, societal, and environmental considerations.",
+            "investigation_of_problems": "Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions.",
+            "modern_tool_usage": "Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools, including prediction and modelling to complex engineering activities with an understanding of the limitations.",
+            "engineer_and_society": "Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal, and cultural issues and the consequent responsibilities relevant to the professional engineering practice.",
+            "environment_and_sustainability": "Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.",
+            "ethics": "Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.",
+            "individual_and_teamwork": "Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.",
+            "communication": "Communicate effectively on complex engineering activities with the engineering community and with the society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.",
+            "project_management_and_finance": "Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.",
+            "lifelong_learning": "Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change."
+        }
+    },
+    {
+        "department": "Computer Engineering and Technology",
+        "overview": {
+            "description": "The Department of CSE started its UG program BE(CSE) in 1985 with an intake of 20. It has expanded to 300 students with three UG programs: B.E(CSE), B.E CSE (AI & ML), and B.E-CSE(IoT with Cyber Security Including Blockchain Technology). The M.Tech. CSE program was started in 2002 with an intake of 18, increased to 36 in 2011. The department provides a conducive intellectual ambiance with well-equipped labs.",
+            "accreditation": "The BE-CSE program was first accredited by NBA (AICTE) in 1998 with ‘A’ grade for 3 years. It was reaccredited in 2004, 2008, 2013, and 2017.",
+            "research": "The department is a recognized research center under Osmania University. Faculty and students have several patents.",
+            "centers_of_excellence": [
+                "IoT",
+                "AI/ML",
+                "Cyber Security",
+                "AAiHC"
+            ]
+        },
+        "collaborations": {
+            "mous": [
+                "MSME",
+                "Robotic Process Automation",
+                "KernelSphere Technologies",
+                "Telangana State Council of Science and Technology",
+                "DSCI"
+            ],
+            "workshops_and_certifications": [
+                "Microsoft",
+                "IBM"
+            ],
+            "professional_bodies": [
+                "CSI",
+                "ISTE",
+                "IEEE",
+                "CSI Student Branch"
+            ]
+        },
+        "faculty": {
+            "qualification": "Well-qualified and professionally active staff, majority pursuing Ph.D. in AI, ML, Cyber Security, Data Science, Data Mining, and Blockchain.",
+            "technical_clubs": [
+                "CBIT Open Source (COSC) Club",
+                "Security Club"
+            ]
+        },
+        "placements": {
+            "placement_record": "More than 90% of students placed every year.",
+            "top_recruiters": [
+                "Microsoft",
+                "JP Morgan",
+                "Accolite",
+                "NCR",
+                "Oracle",
+                "SalesForce"
+            ],
+            "highest_salary": "24+ LPA",
+            "internship_trend": "Number of students doing internships is increasing every year."
+        },
+        "vision": "To be in the frontiers of Computer Science and Engineering with academic excellence and Research.",
+        "mission": [
+            "Educate students with the best practices of Computer Science by integrating the latest research into the curriculum.",
+            "Develop professionals with sound knowledge in theory and practice of Computer Science and Engineering.",
+            "Facilitate the development of academia-industry collaboration and societal outreach programs.",
+            "Prepare students for full and ethical participation in a diverse society and encourage lifelong learning."
+        ],
+        "programs_offered": [
+            "B.E.-CSE",
+            "B.E.-CSE (AI & ML)",
+            "B.E.-CSE (IoT with Cyber Security Including Blockchain Technology)",
+            "M.Tech CSE"
+        ]
+    },
+    {
+        "department": "Artificial Intelligence and Data Science",
+        "overview": "We’re talking game-changing IT education",
+        "vision": "To be a globally recognized center of excellence in the field of Artificial Intelligence and Data Science that produces innovative pioneers and research experts capable of addressing complex real-world challenges and contributing to the socio-economic development of the nation.",
+        "mission": [
+            "To provide cutting-edge education in the field of Artificial Intelligence and Data Science that is rooted in ethical and moral values.",
+            "To establish strong partnerships with industries and research organizations in the field of Artificial Intelligence and Data Science, and to excel in the emerging areas of research by creating innovative solutions.",
+            "To cultivate a strong sense of social responsibility among students, fostering their inclination to utilize their knowledge and skills for the betterment of society.",
+            "To motivate and mentor students to become trailblazers in Artificial Intelligence and Data Science, and develop an entrepreneurial mindset that nurtures innovation and creativity."
+        ],
+        "programs_offered": {
+            "undergraduate": "B.E. (Artificial Intelligence & Data Science)",
+            "postgraduate": "M.Tech. (Artificial Intelligence & Data Science)"
+        },
+        "PEOs_B.E_AI_DS": [
+            "Adapt emerging technologies of Artificial Intelligence & Data Science and develop state-of-the-art solutions in the fields of Manufacturing, Agriculture, Health-care, Education, and Cyber Security.",
+            "Exhibit professional leadership qualities to excel in interdisciplinary domains.",
+            "Possess human values, professional ethics, application-oriented skills and engage in lifelong learning.",
+            "Contribute to the research community to meet the needs of public and private sectors."
+        ],
+        "PSOs_B.E_AI_DS": [
+            "Exhibit proficiency in Artificial Intelligence and Data Science in providing sustainable solutions by adapting to societal, environmental, and ethical concerns to real-world problems.",
+            "Develop professional skills in the thrust areas like ANN and Deep learning, Robotics, Internet of Things, and Big Data Analytics.",
+            "Pursue higher studies in Artificial Intelligence and Data Science in reputed Universities and work in research establishments."
+        ],
+        "POs_B.E_AI_DS": [
+            "Engineering Knowledge",
+            "Problem Analysis",
+            "Design/Development of Solutions",
+            "Conduct Investigations of Complex Problems",
+            "Engineering Tool Usage",
+            "The Engineer and The World",
+            "Ethics",
+            "Individual and Collaborative Team work",
+            "Communication",
+            "Project Management and Finance",
+            "Life-Long Learning"
+        ],
+        "PEOs_M.Tech_AI_DS": [
+            "Undertake careers in industry involving innovation and problem-solving using Artificial Intelligence and Data Science technologies.",
+            "Possess research orientation and adopt lifelong learning."
+        ],
+        "PSOs_M.Tech_AI_DS": [
+            "Develop solutions to real-world problems in the emerging areas of Manufacturing, Agriculture, Health-care, Education, and Cyber Security.",
+            "Systematically investigate and provide Artificial Intelligence and Data Science-based solutions in multidisciplinary domains."
+        ],
+        "POs_M.Tech_AI_DS": [
+            "Independently carry out research/investigation and development work to solve practical problems.",
+            "Write and present a substantial technical report/document.",
+            "Demonstrate a degree of mastery over the area as per the specialization of the program. The mastery should be at a level higher than the requirements in the appropriate bachelor program."
+        ]
+    },
+    {
+        "department": "Chemical Engineering",
+        "overview": {
+            "established_year": 1995,
+            "initial_intake": 40,
+            "current_intake": 60,
+            "accreditation_history": [
+                {
+                    "year": 2004,
+                    "duration": "3 years"
+                },
+                {
+                    "year": 2008,
+                    "duration": "3 years"
+                },
+                {
+                    "year": 2012,
+                    "duration": "3 years"
+                },
+                {
+                    "year": 2017,
+                    "duration": "3 years"
+                }
+            ],
+            "career_opportunities": [
+                "Placement in MNCs and industries",
+                "Teaching and research",
+                "Postgraduate studies (M.Tech, M.S, MBA in India, USA, UK, Germany, Australia)",
+                "Entrepreneurship"
+            ],
+            "collaborations": {
+                "inter_departmental": [
+                    "Biotechnology",
+                    "Chemistry",
+                    "Mathematics",
+                    "Physics"
+                ],
+                "research_centers": [
+                    "Centre of Life Sciences Research",
+                    "Smart Centre for Green Engineering and Technology-Research"
+                ],
+                "MoUs": [
+                    {
+                        "organization": "CSIR-IICT",
+                        "type": "National"
+                    },
+                    {
+                        "organization": "Rowan University-USA",
+                        "type": "International"
+                    }
+                ]
+            }
+        },
+        "initiatives": [
+            "Chemical Engineering Clinic",
+            "Innovative Cell",
+            "Hobby Cell",
+            "IIChE Students' Chapter (Best Chapter in 2001)"
+        ],
+        "faculty_involvement": [
+            "MSME Business Incubation Centre",
+            "T-Hub",
+            "Cyber Security Group",
+            "ATAL Community Innovation Nodal Center"
+        ],
+        "programs_offered": [
+            {
+                "name": "B.Tech in Chemical Engineering",
+                "intake": 60
+            }
+        ],
+        "vision": "To become the most sought centre of excellence engaged in training and shaping students as professionals for higher education and process industries both in India and abroad and allow the students to do R&D projects and publish in reputed journals.",
+        "mission": [
+            "Imparting contemporary technical education and training manpower.",
+            "To create a skilled human resource talent pool.",
+            "To serve and manage the process industries globally with a sense of responsibility towards society and the environment."
+        ],
+        "program_educational_objectives": [
+            {
+                "id": "PEO-1",
+                "description": "Graduates will excel in advanced studies and research in chemical engineering and allied disciplines, will establish successful enterprises by applying their foundations of chemical engineering principles and provide innovative solutions to industry challenges."
+            },
+            {
+                "id": "PEO-2",
+                "description": "Graduates will possess the ability to lead, collaborate effectively, and conduct themselves ethically in professional environments. They will recognize the impact of their work on society and the environment on a global scale and will pledge to engage in actions that benefit society."
+            },
+            {
+                "id": "PEO-3",
+                "description": "Graduates will utilize their technical expertise and analytical abilities to enhance the design, evaluation, and optimization of products and processes. They will respond to the evolving demands of the process industries by dedicating themselves to excellence in engineering practices."
+            },
+            {
+                "id": "PEO-4",
+                "description": "Graduates will engage in continuous technological advancements, enhancing their abilities through attending workshops and conferences, certification courses, and self-directed study. This will assist them in remaining pertinent and adaptable in an ever-evolving world."
+            }
+        ],
+        "program_specific_outcomes": [
+            {
+                "id": "PSO-1",
+                "description": "Undertake research activities in the area of heat & mass transfer, separation processes, reaction engineering, related to Green Chemical Engineering."
+            },
+            {
+                "id": "PSO-2",
+                "description": "Undertake real-life projects in process industries and allied fields."
+            }
+        ],
+        "program_outcomes": [
+            {
+                "id": "PO-1",
+                "title": "Engineering knowledge",
+                "description": "Apply the knowledge of mathematics, science, engineering fundamentals, and engineering specialization for solving complex engineering problems."
+            },
+            {
+                "id": "PO-2",
+                "title": "Problem analysis",
+                "description": "Identify, formulate, research literature, and analyse complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences."
+            },
+            {
+                "id": "PO-3",
+                "title": "Design/development of solutions",
+                "description": "Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for public health and safety, and cultural, societal, and environmental considerations."
+            },
+            {
+                "id": "PO-4",
+                "title": "Conduct investigations of complex problems",
+                "description": "Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions."
+            },
+            {
+                "id": "PO-5",
+                "title": "Modern tool usage",
+                "description": "Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools, including prediction and modeling to complex engineering activities, with an understanding of the limitations."
+            },
+            {
+                "id": "PO-6",
+                "title": "The engineer and society",
+                "description": "Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal, and cultural issues and the consequent responsibilities relevant to the professional engineering practice."
+            },
+            {
+                "id": "PO-7",
+                "title": "Environment and sustainability",
+                "description": "Understand the impact of professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development."
+            },
+            {
+                "id": "PO-8",
+                "title": "Ethics",
+                "description": "Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice."
+            },
+            {
+                "id": "PO-9",
+                "title": "Individual and team work",
+                "description": "Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings."
+            },
+            {
+                "id": "PO-10",
+                "title": "Communication",
+                "description": "Communicate effectively on complex engineering activities with the engineering community and with the society at large, such as being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions."
+            },
+            {
+                "id": "PO-11",
+                "title": "Project management and finance",
+                "description": "Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments."
+            },
+            {
+                "id": "PO-12",
+                "title": "Life-long learning",
+                "description": "Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change."
+            }
+        ]
+    },
+    {
+        "department": "Biotechnology",
+        "about": "The Department of Biotechnology at C.B.I.T. provides education, research, and training in various aspects of biotechnology, fostering innovation and entrepreneurship since 2005.",
+        "domains": [
+            "Industrial and Bioprocess Engineering",
+            "Medical Biotechnology",
+            "Plant Biotechnology",
+            "Animal Biotechnology",
+            "Bioinformatics"
+        ],
+        "infrastructure": {
+            "laboratories": "State-of-the-art wet lab and computer lab with advanced equipment including spectrophotometers, fermenters, PCR machines, and high-end computing resources."
+        },
+        "faculty": {
+            "total": 12,
+            "qualifications": "Highly qualified faculty, including Ph.D. holders from IITs and international institutions."
+        },
+        "student_engagement": {
+            "clubs": "Biotechnology and Bioengineering Club of CBIT (BBC-CBIT)",
+            "activities": "Research, conferences, workshops, ideathons, industry interaction, and extracurricular activities."
+        },
+        "placements": {
+            "placement_rate": "95%+",
+            "companies": [
+                "Dr. Reddy’s Lab",
+                "Capgemini",
+                "Accenture",
+                "Cognizant",
+                "GenC",
+                "Wipro",
+                "MuSigma",
+                "TCS",
+                "Winred Technologies"
+            ],
+            "higher_education": [
+                "IISc Bangalore",
+                "Imperial College London",
+                "Johns Hopkins University",
+                "University of California",
+                "Georgia Tech University",
+                "Trinity College Dublin",
+                "Rutgers University",
+                "University of Honheim, Germany"
+            ]
+        },
+        "programs_offered": [
+            "B.Tech in Biotechnology"
+        ],
+        "program_educational_objectives": [
+            "Successful careers in industry, higher education, and research.",
+            "Leadership with a commitment to ethics and teamwork.",
+            "Lifelong learning and entrepreneurship.",
+            "Responsible engineering practice contributing to socio-economic development."
+        ],
+        "program_outcomes": [
+            "Engineering knowledge",
+            "Problem analysis",
+            "Design and development of solutions",
+            "Research and data interpretation",
+            "Modern tool usage",
+            "Engineering in societal context",
+            "Environment and sustainability",
+            "Ethics and professional responsibility",
+            "Individual and teamwork",
+            "Effective communication",
+            "Project management and finance",
+            "Lifelong learning"
+        ],
+        "program_specific_outcomes": [
+            "Apply biotechnology concepts in healthcare, agriculture, biofuels, and food industry.",
+            "Demonstrate proficiency in lab practices and handling of biotechnology equipment."
+        ],
+        "vision": "To excel in education, research, and entrepreneurship in various fields of Biotechnology for contribution to the evolving needs of society.",
+        "mission": [
+            "Provide quality education and research opportunities in biotechnology.",
+            "Foster lifelong learning and industry engagement.",
+            "Encourage innovation, creativity, and ethical responsibility."
+        ]
+    },
+    {
+        "department": "Physics",
+        "overview": "One of the oldest departments at CBIT, the physics department is known for its faculty and research infrastructure. The department plays a crucial role in engineering education by emphasizing the fundamentals of physics and their technological applications.",
+        "vision": "Nurturing student talent in the core and applied areas of physics. Encouraging fresh graduates to advance in science and technology.",
+        "mission": "To enrich the principles of physics, making the core subject more accessible to graduate students. The department aligns with dynamic curricula from affiliating institutions like AICTE and HEI, offering various courses and electives to undergraduate and postgraduate students.",
+        "courses_offered": [
+            "Optics & Semiconductor Physics (OSP)",
+            "Electromagnetic Theory & Quantum Mechanics (ETQM)",
+            "Mechanics and Materials Science (MMS)",
+            "Physics for I-Year B.E/B.Tech",
+            "History of Science and Technology (Open Elective for III, IV-year and PG students)"
+        ],
+        "academic_contributions": {
+            "role_in_curriculum": "Schedules class work for I-Year B.E/B.Tech programs and participates in academic and co-curricular activities.",
+            "events_and_initiatives": [
+                "Orientation and student induction programs",
+                "College cultural festival SHRUTHI",
+                "National level technical fest SUDHEE"
+            ],
+            "publications": {
+                "journal_publications": 85,
+                "conference_proceedings": 50
+            },
+            "research_facilities": "Materials Research and Radiation Physics facilities under development.",
+            "funding": {
+                "total_amount_secured": "Rs. 81,00,000",
+                "funding_agencies": [
+                    "DST",
+                    "SERB",
+                    "UGC",
+                    "UGC-DAE CSR",
+                    "TSCOST"
+                ]
+            }
+        },
+        "faculty_development": {
+            "workshops_and_conferences": "The department conducts FDPs, seminars, workshops, and conferences to benefit faculty and students.",
+            "interdisciplinary_research": "Aims to achieve research excellence through collaborations with industries and institutions nationally and internationally."
+        }
+    },
+    {
+        "department": "Chemistry",
+        "description": "The chemistry department serves the purpose of imparting knowledge in the core science subject, which is a foundational building block for most engineering disciplines. High-tech labs with the latest technological advancements provide students and faculty with resources to strengthen their knowledge. A team of highly capable teachers and staff ensures smooth departmental operations.",
+        "objectives": [
+            "To provide the best facility, infrastructure, and environment to students and faculty members.",
+            "To develop organizational skills, core competence, and ethics in first-year engineering students to grow as true professionals for achieving success in life.",
+            "To play the role of mentors to undergraduates through advising them in research.",
+            "To teach students the value of cross-disciplinary thinking by providing them with educational and research opportunities between chemistry and other fields of study.",
+            "To promote innovative curriculum development while exposing students to advanced instrumentation and technology.",
+            "To apply various instrumental methods to analyze chemical compounds and to improve understanding of theoretical concepts."
+        ],
+        "vision": "Our vision is to develop the department into a center of learning, offering postgraduate and research programs in pure and applied chemistry.",
+        "mission": "To impart value-based technical education so that the next generation of engineers who serve society well get produced.",
+        "program_educational_objectives": [
+            "To train the students to provide basic knowledge and skills in Chemistry for application in engineering and technology.",
+            "To motivate the students and staff for continuous learning.",
+            "To promote research and development activities in collaboration with other departments and organizations.",
+            "To improve interdisciplinary interaction."
+        ],
+        "program_outcomes": {
+            "Engineering Knowledge": "Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization for the solution of complex engineering problems.",
+            "Problem Analysis": "Identify, formulate, research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.",
+            "Design/Development of Solutions": "Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for public health and safety, and cultural, societal, and environmental considerations.",
+            "Conduct Investigations of Complex Problems": "Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions.",
+            "Modern Tool Usage": "Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools, including prediction and modeling to complex engineering activities, with an understanding of the limitations.",
+            "The Engineer and Society": "Apply reasoning informed by contextual knowledge to assess societal, health, safety, legal, and cultural issues and the consequent responsibilities relevant to the professional engineering practice.",
+            "Environment and Sustainability": "Understand the impact of professional engineering solutions in societal and environmental contexts, and demonstrate knowledge of, and need for sustainable development.",
+            "Ethics": "Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.",
+            "Individual and Team Work": "Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.",
+            "Communication": "Communicate effectively on complex engineering activities with the engineering community and with society at large, such as being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.",
+            "Project Management and Finance": "Demonstrate knowledge and understanding of engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.",
+            "Life-Long Learning": "Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change."
+        }
+    },
+    {
+        "department": "Mathematics and Humanities",
+        "description": "The Mathematics and Humanities Department is an abode of excellence, just like other departments in the college. Students are made familiar with the latest theoretical developments in their respective disciplines. Since both mathematics and humanities may seem to be very abstract because of the very nature of the subjects, special attention is given to put all classroom discussions in the context of practical realities.",
+        "vision": "The Department of Mathematics at CBIT, Hyderabad, right from its inception in 1979 has strived hard to become a centre of excellence in mathematics and computing, and it has been extensively engaged in teaching and research activities of Engineering & Sciences.",
+        "mission": [
+            "To transform young students into competent and motivated professionals with sound theoretical and practical knowledge.",
+            "To create an atmosphere which encourages research, clear thinking and determination among students by imparting quality education.",
+            "To cater to the emerging needs of all the students for their overall development by introducing relevant courses."
+        ]
+    },
+    {
+        "department": "English",
+        "overview": "The Department of English at CBIT was newly born in October 2018. With this new identity and autonomy, we are surging forth to establish and strengthen ourselves in the academic arena.",
+        "faculty_strength": 9,
+        "phd_faculty": 5,
+        "research_areas": [
+            "Indian Literature",
+            "Commonwealth Literature",
+            "American Literature",
+            "Linguistics",
+            "ELT",
+            "ICT"
+        ],
+        "language_labs": [
+            "Interactive Communication Skills Lab (ICS)",
+            "Computer Assisted Language Learning Lab (CALL)",
+            "Soft Skills Labs (4 Labs)"
+        ],
+        "courses_offered": [
+            "Technical Writing Skills",
+            "English for Research Paper Writing",
+            "Gender Sensitization"
+        ],
+        "special_courses": [
+            "Proficiency course for weak students to improve English Language skills"
+        ],
+        "student_clubs": [
+            "Communicando - The Literary Club",
+            "Transcendent",
+            "CBIT MUN",
+            "Toastmasters",
+            "Chaitanya Sahithi",
+            "Chaitanya Chaaya",
+            "Chaitanya Srujana"
+        ],
+        "club_activities": [
+            "Debates",
+            "Discussions",
+            "Writing",
+            "Organizing Events",
+            "Leadership Development",
+            "Workshops on Theatre, Drama, Filmmaking, and Photography"
+        ],
+        "department_vision": "To create, convey, and apply knowledge and language skills to help in the holistic development of individuals, and to aim for excellence through its focus on teaching and learning, research and discovery, outreach, and collaboration.",
+        "department_mission": [
+            "To facilitate the acquisition of communication and soft skills with a humanistic approach.",
+            "To equip students with language skills, manners, etiquette, and soft skills.",
+            "To enable students to use English as a tool for employment, higher studies, and entrepreneurship.",
+            "To use innovative teaching and learning methods for effective language skill acquisition.",
+            "To develop the department as a center of excellence for language teaching."
+        ]
+    },
+    {
+        "department": "Master of Computer Applications (MCA)",
+        "vision": "To become a premier center in the field of Computer Applications that produces innovative, skillful and socially responsible professionals who can contribute significantly to academics, research and industry.",
+        "mission": [
+            "To empower students with state-of-the-art technologies in Computer Science and its Applications to meet global needs.",
+            "To develop technical expertise in Computer Applications through collaborative learning and innovation.",
+            "To encourage lifelong learning, social responsibility, professionalism and ethical practices in addressing real-world challenges."
+        ],
+        "programs_offered": [
+            {
+                "name": "MCA",
+                "initial_intake": 30,
+                "current_intake": 60
+            }
+        ],
+        "placements": {
+            "companies": [
+                "Wipro",
+                "Tata",
+                "Accenture",
+                "Deloitte",
+                "Verizon",
+                "Bank of America",
+                "CTS"
+            ]
+        },
+        "program_educational_objectives": [
+            {
+                "PEO1": "Possess a strong foundation in Computer Science Applications, demonstrating proficiency in programming languages, software development and other core areas."
+            },
+            {
+                "PEO2": "Excel in career by exhibiting societal consciousness, creativity and technical competency in emerging areas of computer applications."
+            },
+            {
+                "PEO3": "Demonstrate a commitment to professional and social responsibility while applying computational thinking, adapting to industry demands, and undertaking professional development activities."
+            }
+        ],
+        "program_outcomes": [
+            {
+                "PO1": "Apply mathematical foundations and concepts of Computer Science to meet the Industry requirements."
+            },
+            {
+                "PO2": "Analyze, design and investigate complex problems to formulate solutions using domain knowledge with emerging tools and technologies."
+            },
+            {
+                "PO3": "Develop creative applications with acquired skills to become Information Technology professionals."
+            },
+            {
+                "PO4": "Communicate effectively with diverse teams."
+            },
+            {
+                "PO5": "Recognize societal needs and develop solutions with professional ethics."
+            },
+            {
+                "PO6": "Acquire software project management skills, lifelong learning, career enhancement and adaptability in different professional environments."
+            }
+        ]
+    },
+    {
+        "department": "CBIT-School of Management Studies",
+        "overview": "The AICTE approved management department at CBIT is noted for its consistent contributions towards the various fields of management, ranging from human resources to marketing to finance. The students are given in-depth theoretical training as well as practical exposure so that they can become indispensable assets to whichever organization they are working for.",
+        "vision": "To establish an institutional culture for education, research and innovation to achieve sustainable impact on society.",
+        "mission": [
+            "Impart quality management education through innovation in teaching and learning.",
+            "Promote research and development and consultancy in different areas of specialization.",
+            "To develop a strong moral compass for ethical conduct that enables value based management education.",
+            "Equip the management students with skills related to leadership, social, communication, analytical and decision making.",
+            "Collaborate with global and Indian, industry and eminent institutions."
+        ],
+        "programs_offered": [
+            {
+                "name": "MBA",
+                "description": "The postgraduate program in management is offered with the objective of imparting students with the technical know-how that is essential for becoming successful as a manager."
+            }
+        ],
+        "program_educational_objectives": [
+            "To equip the students with fundamentals of management theory and its application in organizational process.",
+            "To enhance conceptual and practical knowledge of students in the field of Business Management.",
+            "To adapt to a rapidly changing business environment with new skills and competencies.",
+            "To inculcate a strong team spirit with positive bent of mind and high level of enthusiasm and commitment to meet the challenges in organization.",
+            "To train and develop students with strong ethical values capable of occupying a significant role in the society.",
+            "To nurture student’s capabilities and skills to enable them to be job providers and job seekers."
+        ],
+        "program_outcomes": [
+            "Apply knowledge of management theories and practices to solve business problems.",
+            "Foster analytical and practical knowledge for data-based decision making.",
+            "Develop action plan to implement change in global, economic, legal and ethical aspects.",
+            "Ability to lead themselves and others in the achievement of organizational goals, contributing effectively to a team environment.",
+            "Ability to develop value based leadership.",
+            "Equipped with professional skills for Employment, Entrepreneurship and Higher Education."
+        ]
+    },
+    {
+        "department": "Physical Education",
+        "description": "Physical education is an important component of education today, since only a healthy body can sustain the rigorous intellectual pursuits that the future scientists and engineers have to endure. At CBIT’s physical education department, we make it a point to keep building the physical stamina of our students so that they always remain energetic.",
+        "mission": "To emerge as the hub of physical fitness within the college.",
+        "vision": "To keep inspiring a collaborative as well as competitive spirit among all students."
+    }
+]

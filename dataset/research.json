@@ -1,0 +1,452 @@
+{
+    "about": "To enhance research activities and cultivate pleasant research atmosphere, a multi-crore state of the art building with all modern technical facilities was established in the year 2018. It accommodates all departments to carry out advanced research, establish incubation cells and start-ups. The R&E Hub, with its State-of-the-Art Infrastructure, helps to promote Research and Innovations amongst the Faculty and Students by identifying new Research Areas, developing Projects leading to Publications, Products, Innovations and Start-Ups. All research activities are being streamlined to make a mark in ‘Make in India’ concept of Indian Government. It has two main wings namely Research and Development (R&D) Centre and Innovation and Incubation Centre (IIC).The institution has been actively involved in multidisciplinary areas of research and promotes engagement with industries through consultancy services. The research and consultancy activities are being taken up by the dynamic and experienced members of the institution. Young and enthusiastic minds of under graduate, post graduate and Ph.D students actively participate in all these activities. The institution is keen to foster the development of research in the diverse area of sciences, technology and management and create a wealth of human resources in specified fields",
+    "vision": "The main aim of the R&E Hub is to streamline the Research Activities and contribute to Products, Processes and Systems, to make a mark, in the ‘Make in India’ Program actively and aggressively promoted by the Government of India.",
+    "mission": "The mission of R&E Hub is to promote, nurture and facilitate an excellent platform to the students, research scholars and faculty of the institute for innovative and collaborative research to transform the institute into a center of excellence in education and research.",
+    "r&e_team": [
+        {
+            "Name_of_the_Staff": "Prof. P. Ravinder Reddy",
+            "Designation": "I/c Director and Head R&E",
+            "Email_ID": "director_hre@cbit.ac.in"
+        },
+        {
+            "Name_of_the_Staff": "Prof. A. D. Sarma",
+            "Designation": "Advisor R&D",
+            "Email_ID": "director_randd@cbit.ac.in"
+        },
+        {
+            "Name_of_the_Staff": "Prof. Umakanta Choudhury",
+            "Designation": "Director I&I",
+            "Email_ID": "director_ii@cbit.ac.in"
+        },
+        {
+            "Name_of_the_Staff": "Prof. D. Krishna Reddy",
+            "Designation": "Director R&D",
+            "Email_ID": "director_randd@cbit.ac.in"
+        },
+        {
+            "Name_of_the_Staff": "Dr. T. Sudhakar Babu",
+            "Designation": "Associate Director-R&D",
+            "Email_ID": "associatedirector_randd@cbit.ac.in"
+        },
+        {
+            "Name_of_the_Staff": "Sri. K. Lakshmanna",
+            "Designation": "Senior Research Assistant-R&D",
+            "Email_ID": "lakshmanna_rnd@cbit.ac.in"
+        },
+        {
+            "Name_of_the_Staff": "Sri. B. Jahangir",
+            "Designation": "Administrative Executive-I&I",
+            "Email_ID": "jahangirbudida_admnex@cbit.ac.in"
+        },
+        {
+            "Name_of_the_Staff": "Sri. E. Ravinder",
+            "Designation": "SPP-IB Attender"
+        }
+    ],
+    "departmental_research_coordinators": [
+        {
+            "department": "Biotech",
+            "coordinators": [
+                {
+                    "name": "Dr. Nagendra Natha Reddy",
+                    "designation": "Assistant Professor",
+                    "email": "nagendranath_biotech@cbit.ac.in"
+                },
+                {
+                    "name": "Dr. Bishwambhar Mishra",
+                    "designation": "Assistant Professor",
+                    "email": "bishwambhar_biotech@cbit.ac.in"
+                }
+            ]
+        },
+        {
+            "department": "Chemical",
+            "coordinators": [
+                {
+                    "name": "Dr. M. Mallaiah",
+                    "designation": "Associate Professor",
+                    "email": "mallaiah_chem@cbit.ac.in"
+                }
+            ]
+        },
+        {
+            "department": "AI&DS",
+            "coordinators": [
+                {
+                    "name": "Dr. D. L. S. Reddy",
+                    "designation": "Associate Professor",
+                    "email": "dlsrinivasareddy_it@cbit.ac.in"
+                },
+                {
+                    "name": "Dr. K. Ramana",
+                    "designation": "Associate Professor",
+                    "email": "kramana_aids@cbit.ac.in"
+                }
+            ]
+        },
+        {
+            "department": "AIML",
+            "coordinators": [
+                {
+                    "name": "Dr. Y. C. A. Padmanabha Reddy",
+                    "designation": "Associate Professor",
+                    "email": "padmanabhareddy_cseaiml@cbit.ac.in"
+                }
+            ]
+        },
+        {
+            "department": "CET",
+            "coordinators": [
+                {
+                    "name": "Dr. S. Kranthi Kumar",
+                    "designation": "Associate Professor",
+                    "email": "kranthikumars_cet@cbit.ac.in"
+                }
+            ]
+        },
+        {
+            "department": "Civil",
+            "coordinators": [
+                {
+                    "name": "Dr. Angshuman Das",
+                    "designation": "Assistant Professor",
+                    "email": "angshumandas_civil@cbit.ac.in"
+                },
+                {
+                    "name": "Dr. Kamalini Devi",
+                    "designation": "Assistant Professor",
+                    "email": "kamalinidevi_civil@cbit.ac.in"
+                }
+            ]
+        },
+        {
+            "department": "CSE",
+            "coordinators": [
+                {
+                    "name": "Dr. Kolla Morarjee",
+                    "designation": "Associate Professor",
+                    "email": "morarjeek_cse@cbit.ac.in"
+                },
+                {
+                    "name": "Dr. R. Ravinder Reddy",
+                    "designation": "Professor",
+                    "email": "rravinderreddy_cse@cbit.ac.in"
+                }
+            ]
+        },
+        {
+            "department": "ECE",
+            "coordinators": [
+                {
+                    "name": "Dr. A. Supraja Reddy",
+                    "designation": "Associate Professor",
+                    "email": "suprajareddy_ece@cbit.ac.in"
+                },
+                {
+                    "name": "Dr. M.V. Vinodh Kumar",
+                    "designation": "Associate Professor",
+                    "email": "vinodhkumarm_ece@cbit.ac.in"
+                },
+                {
+                    "name": "Dr. M. Bhanuchandra",
+                    "designation": "Associate Professor",
+                    "email": "bhanuchandram_ece@cbit.ac.in"
+                }
+            ]
+        },
+        {
+            "department": "EEE",
+            "coordinators": [
+                {
+                    "name": "Dr. B. Krishna Chaitanya",
+                    "designation": "Assistant Professor",
+                    "email": "krishnachaitanyab_eee@cbit.ac.in"
+                }
+            ]
+        },
+        {
+            "department": "IT",
+            "coordinators": [
+                {
+                    "name": "Dr. T.Satyanarayana Murthy",
+                    "designation": "Associate Professor",
+                    "email": "tsmurthy_it@cbit.ac.in"
+                },
+                {
+                    "name": "Dr. Pragati Priyadarshinee",
+                    "designation": "Assistant Professor",
+                    "email": "pragatipriyadarshinee_it@cbit.ac.in"
+                }
+            ]
+        },
+        {
+            "department": "Mechanical",
+            "coordinators": [
+                {
+                    "name": "Dr. Rahul",
+                    "designation": "Assistant Professor",
+                    "email": "rahul_mech@cbit.ac.in"
+                },
+                {
+                    "name": "Dr. A. Sahu",
+                    "designation": "Assistant Professor",
+                    "email": "ashutosh_mech@cbit.ac.in"
+                }
+            ]
+        },
+        {
+            "department": "English",
+            "coordinators": [
+                {
+                    "name": "Dr. A. Vijayalakshmi",
+                    "designation": "Assistant Professor",
+                    "email": "vijayalakshmi_english@cbit.ac.in"
+                }
+            ]
+        },
+        {
+            "department": "Chemistry",
+            "coordinators": [
+                {
+                    "name": "Dr. G. Venkata Ramesh",
+                    "designation": "Associate Professor",
+                    "email": "venkataramesh_chm@cbit.ac.in"
+                }
+            ]
+        },
+        {
+            "department": "Mathematics",
+            "coordinators": [
+                {
+                    "name": "Dr. Macha Madhu",
+                    "designation": "Assistant Professor",
+                    "email": "madhum_maths@cbit.ac.in"
+                }
+            ]
+        },
+        {
+            "department": "Physics",
+            "coordinators": [
+                {
+                    "name": "Dr. A. Santhosh Kumar",
+                    "designation": "Assistant Professor",
+                    "email": "asanthoshkumar_physics@cbit.ac.in"
+                }
+            ]
+        },
+        {
+            "department": "SMS",
+            "coordinators": [
+                {
+                    "name": "Dr.Venkata Ramana",
+                    "designation": "Assistant Professor",
+                    "email": "venkataramanat_sms@cbit.ac.in"
+                }
+            ]
+        },
+        {
+            "department": "MCA",
+            "coordinators": [
+                {
+                    "name": "Dr. B. Indira",
+                    "designation": "Associate Professor",
+                    "email": "bindira_mca@cbit.ac.in"
+                }
+            ]
+        }
+    ],
+    "Infrastructure": {
+        "description": "To enhance research activities and cultivate a pleasant research atmosphere, CBIT established a state-of-the-art building with modern technical facilities in 2018. This multi-crore facility, known as the R&E Hub, accommodates all ten main departments to carry out advanced research. The hub promotes research and innovations among faculty and students by identifying new research areas and developing projects leading to publications, products, innovations, and start-ups. All research activities are streamlined to align with the 'Make in India' concept of the Indian Government. The R&E Hub has two main wings: the Research and Development (R&D) Centre and the Innovation and Incubation Centre (IIC). Independent space is provided to each department to encourage both individual and collaborative research for executing sponsored and consultancy projects. Departments are also encouraged to set up 'Centres of Excellence', with one such center being the 'Navigation and Communication Research Centre', which executes several sponsored and consultancy projects from DRDO and ISRO.",
+        "features": [
+            "State-of-the-art building with modern technical facilities",
+            "Accommodates all ten main departments",
+            "Promotes research and innovations",
+            "Aligns with 'Make in India' concept",
+            "Research and Development (R&D) Centre",
+            "Innovation and Incubation Centre (IIC)",
+            "Independent space for each department",
+            "Encourages individual and collaborative research",
+            "Supports sponsored and consultancy projects",
+            "Centres of Excellence, including Navigation and Communication Research Centre"
+        ],
+        "image_links": [
+            "https://www.cbit.ac.in/wp-content/uploads/2021/07/6-768x512.jpg",
+            "https://www.cbit.ac.in/wp-content/uploads/2021/07/7-768x512.jpg",
+            "https://www.cbit.ac.in/wp-content/uploads/2021/07/8-768x512.jpg",
+            "https://www.cbit.ac.in/wp-content/uploads/2021/07/13-768x512.jpg",
+            "https://www.cbit.ac.in/wp-content/uploads/2021/07/14-768x512.jpg",
+            "https://www.cbit.ac.in/wp-content/uploads/2021/07/16-768x512.jpg",
+            "https://www.cbit.ac.in/wp-content/uploads/2021/07/17-768x512.jpg",
+            "https://www.cbit.ac.in/wp-content/uploads/2021/07/18-768x512.jpg",
+            "https://www.cbit.ac.in/wp-content/uploads/2021/07/12-1-768x512.jpg"
+        ]
+    },
+    "Funded": "https://www.cbit.ac.in/wp-content/uploads/2019/12/Get-Funded.pdf",
+    "policies": [
+        {
+            "policy_name": "External Sponsored Research Policy",
+            "url": "https://www.cbit.ac.in/wp-content/uploads/2022/11/CBIT_Research-Policy.pdf",
+            "description": "CBIT encourages its faculty to apply for sponsored projects to governmental agencies. This policy provides guidelines for External Sponsored Research Projects, including initiation of project proposals, submission procedures, and procedures for sanctioned projects."
+        },
+        {
+            "policy_name": "External Consultancy Research Policy",
+            "url": "https://www.cbit.ac.in/wp-content/uploads/2022/11/CBIT_Consultancy-Policy.pdf",
+            "description": "CBIT encourages its faculty to offer research skills or expertise in return for remuneration from an external funder. This policy provides provisions for conducting consultancy to ensure that consultancies undertaken by staff are consistent with the institution's strategic and operational objectives."
+        },
+        {
+            "policy_name": "Code of Ethics in Academic Research",
+            "url": "https://www.cbit.ac.in/wp-content/uploads/2022/11/CBIT-Code-of-Ethics-Policy_9Nov22.pdf",
+            "description": "This policy outlines the code of ethics that must be followed in academic research conducted at CBIT. It ensures integrity and ethical conduct in all research activities."
+        },
+        {
+            "policy_name": "Anti-Plagiarism Policy",
+            "url": "https://www.cbit.ac.in/wp-content/uploads/2025/02/CBIT_Anti-Plagiarism-Policy_1Feb2025.pdf",
+            "description": "This policy defines plagiarism and outlines the measures taken by CBIT to prevent and address plagiarism in academic and research work."
+        }
+    ],
+    "Research Committees": {
+        "committees": [
+            {
+                "committee_name": "Research Advisory Committee (RAC)",
+                "url": "https://www.cbit.ac.in/wp-content/uploads/2021/08/1.Research-Advisory-committee_2025.pdf"
+            },
+            {
+                "committee_name": "Research Projects Monitoring Committee",
+                "url": "https://www.cbit.ac.in/wp-content/uploads/2021/08/2.Research-Projects-Monitoring-Committee-31.07.2023.pdf"
+            },
+            {
+                "committee_name": "Ethics Committee",
+                "url": "https://www.cbit.ac.in/wp-content/uploads/2021/08/3.Ethics-Committee-31.07.2023.pdf"
+            },
+            {
+                "committee_name": "Departmental Research Committees",
+                "departments": [
+                    {
+                        "department": "BioTech",
+                        "url": "https://cbit.ac.in/wp-content/uploads/2021/08/DRC-Biotech_compressed.pdf"
+                    },
+                    {
+                        "department": "Chemical",
+                        "url": "https://cbit.ac.in/wp-content/uploads/2021/08/DRC-Chemical_compressed.pdf"
+                    },
+                    {
+                        "department": "Chemistry",
+                        "url": "https://cbit.ac.in/wp-content/uploads/2021/08/DRC-Chemistry_compressed.pdf"
+                    },
+                    {
+                        "department": "Civil",
+                        "url": "https://cbit.ac.in/wp-content/uploads/2021/08/DRC-Civil_compressed.pdf"
+                    },
+                    {
+                        "department": "CSE",
+                        "url": "https://cbit.ac.in/wp-content/uploads/2021/08/DRC-CSE_compressed.pdf"
+                    },
+                    {
+                        "department": "ECE",
+                        "url": "https://cbit.ac.in/wp-content/uploads/2021/08/DRC-ECE_compressed.pdf"
+                    },
+                    {
+                        "department": "EEE",
+                        "url": "https://cbit.ac.in/wp-content/uploads/2021/08/DRC-EEE_compressed.pdf"
+                    },
+                    {
+                        "department": "English",
+                        "url": "https://cbit.ac.in/wp-content/uploads/2021/08/DRC-English_compressed.pdf"
+                    },
+                    {
+                        "department": "IT",
+                        "url": "https://cbit.ac.in/wp-content/uploads/2021/08/DRC-IT_compressed.pdf"
+                    },
+                    {
+                        "department": "Maths",
+                        "url": "https://cbit.ac.in/wp-content/uploads/2021/08/DRC-Maths_compressed.pdf"
+                    },
+                    {
+                        "department": "MCA",
+                        "url": "https://cbit.ac.in/wp-content/uploads/2021/08/DRC-MCA_compressed.pdf"
+                    },
+                    {
+                        "department": "Mech",
+                        "url": "https://cbit.ac.in/wp-content/uploads/2021/08/DRC-Mech._compressed.pdf"
+                    },
+                    {
+                        "department": "Physics",
+                        "url": "https://cbit.ac.in/wp-content/uploads/2021/08/DRC-Physics_compressed.pdf"
+                    },
+                    {
+                        "department": "SMS",
+                        "url": "https://cbit.ac.in/wp-content/uploads/2021/08/DRC-SMS_compressed.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    "research_day": {
+        "2024": "In celebration of CBIT’s 46 years of excellence in Technical Education and Research, the Institute successfully conducted the 6th ‘Research Day’ during 13–14, December 2024. This event brought together Faculty, Scientists, Research Scholars, and Students across the globe to discuss advancements and challenges in cutting-edge research and innovations. The event aimed to foster collaboration and provide a platform for sharing ground-breaking research and innovative ideas. It is worth noting that, for the first time, CBIT has inspired all the departments to organize various interdisciplinary international conferences as part of the 6th Research Day. As a result, seven international conferences are being jointly hosted by various departments on this occasion. The conference commenced with an inaugural session, with the welcome address by Prof. C. V. Narasimhulu, Principal, CBIT. He emphasized the objectives of the conference and the significance of Research Day. The Chief Guest Sri SSS BS Subbarao, Outstanding Scientist, Group Director – Control & Laser Systems, Dean – Electro optical Instruments Research Academy (ELOIRA), Research Centre Imarat (RCI), DRDO, Hyderabad graced. He presented the significant of Research in academic institution and he also informed various on-going projects with academic collaboration. He presented the DRDO clusters, on-going projects start-up initiatives. He encouraged the delegates and students to build their knowledge through research oriented learning. Dr. Radhika Soanker, Additional Professor and Head of the Department of Pharmacology, AIIMS Bibinagar, Yadadri Bhuvanagiri District, Hyderabad graced as Guest of Honor. She emphasized the role of AI in health care and importance of collaborative Research. The dignitaries were present on the dias included Prof. P. Ravinder Reddy, I/c Director and Head-R&E Hub, Prof. A. D. Sarma, Advisor-R&D and Prof. D. Krishna Reddy, Director – R&D spoke about various research activities in the institution along with giving the details about the conferences. First time, Research Awards have been given in six categories such as quality publications, highest citations, highest citations cited in Q1 journals, utility patents, sponsored research projects and consultancy projects in inaugural function of the 6th Research Day 2024. These Research Awards are given with recognizing faculty who have made outstanding contributions in advancing knowledge, fostering innovation, and creating a positive societal impact through their research and innovation. Further, this initiative will become as fuel to enhance research contributions of the institute for improving NIRF Rankings. Keynote addresses were delivered by esteemed speakers from renowned organizations such as IITs, NITs, CSIRs, DRDO, TSIDC, the University of Hyderabad, and BITS Pilani. It has to be put on record that from the day of release of brochures, we received an overwhelming response from researchers from all over the globe. We have received articles from several renowned international universities, including Florida State University, the University of South Africa, Najran University (Saudi Arabia), the University of Southern California, the University of Washington, Northeastern University, and Cleveland University. From India, contributions have come from prestigious institutions such as NITs, IITs, CSIR-IICT, AcSIR, Osmania University, JNTU, Anna University, Chandigarh University, VIT, SRM, Amity University, Lovely Professional University, the Centre for DNA Fingerprinting and Diagnostics (Hyderabad), Amrita University, and Manipal University. To maintain the high quality of papers we have constituted a reviewing committee of renowned academicians and researchers. Received 1073 articles out of which 572 are accepted by review committee for presentation. Overall, 60 technical parallel sessions were conducted in hybrid mode for 388 registered participants in all the seven International Conferences. Along the seven conferences, 20 products were exhibited and 67 posters have been presented by Investigators of external research projects and In-House seed grant projects near R&E Hub as a part of 6th Research Day. The 6th Research Day and conferences are concluded with a valedictory session, featuring closing remarks by the Chief Guest, Dr. Musti K.S. Sastry, Associate Professor at the Namibia University of Science and Technology. He emphasized the critical role of innovation in shaping the present era and its potential to address global challenges. The head of the institute Dr. C V Narasimhulu announced the winners of best papers, products and posters in recognizing their excellence. The detailed report is presented by Dr. T Sudhakar Babu, Associate Director-R&D.",
+        "2023": "The 5th Research Day (18 November 2023) is successfully completed and it has inspired many faculty members and Researchers in initiating research-based start-ups and maintaining high standards in Research and Teaching. It is a great honour to have Prof. D. N Reddy (Former Chairman-RAC, DRDO New Delhi, Former Director- AIMSCS, CR Rao Institute and Former Vice Chancellor, JNTU, Hyderabad) as Chief Guest. His motivating speech on academic standards and research quality impressed both the staff and students. He enlightened the participants about the need for taking academic research to newer heights. Padma Shri N Divakar Former Director-Defence Electronics Research Laboratory (DLRL) and Prof. P. Chandra Sekhar, Professor and Vice-Principal, University College of Engineering, Osmania University both as Guest of Honours, spoke on Research and entrepreneurship and have been an inspiration to all. Keynote Speaker Dr. Sreekumar Vobugari, Senior Principal Consultant, motivated students, research scholars and staff to work on future needs and societal demands. It has to be put on record that from the day of release of brochure, we received an overwhelming response from researchers from all over the country and we received 501 abstracts out of which 238 are for oral presentation, 116 for poster and 27 for product exhibition. To maintain the high quality of papers we have constituted a reviewing committee of renowned academicians and researchers. They carefully have peer reviewed and selected just 381 best quality papers. Out of which 254 papers are registered. For these 254 papers, 395 participants are registered including 18 spot registrations. A total of 22 sessions related to various departments are conducted in a highly professional way and are very interactive. We invited session chairs from various reputed organizations such as NPL, ISRO, DRDO, Infosys, Vivo Biotech Ltd, NITW, UoH, Osmania, BITS Pilani, VIT etc. All sessions are conducted parallelly in the respective departments. Based on the presentations 13 best papers are selected. All necessary arrangements are made for posters and products exhibition in R& D premises where 54 posters and 25 products are exhibited. Among these, 3 Best Posters and 3 innovative products are selected. In the concluding session, the names of the faculty / students of the best paper/poster/product are announced and distributed certificates.",
+        "2022 (Hybrid Mode)": "The 4th Research Day (17 December 2022) was successfully completed and it has inspired many faculty members and Researchers in initiating research-based start-ups and maintaining high standards in Research and Teaching. It was a great honour to have Dr G. Satheesh Reddy, Scientific Adviser to Raksha Mantri, Ministry of Defence, Govt. of India as Chief Guest. His address to the audience was apt and significant in the context of “Make for the World”. He enlightened the participants about the need for taking academic research to newer heights. His words of encouragement help the faculty and young students to stay motivated towards research and entrepreneurship. Sri N. Ravi Chander, Ex. Executive Director BHEL, Hyderabad and Dr. T. Ravi Shankar, Former Dy Director (Bhuvan Geoportal and Web Services area) NRSC,ISRO, Hyderabad, both as Guest of Honours, spoke on Research and entrepreneurship and have been an inspiration to all. Two invited expert talks are arranged and they are well received. Prof. Milos Stojmenovic Department of Computer Science & Engineering, Singidunum University, Serbia has extensively discussed about AI in Health Care, Robotics, and Biology. His talk enthused the faculty to have possible future R&D collaboration with international institutions. The second speaker Sri Pranav Hebbar, Founder – Make Room India (Global) & Uttunga Ventures provided insights on Innovations for Bharat and Road to Societally Impactful Technologies in the context of Research and Development. It has to be put on record that from the day of release of brochure, we received an overwhelming response from researchers all over India. We received around 241 abstracts and 20 product exhibitions not only from Telangana but also from other states (AP, Odisha and Jammu). To maintain the high quality of papers we have constituted a review committee of academicians and researchers. They carefully have peer reviewed and selected 139 (Oral: 123, Poster: 16) out of 241 total papers. A total 17 sessions related to various departments are conducted in a highly professional way and was very interactive. In the concluding session, the Principal announced the names of the members of the best paper of each session and the CBIT faculty who contributed the most in terms of publications, citations and sponsored project funding in the calendar year 2021 for the NIRF-2023 ranking.",
+        "2021 (Online Mode)": "The Research Day (28 August 2021) was successfully completed and it has inspired many faculty members and Researchers in initiating research-based start-ups and maintaining high standards in Research and Teaching. It was great honour to have Dr. Amit Kumar Patra, Director, National Atmospheric Research Laboratory (NARL), Department of Space: Government of India as Chief guest. His motivating speech on academic standards and research quality impressed both the staff and students. Dr. A Govardhan, Rector, Jawaharlal Nehru Technological University Hyderabad, as a Guest of Honour, spoke on Research and has been an inspiration. Two expert invited talks are arranged and they are well received.  Dr. S Karunanidhi, Associate Director, RCI, DRDO has extensively discussed about Research Methodologies for Innovation and Creativity. His talk motivated us for future R&D collaboration with research organization. The second speaker Dr. Ramjee Pallela, Chief Operating Officer, Atal Incubation Centre, CCMB provided good information on Research to Invention & Innovation, Road to Societally Impactful Technologies in the context of Research and Innovation. It has to be put on record that from the day of release of brochure, we received an overwhelming response of researchers all around the globe, even during the pandemic times.  We received around 220 abstracts not only from India but also from abroad (AP, Gujarat, Karnataka, Odisha, west Bengal, Tamil Nadu, Canada and Singapore). To maintain the high quality of papers we have constituted a reviewing committee of renowned academicians and researchers. They carefully have peer reviewed and selected 50% of total papers (110 best quality papers). It is advised to HoDs to make necessary arrangements for online presentations in the afternoon from 14:00-16:00 IST (Hrs.) on 28 August 2021 (Saturday). And also given instructions to HoDs, invite a session chair if at least 6 papers are accepted for presentation. Maximum of 4 sessions can be conducted in parallel based on the count of the accepted papers. The session chair should be a renowned person preferably from reputed organizations. A total 15 Sessions are arranged for various departments. In the concluding session respective HoDs presented brief details of Research Day proceedings. Principal Announced the names of the members of best paper of each session. This year we introduced appreciation certificates for the faculty who contributed most in terms of publications, citations and sponsored project funding to the last three NIRF rankings.",
+        "2020 (Online Mode)": "The Research Day (23 August 2020)was successfully completed and it has inspired many faculty members and Researchers in initiating research-based start-ups and maintaining high standards in Research and Teaching. It was great honour to have Prof. S. Srinivas Kumar, Vice Chancellor, JNTU Anantapuras Chief guest and Key note speaker. His motivating speech on academic standards and research qualityimpressed both the staff and students. In addition to the Key Note address, another two expert invited talks are arranged and they are well received. Sri.Bhubesh Kumar, Director-Food & Agriculture, Research and Innovation Circle of Hyderabad (RICH), T-Hub, Hyderabad has extensively discussed about Transformational Research. His talk motivated us to have a MoU with RICH for benefitting both faculty and students and is under process. The third speaker Sri.Tapan Brahma IPR Attorney, Excylze IPR Services New Delhi presented excellent information on IPR Protection in the context of Research and Innovation.",
+        "2019 (Online Mode)": "Chaitanya Bharathi Institute of Technology (CBIT), committed to Research and Innovation, with an objective to facilitate Individual and Collaborative Research for Sponsored and Consultancy Projects, had established, on the 23rd of August, 2018, a State -of-the-Art Research and Development Centre, to support advanced Research and Innovation Ecosystem, connecting Innovators across Industry and Individuals. Dr. V. Malakonda Reddy, President CBIT, has been the inspiring strength for this Centre to become a reality. The Mission of the Centre is to streamline the Research Activities and contribute Products, Processes and Systems, to make a mark, in the ‘Make in India’ Program actively and aggressively promoted by the Government of India. To achieve this, each of the Departments will engage in Advanced Research of their Projects in the Independent space earmarked to them. Commemorating CBIT’s 40 years of successful Journey in the Field of Technical Education, the Institute has launched the first ‘Research Day’ in the Institute’s Campus on 23 August 2019, by inviting the Research Scholars, Faculty, Students and other Scientists from Industry and Institutions, engaged in Research to participate in the proceedings and present their Works as Abstracts. There has been an overwhelming response not only from CBIT Fraternity but also from the Research Community across India. The meticulously selected Abstracts have been compiled and Published as Book of Abstracts showcasing the Research in Progress and the outcomes of the completed Projects. This compilation of Research Abstracts will serve as a Source of Knowledge and Inspiration to the discerning Researchers and also enable them to appreciate the challenges in developing the Innovate Products while showcasing on the present Status of the Products and their Principles of Operation undertaken by other Researches, Developers and enthusiastic Engineers with whom relationships could be nurtured to group a strong dedicated, work force committed and develop a futuristic Innovative Systems that can make a difference in the quality of living in India and other developing Countries. The Research Day has inspired many of the targeted Scholars and Researchers whose contribution has made the launch a successful endeavor. We are honored to have with us the Globally known Prof. David Gibson, Director of Learning Futures, Curtin University from Western Australia and UNESCO Chair, for accepting our Invitation and for being the Chief Guest. His Presentation of the Research Works have been an inspiration. Dr. RupaVuthaluru, Professor Curtin University also  presented her Works. A total of 354 abstracts are received from various engineering colleges in both Telangana and Andhra Pradesh. The Departmental Research committees scrutinized the Abstracts and accepted 315 abstracts (oral presentation: 226; Poster presentation: 89). A total of 564 participants have been participated in Research Day including product exhibition (140). A book of Abstracts (includes all 315 Abstracts) is released in the name of pre-symposium copy on the Research Day. A total of four invited talks have been arranged in the N block seminar hall, these talks includes the Challenge Based Innovation, Developing Entrepreneurship Capabilities. The departments distributed 3 prizes (Rs. 1000 cash prize per each category) for best oral/poster and product in the departmental level."
+    },
+    "Innovation_and_Incubation": {
+        "Policy": {
+            "document_url": "https://www.cbit.ac.in/wp-content/uploads/2021/05/Innovation-and-Incubation-Policy..pdf",
+            "key_points": [
+                "Established to promote innovation and entrepreneurship",
+                "Aims to nurture ideas from professionals, students, and local community",
+                "Provides infrastructure, prototype development support, research assistance, funding help, business consulting, mentoring and guidance",
+                "Applicable for startups and incubates under CBIT-MSME and ACIC-CBIT Incubation centers",
+                "Focuses on diverse domains including biotechnology, renewable energy, ICT, manufacturing, and more"
+            ],
+            "objectives": [
+                "Create awareness about entrepreneurship",
+                "Promote technology/knowledge/innovation-based startups",
+                "Enhance domain knowledge and skills",
+                "Build a vibrant startup ecosystem"
+            ]
+        },
+        "Activities": {
+            "document_url": "https://www.cbit.ac.in/wp-content/uploads/2021/05/Inovation-and-Incubation-activities.pdf",
+            "key_initiatives": [
+                "MSME Incubation Centre established in 2019",
+                "Atal Community Innovation Centre (ACIC) under approval",
+                "Institution's Innovation Cell (IIC) established",
+                "Partnership with T-Hub's T-Tribe Launchpad Program",
+                "AICTE IDEALAB establishment approved",
+                "Multiple skill development programs and internships",
+                "Outreach programs for community engagement"
+            ],
+            "achievements": [
+                "CBIT awarded 97.5 marks out of 100 and 103 Reward marks by MIC",
+                "Recognized in the 'EXCELLENT' category in ARIIA 2021",
+                "25+ startups/ideas being mentored at ACIC Incubation centre",
+                "Multiple patents granted, published, and filed",
+                "Several copyrights registered and filed"
+            ],
+            "startups": {
+                "total_mentored": "25+",
+                "focus_areas": [
+                    "Education",
+                    "Healthcare",
+                    "Agriculture",
+                    "Sustainability",
+                    "Technology"
+                ]
+            }
+        }
+    },
+    "IPR": {
+        "Policy": {
+            "url": "https://www.cbit.ac.in/wp-content/uploads/2021/05/Itelectual-Property-Policy..pdf",
+            "description": "Chaitanya Bharathi Institute of Technology's Intellectual Property Rights Policy Document (IP Policy) is designed to identify, protect, and leverage the IPs generated from research, including patents, copyrights, design rights, and trademarks, serving the purpose of knowledge diffusion and commercialization through technology transfer. The policy covers ownership, distribution, and commercial development of technology developed by CBIT faculty, staff, and students, as well as participating organizations and government funding agencies. It aims to foster innovation, protect intellectual property rights, and promote collaborations between academia and industry."
+        },
+        "Patents": {
+            "url": "https://www.cbit.ac.in/wp-content/uploads/2023/05/IPR-Patents-Granted-and-Published-Update-22nd-May.pdf"
+        },
+        "Copyrights": {
+            "url": "https://www.cbit.ac.in/wp-content/uploads/2023/05/Final-Copyright-Poster-16th-Mayweb-site.pdf",
+            "description": "This document contains information regarding Copyrights."
+        }
+    }
+}

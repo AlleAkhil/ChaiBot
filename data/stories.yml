@@ -1,0 +1,758 @@
+version: "3.1"
+
+stories:
+  - story: college info path
+    steps:
+      - intent: greet
+      - action: utter_greet
+      - intent: ask_college_info
+      - action: action_college_info
+      - intent: goodbye
+      - action: utter_goodbye
+
+  # About Section
+
+  - story: college vision path
+    steps:
+      - intent: ask_college_vision
+      - action: action_college_vision
+
+  - story: college mission path
+    steps:
+      - intent: ask_college_mission
+      - action: action_college_mission
+
+  - story: college recognitions path
+    steps:
+      - intent: ask_college_recognitions
+      - action: action_college_recognitions
+
+  - story: college management path
+    steps:
+      - intent: ask_college_management
+      - action: action_college_management
+
+  - story: Ask about specific management position
+    steps:
+      - intent: ask_specific_management_position
+      - action: action_college_management
+
+  - story: president message path
+    steps:
+      - intent: ask_president_message
+      - action: action_president_message
+
+  - story: principal message path
+    steps:
+      - intent: ask_principal_message
+      - action: action_principal_message
+
+  - story: directors path
+    steps:
+      - intent: ask_directors
+      - action: action_directors
+
+  - story: ask about specific director
+    steps:
+      - intent: ask_specific_director
+      - action: action_specific_director
+
+  - story: List all HODs
+    steps:
+      - intent: ask_hods
+      - action: action_list_all_hods
+
+  - story: Ask specific HOD
+    steps:
+      - intent: ask_specific_hods
+        entities:
+          - department: "CSE"
+      - slot_was_set:
+          - department: "CSE"
+      - action: action_hods
+
+  - story: faculty path
+    steps:
+      - intent: ask_faculty
+      - action: action_faculty
+
+  - story: ask about AEC
+    steps:
+      - intent: ask_aec_info
+      - action: action_get_aec_info
+
+  - story: ask about COE
+    steps:
+      - intent: ask_coe_info
+      - action: action_get_coe_info
+
+  - story: Respond to HR team query
+    steps:
+      - intent: ask_hr_team
+      - action: action_hr_team
+
+  - story: Respond to Project Office query
+    steps:
+      - intent: ask_project_office_team
+      - action: action_project_office_team
+
+  - story: Respond to Accounts Office query
+    steps:
+      - intent: ask_accounts_office_staff
+      - action: action_accounts_office_staff
+
+  - story: Respond to Purchase Office query
+    steps:
+      - intent: ask_purchase_office_team
+      - action: action_purchase_office_team
+
+  - story: Respond to Alumni Office query
+    steps:
+      - intent: ask_alumni_office_team
+      - action: action_alumni_office_team
+
+  - story: Respond to Advisory Body query
+    steps:
+      - intent: ask_advisory_body
+      - action: action_advisory_body
+
+  - story: Respond to Governing Body query
+    steps:
+      - intent: ask_governing_body
+      - action: action_governing_body
+
+  - story: academic council constitution
+    steps:
+      - intent: ask_academic_council_constitution
+      - action: action_academic_council_constitution
+
+  - story: academic council members
+    steps:
+      - intent: ask_academic_council_members
+      - action: action_academic_council_members
+
+  - story: ask about IQAC
+    steps:
+      - intent: ask_iqac_info
+      - action: action_iqac_info
+
+  - story: ask about college committees
+    steps:
+      - intent: ask_college_committees
+      - action: action_college_committees
+
+  - story: ask about college MOUs
+    steps:
+      - intent: ask_college_mous
+      - action: action_college_mous
+
+  - story: ask college contact info
+    steps:
+      - intent: ask_college_contact_info
+      - action: action_show_college_contact_info
+
+  - story: ask social media links
+    steps:
+      - intent: ask_social_media_links
+      - action: action_show_social_media_links
+
+  # Academics Section
+
+  - story: Ask about Civil Engineering info
+    steps:
+      - intent: ask_civil_info
+      - action: action_retrieve_civil_info
+
+  - story: Ask about Mechanical Engineering info
+    steps:
+      - intent: ask_mechanical_info
+      - action: action_retrieve_mechanical_info
+
+  - story: Ask about EEE info
+    steps:
+      - intent: ask_eee_info
+      - action: action_retrieve_eee_info
+
+  - story: Ask about ECE info
+    steps:
+      - intent: ask_ece_info
+      - action: action_retrieve_ece_info
+
+  - story: Ask about CSE info
+    steps:
+      - intent: ask_cse_info
+      - action: action_retrieve_cse_info
+
+  - story: Ask about AI&ML info
+    steps:
+      - intent: ask_aiml_info
+      - action: action_retrieve_aiml_info
+
+  - story: Ask about IT info
+    steps:
+      - intent: ask_it_info
+      - action: action_retrieve_it_info
+
+  - story: Ask about CET info
+    steps:
+      - intent: ask_cet_info
+      - action: action_retrieve_cet_info
+
+  - story: Ask about AI&DS info
+    steps:
+      - intent: ask_aids_info
+      - action: action_retrieve_aids_info
+
+  - story: Ask about Chemical Engineering info
+    steps:
+      - intent: ask_chem_eng_info
+      - action: action_retrieve_chem_eng_info
+
+  - story: Ask about Biotechnology info
+    steps:
+      - intent: ask_biotech_info
+      - action: action_retrieve_biotech_info
+
+  - story: Ask about Physics info
+    steps:
+      - intent: ask_physics_info
+      - action: action_retrieve_physics_info
+
+  - story: Ask about Chemistry info
+    steps:
+      - intent: ask_chemistry_info
+      - action: action_retrieve_chemistry_info
+
+  - story: Ask about Mathematics and Humanities info
+    steps:
+      - intent: ask_math_humanities_info
+      - action: action_retrieve_math_humanities_info
+
+  - story: Ask about English department info
+    steps:
+      - intent: ask_english_info
+      - action: action_retrieve_english_info
+
+  - story: Ask about MCA info
+    steps:
+      - intent: ask_mca_info
+      - action: action_retrieve_mca_info
+
+  - story: Ask about School of Management Studies info
+    steps:
+      - intent: ask_sms_info
+      - action: action_retrieve_sms_info
+
+  - story: Ask about Physical Education info
+    steps:
+      - intent: ask_pe_info
+      - action: action_retrieve_pe_info
+
+  #Placements Section
+
+  - story: cdc vision path
+    steps:
+      - intent: ask_cdc_vision
+      - action: action_cdc_vision
+
+  - story: cdc mission path
+    steps:
+      - intent: ask_cdc_mission
+      - action: action_cdc_mission
+
+  - story: cdc guidelines path
+    steps:
+      - intent: ask_cdc_guidelines
+      - action: action_cdc_guidelines
+
+  - story: cdc placement policy path
+    steps:
+      - intent: ask_cdc_placement_policy
+      - action: action_cdc_placement_policy
+
+  - story: cdc internship guidelines path
+    steps:
+      - intent: ask_cdc_internship_guidelines
+      - action: action_cdc_internship_guidelines
+
+  - story: CDC LOR format path
+    steps:
+      - intent: ask_cdc_lor_format
+      - action: action_cdc_lor_format
+
+  - story: ask placement data
+    steps:
+      - intent: ask_placement_data
+      - action: action_show_placement_data
+
+  - story: ask placement data for specific year
+    steps:
+      - intent: ask_placement_data_year
+        entities:
+          - year: 2023-24
+      - slot_was_set:
+          - year: 2023-24
+      - action: action_show_placement_data
+      - intent: ask_placement_data_year
+        entities:
+          - year: 2022-23
+      - slot_was_set:
+          - year: 2022-23
+      - action: action_show_placement_data
+
+  - story: ask cdc team
+    steps:
+      - intent: ask_cdc_team
+      - action: action_show_cdc_team
+
+  - story: ask cdc member by designation
+    steps:
+      - intent: ask_cdc_member_by_designation
+        entities:
+          - designation: Advisor-CDC
+      - slot_was_set:
+          - designation: Advisor-CDC
+      - action: action_show_cdc_member_by_designation
+      - intent: ask_cdc_member_by_designation
+        entities:
+          - designation: Asst.Director-cdc
+      - slot_was_set:
+          - designation: asst.Director-cdc
+      - action: action_show_cdc_member_by_designation
+
+  - story: ask skill development programs
+    steps:
+      - intent: ask_skill_development_programs
+      - action: action_show_skill_development_programs
+
+  - story: ask skill development programs by year
+    steps:
+      - intent: ask_skill_development_programs_year
+        entities:
+          - year: 2022-23
+      - slot_was_set:
+          - year: 2022-23
+      - action: action_show_skill_development_programs
+
+  - story: ask student placement coordinators
+    steps:
+      - intent: ask_student_placement_coordinators
+      - action: action_show_student_placement_coordinators
+
+  - story: ask student placement coordinators by year
+    steps:
+      - intent: ask_student_placement_coordinators_year
+        entities:
+          - year: 2022-23
+      - slot_was_set:
+          - year: 2022-23
+      - action: action_show_student_placement_coordinators
+
+  - story: ask about infrastructure
+    steps:
+      - intent: ask_infrastructure
+      - action: action_show_infrastructure
+
+  - story: ask cdc events
+    steps:
+      - intent: ask_cdc_events
+      - action: action_show_cdc_events
+
+  - story: ask cdc events by year
+    steps:
+      - intent: ask_cdc_events_year
+        entities:
+          - year: 2024
+      - slot_was_set:
+          - year: 2024
+      - action: action_show_cdc_events
+
+  - story: ask cdc contact
+    steps:
+      - intent: ask_cdc_contact
+      - action: action_show_cdc_contact
+
+  - story: ask courses
+    steps:
+      - intent: ask_courses
+      - action: action_show_courses
+
+  # Research Section
+
+  - story: research information
+    steps:
+      - intent: ask_research_info
+      - action: action_research_info
+
+  - story: research vision
+    steps:
+      - intent: ask_research_vision
+      - action: action_research_vision
+
+  - story: research mission
+    steps:
+      - intent: ask_research_mission
+      - action: action_research_mission
+
+  - story: r_and_e_team_information
+    steps:
+      - intent: ask_r_and_e_team_info
+      - action: action_r_and_e_team_info
+
+  - story: ask_all_research_coordinators
+    steps:
+      - intent: ask_all_research_coordinators
+      - action: action_all_departmental_coordinators
+
+  - story: ask_specific_department_coordinator
+    steps:
+      - intent: ask_specific_department_coordinator
+        entities:
+          - department: "CSE"
+      - slot_was_set:
+          - department: "CSE"
+      - action: action_specific_department_coordinator
+
+  - story: ask_about_research_infrastructure
+    steps:
+      - intent: ask_research_infrastructure
+      - action: action_research_infrastructure
+
+  - story: ask_about_research_infrastructure_images
+    steps:
+      - intent: ask_research_infrastructure_images
+      - action: action_research_infrastructure_images
+
+  - story: ask_about_get_funded_program
+    steps:
+      - intent: ask_get_funded_info
+      - action: action_get_funded_info
+
+  - story: ask_about_all_research_policies
+    steps:
+      - intent: ask_research_policies
+      - action: action_research_policies
+
+  - story: ask_about_specific_research_policy
+    steps:
+      - intent: ask_specific_research_policy
+        entities:
+          - policy_name: "Anti-Plagiarism Policy"
+      - slot_was_set:
+          - policy_name: "Anti-Plagiarism Policy"
+      - action: action_specific_research_policy
+
+  - story: ask_about_specific_department_committee
+    steps:
+      - intent: ask_specific_research_committee
+        entities:
+          - department: "CSE"
+      - slot_was_set:
+          - department: "CSE"
+      - action: action_specific_research_committee
+
+  - story: ask_about_research_committees
+    steps:
+      - intent: ask_research_committees
+      - action: action_research_committees
+
+  - story: ask_about_research_days
+    steps:
+      - intent: ask_research_day_details
+      - action: action_research_day_details
+
+  - story: ask_about_innovation_policy
+    steps:
+      - intent: ask_innovation_policy
+      - action: action_innovation_policy
+
+  - story: ask_about_innovation_activities
+    steps:
+      - intent: ask_innovation_activities
+      - action: action_innovation_activities
+
+  - story: ask_about_ipr_policy
+    steps:
+      - intent: ask_ipr_policy
+      - action: action_ipr_policy
+
+  - story: ask_about_ipr_patents
+    steps:
+      - intent: ask_ipr_patents
+      - action: action_ipr_patents
+
+  - story: ask_about_ipr_copyrights
+    steps:
+      - intent: ask_ipr_copyrights
+      - action: action_ipr_copyrights
+
+  # Campus Section
+
+  - story: provide_campus_info
+    steps:
+      - intent: ask_campus_info
+      - action: action_campus_info
+
+  - story: provide_chaitanya_sudhee_info
+    steps:
+      - intent: ask_chaitanya_sudhee_info
+      - action: action_chaitanya_sudhee_info
+
+  - story: provide_chaitanya_saahithi_info
+    steps:
+      - intent: ask_chaitanya_saahithi_info
+      - action: action_chaitanya_saahithi_info
+
+  - story: provide_chaitanya_samskruthi_info
+    steps:
+      - intent: ask_chaitanya_samskruthi_info
+      - action: action_chaitanya_samskruthi_info
+
+  - story: provide_chaitanya_kreeda_info
+    steps:
+      - intent: ask_chaitanya_kreeda_info
+      - action: action_chaitanya_kreeda_info
+
+  - story: provide_physical_education_info
+    steps:
+      - intent: ask_physical_education_info
+      - action: action_physical_education_info
+
+  - story: provide_chaitanya_seva_info
+    steps:
+      - intent: ask_chaitanya_seva_info
+      - action: action_chaitanya_seva_info
+
+  - story: provide_chaitanya_chaaya_info
+    steps:
+      - intent: ask_chaitanya_chaaya_info
+      - action: action_chaitanya_chaaya_info
+
+  - story: provide_chaitanya_smriti_info
+    steps:
+      - intent: ask_chaitanya_smriti_info
+      - action: action_chaitanya_smriti_info
+
+  - story: provide_students_clubs_info_general
+    steps:
+      - intent: ask_students_clubs_info
+      - action: action_students_clubs_info
+
+  - story: provide_department_clubs_info
+    steps:
+      - intent: ask_department_clubs
+      - action: action_students_clubs_info
+
+  - story: provide_professional_bodies_info
+    steps:
+      - intent: ask_professional_bodies
+      - action: action_students_clubs_info
+
+  - story: provide_anti_ragging_info_general
+    steps:
+      - intent: ask_anti_ragging_info
+      - action: action_anti_ragging_info
+
+  - story: provide_anti_ragging_committee_info
+    steps:
+      - intent: ask_anti_ragging_committee
+      - action: action_anti_ragging_info
+
+  - story: provide_anti_ragging_squad_info
+    steps:
+      - intent: ask_anti_ragging_squad
+      - action: action_anti_ragging_info
+
+  - story: provide_anti_ragging_duties_info
+    steps:
+      - intent: ask_anti_ragging_duties
+      - action: action_anti_ragging_info
+
+  - story: provide_anti_ragging_cell_info
+    steps:
+      - intent: ask_anti_ragging_cell
+      - action: action_anti_ragging_info
+
+  - story: provide_disciplinary_committee_info
+    steps:
+      - intent: ask_disciplinary_committee
+      - action: action_anti_ragging_info
+
+  # Admission Section
+
+  - story: Why choose CBIT
+    steps:
+      - intent: ask_why_cbit
+      - action: action_admissions_info
+
+  - story: Programs Offered by CBIT
+    steps:
+      - intent: ask_programs_offered
+      - action: action_admissions_info
+
+  - story: Admission Procedure at CBIT
+    steps:
+      - intent: ask_admission_procedure
+      - action: action_admissions_info
+
+  - story: Contact Information
+    steps:
+      - intent: ask_contact_admissions
+      - action: action_contact_info_admissions
+
+  - story: UG Course Intake Information
+    steps:
+      - intent: ask_ug_course_intake
+      - action: action_course_intake_info
+
+  - story: PG Course Intake Information
+    steps:
+      - intent: ask_pg_course_intake
+      - action: action_course_intake_info
+
+  - story: Tuition Fee Information for Convener Category
+    steps:
+      - intent: ask_tuition_fee_convener
+      - action: action_tuition_fee_info
+
+  - story: Tuition Fee Information for B-Category
+    steps:
+      - intent: ask_tuition_fee_b_category
+      - action: action_tuition_fee_info
+
+  - story: Tuition Fee Information for NRI Category
+    steps:
+      - intent: ask_tuition_fee_nri
+      - action: action_tuition_fee_info
+
+  - story: Certificates Required Information
+    steps:
+      - intent: ask_certificates_required
+      - action: action_admission_form_info
+
+  - story: Admission Guidelines Information
+    steps:
+      - intent: ask_admission_guidelines
+      - action: action_admission_form_info
+
+  - story: Scholarship Eligibility Information
+    steps:
+      - intent: ask_scholarship_eligibility
+      - action: action_scholarship_renewal_info
+
+  - story: Scholarship Application Process Information
+    steps:
+      - intent: ask_scholarship_application
+      - action: action_scholarship_renewal_info
+
+  - story: Scholarship Documents Required Information
+    steps:
+      - intent: ask_scholarship_documents
+      - action: action_scholarship_renewal_info
+
+  # Facilities Section
+
+  - story: Provide hostel description
+    steps:
+      - intent: ask_hostel_description
+      - action: action_hostel_description
+
+  - story: Provide hostel details
+    steps:
+      - intent: ask_hostel_details
+      - action: action_hostel_details
+
+  - story: Provide hostel contact information
+    steps:
+      - intent: ask_hostel_contact
+      - action: action_hostel_contact
+
+  - story: Provide transport instructions
+    steps:
+      - intent: ask_transport_instructions
+      - action: action_transport_instructions
+
+  - story: Provide how to apply for transport
+    steps:
+      - intent: ask_transport_how_to_apply
+      - action: action_transport_how_to_apply
+
+  - story: Provide transport contact details
+    steps:
+      - intent: ask_transport_contact_details
+      - action: action_transport_contact_details
+
+  - story: Provide data center description
+    steps:
+      - intent: ask_data_center_description
+      - action: action_data_center_description
+
+  - story: Provide Wi-Fi facility description
+    steps:
+      - intent: ask_wifi_facility_description
+      - action: action_wifi_facility_description
+
+  - story: Provide data center details
+    steps:
+      - intent: ask_data_center_details
+      - action: action_data_center_details
+
+  - story: Provide CHNMS details
+    steps:
+      - intent: ask_chnms_details
+      - action: action_chnms_details
+
+  - story: Provide health center description
+    steps:
+      - intent: ask_health_center_description
+      - action: action_health_center_description
+
+  - story: Provide medical staff details
+    steps:
+      - intent: ask_medical_staff_details
+      - action: action_medical_staff_details
+
+  - story: Provide ambulance service details
+    steps:
+      - intent: ask_ambulance_service_details
+      - action: action_ambulance_service_details
+
+  - story: Provide media center description
+    steps:
+      - intent: ask_media_center_description
+      - action: action_media_center_description
+
+  - story: Provide e-content details
+    steps:
+      - intent: ask_e_content_details
+      - action: action_e_content_details
+
+  - story: Provide access details
+    steps:
+      - intent: ask_access_details
+      - action: action_access_details
+
+  - story: Provide ICT tools description
+    steps:
+      - intent: ask_ict_tools_description
+      - action: action_ict_tools_description
+
+  - story: Provide ICT infrastructure details
+    steps:
+      - intent: ask_ict_infrastructure_details
+      - action: action_ict_infrastructure_details
+
+  - story: Provide blended learning details
+    steps:
+      - intent: ask_blended_learning_details
+      - action: action_blended_learning_details
+
+  - story: Provide LMS details
+    steps:
+      - intent: ask_lms_details
+      - action: action_learning_management_system_details
+
+  - story: Provide library information center details
+    steps:
+      - intent: ask_library_information_center_details
+      - action: action_library_information_center_details

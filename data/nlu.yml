@@ -1,0 +1,1375 @@
+version: "3.1"
+
+nlu:
+  - intent: greet
+    examples: |
+      - hey
+      - hello
+      - hi
+      - hello there
+      - good morning
+      - good evening
+      - moin
+      - hey there
+      - let's go
+      - hey dude
+      - goodmorning
+      - goodevening
+      - good afternoon
+
+  - intent: goodbye
+    examples: |
+      - cu
+      - good by
+      - cee you later
+      - good night
+      - bye
+      - goodbye
+      - have a nice day
+      - see you around
+      - bye bye
+      - see you later
+
+  # About Section
+
+  - intent: ask_college_info
+    examples: |
+      - Tell me about the our college
+      - Tell me about cbit college
+      - What can you tell me about your institution?
+      - Give me some information about the college
+      - I'd like to know more about the college
+      - What are the key features of the college?
+      - Can you provide an overview of the college?
+      - What is the college known for?
+      - Give me a quick overview of the cbit college
+      - What are the key points about the college?
+      - Can you summarize the college's features?
+      - Tell me about the cbit college at a glance
+      - What are the highlights of the college?
+      - What are the main features of the college?
+      - What are the unique aspects of the college?
+      - What are the special features of the college?
+      - What are the distinguishing features of the college?
+      - What are the salient features of the college?
+      - What are the main attractions of the college?
+      - What are the main characteristics of the college?
+      - What are the main qualities of the college?
+
+  - intent: ask_college_vision
+    examples: |
+      - What is the college's vision?
+      - Can you share the vision of the institution?
+      - Tell me about the college vision
+      - What does the college aim for?
+      - What is the college's vision statement?
+      - What is the vision of the college?
+      - What is the vision of the institution?
+
+  - intent: ask_college_mission
+    examples: |
+      - What is the college's mission?
+      - Can you tell me about the mission of the college?
+      - What does the college strive to achieve?
+      - Tell me about the college mission
+      - What is the college's mission statement?
+      - What is the mission of the college?
+      - What is the mission of the institution?
+      - What is the college's mission?
+
+  - intent: ask_college_recognitions
+    examples: |
+      - What recognitions has the college received?
+      - Tell me about the college's achievements
+      - Has the college won any awards?
+      - What are the college's accolades?
+      - Can you list the college's recognitions?
+      - What awards has the college won?
+      - What are the college's achievements?
+      - What accolades has the college received?
+
+  - intent: ask_college_management
+    examples: |
+      - Who manages the college?
+      - Tell me about the college management
+      - Who are the board members?
+      - What's the structure of the college management?
+      - Can you provide information about the college management?
+      - Who are the top officials in the college?
+      - Who are the leaders of the college?
+      - Who are the authorities in the college?
+
+  - intent: ask_specific_management_position
+    examples: |
+      - Who is the President of our college?
+      - Who is the president?
+      - Tell me the name of the Member, Authorized Signatory
+      - Who is Member 1?
+      - Who is Member 2?
+      - Who is Member 3?
+      - Who is Member 4?
+      - Who is Member 5?
+      - Who is Member 6?
+      - Who is Member 7?
+      - Who is Member 8?
+      - Who is Member 9?
+      - Who is Member 10?
+      - Who is Member 11?
+      - Who is Member 12?
+      - Who is Member 13?
+
+  - intent: ask_president_message
+    examples: |
+      - What does the president say about the college?
+      - Can you share the president's message?
+      - Tell me the president's thoughts on the institution
+      - What's the president's vision for the college?
+      - What does the president want to convey to students?
+      - What is the president's message? 
+      - What is the president's vision?
+      - What is the president's message to the students?
+      - Explain the president's message to me
+      - What is the president's message?
+
+  - intent: ask_principal_message
+    examples: |
+      - What's the principal's message?
+      - Can you share what the principal says about the college?
+      - Tell me the principal's thoughts on the institution
+      - What does the principal want to convey to students?
+      - What is the principal's message?
+      - What is the principal's vision?
+      - What is the principal's message to the students?
+      - Explain the principal's message to me
+
+  - intent: ask_directors
+    examples: |
+      - Who are the directors of the college?
+      - Tell me about the college directors
+      - What are the different director positions in the college?
+      - Can you list the college directors?
+      - Who are the directors?
+      - List the directors of the college
+      - Who are the key people in the college management?
+      - Who are the decision-makers in the college?
+
+  - intent: ask_specific_director
+    examples: |
+      - Who is the Principal of our college?
+      - Tell me the name of the Principal.?
+      - Can you tell me the name of the Vice-Principal for Administration?
+      - Who is the Chairman for IQAC?
+      - What is the name of the Vice-Principal for Administration?
+      - Who holds the position of Vice-Principal for Academics?
+      - Can you tell me who the Director & Head of R&E Hub is?
+      - Who is serving as the Director for IQAC?
+      - What's the name of the Director for AEC & CoE?
+      - Who is currently the Director of Academics?
+      - Who holds the position of Director for Students Affairs & Progression?
+      - Can you provide the name of the Director for Research & Development?
+      - Who is responsible for Innovation & Incubation as a Director?
+      - What's the name of the Director for the Career Development Cell?
+      - Who is serving as the Controller of Examinations?
+      - Can you tell me who the Associate Director for IQAC is?
+      - Who holds the position of Associate Director for R & D?
+      - What's the name of the Assistant Director for Student Affairs and Progression?
+      - Who is currently serving as the Assistant Director for Academics?
+      - Who is the Director of IQAC?
+      - Can you tell me the name of the Vice-Principal for Administration?
+      - Who is in charge of Research and Development?
+      - What's the name of the person responsible for Innovation & Incubation?
+
+  - intent: ask_courses
+    examples: |
+      - What courses are available?
+      - Tell me about the departments
+      - What can I study at this college?
+      - Show me the list of courses
+      - What departments does the college have?
+
+  - intent: ask_hods
+    examples: |
+      - Who are the heads of departments?
+      - Tell me about the HODs
+      - Can you list the department heads?
+      - Who are the HODs?
+      - Who are the heads of the departments?
+      - Who are the department heads?
+      - List the HODs
+
+  - intent: ask_specific_hods
+    examples: |
+      - Who is the head of [cse](department)?
+      - Tell me about the HOD for [it](department).
+      - Who is the head of [ece](department)?
+      - Who is responsible for [eee](department)?
+      - Who is leading [mech](department)?
+      - Who is managing [civil](department)?
+      - Can you tell me the HOD for [aiml](department)?
+      - Who is heading [aids](department)?
+      - Tell me about the head for [iot](department).
+      - Who is in charge of [cs](department)?
+      - Who is leading [bct](department)?
+      - Give me details about the HOD for [biotech](department).
+      - Who is responsible for [sms](department)?
+      - Tell me about the HOD for [mca](department).
+      - Who is managing [management](department)?
+      - Can you provide info on the HOD for [physics](department)?
+      - Tell me about the head of [chemistry](department).
+      - Who is leading [maths](department)?
+      - Who is in charge of [english](department)?
+      - Tell me about the head of [library](department).
+      - Who is responsible for [sports](department)?
+      - Can you tell me about the HOD for [cse](department)?
+      - Tell me about the head of [it](department).
+      - Who is managing [ece](department)?
+      - Who is leading [eee](department)?
+      - Can you provide info on the HOD for [mech](department)?
+      - Tell me about the head of [civil](department).
+      - Who is heading [aiml](department)?
+      - Can you tell me about the HOD for [aids](department)?
+      - Tell me about the head of [iot](department).
+      - Who is managing [cs](department)?
+      - Give me details about the HOD for [bct](department).
+      - Who is responsible for [biotech](department)?
+      - Tell me about the HOD for [sms](department).
+      - Can you provide info on the HOD for [mca](department)?
+
+  - intent: ask_faculty
+    examples: |
+      - Tell me about the teaching staff in IT
+      - Who are the non-teaching staff in Mechanical Engineering?
+      - Can you give me details of the teaching staff in CSE?
+      - I want to know about the non-teaching staff in ECE
+      - Provide information about the teaching staff of Civil
+      - List all non-teaching staff members in AIML
+      - Who are the professors in Mathematics?
+      - Show me the assistant professors in Physics
+      - Can you tell me about the non-teaching staff of Library?
+      - Give me a list of teaching staff in English
+      - Tell me about the faculty members of Management
+      - Who are the associate professors in Biotechnology?
+      - I need details on non-teaching staff from Sports
+      - Provide a list of all teaching faculty in EEE
+      - What are the details of non-teaching staff in Chemistry?
+
+  - intent: ask_aec_info
+    examples: |
+      - Tell me about the AEC Management Team
+      - Who are the members of the AEC?
+      - Give me information on the Academic Excellence Center
+      - Who are the members of the Academic Excellence Center?
+      - Tell me about the AEC Management Team
+      - Who are the members of the Academic Excellence Center?
+
+  - intent: ask_coe_info
+    examples: |
+      - Tell me about the COE Management Team
+      - Who are the members of the COE?
+      - Give me information on the Controller of Examinations
+      - Who are the members of the Controller of Examinations?
+      - Tell me about the COE Management Team
+
+  - intent: ask_hr_team
+    examples: |
+      - Who is part of the HR team?
+      - Can you tell me about the HR team members?
+      - Provide details about the HR department.
+      - Who is the head of the HR team?
+      - Tell me about the staff in the HR department.
+      - List all members of the HR team.
+      - Who works in the Human Resources team?
+      - Give me information about the HR staff.
+      - Tell me about Mrs. Anne Violet from HR.
+      - What does the HR team do?
+
+  - intent: ask_project_office_team
+    examples: |
+      - Who is in the Project Office team?
+      - Can you tell me about the Project Office staff?
+      - Provide details about the Project Office team members.
+      - Who are the site engineers in the Project Office?
+      - Tell me about Mr. G. Rajesh from the Project Office.
+      - List all members of the Project Office team.
+      - What does the Project Office team do?
+      - Who is Mr. Imran Mohiuddin, and what is his role?
+      - Give me information about Site Engineers in the Project Office.
+      - Tell me about the staff working on projects.
+
+  - intent: ask_accounts_office_staff
+    examples: |
+      - Who are the Accounts Office staff members?
+      - Can you tell me about the Accounts department staff?
+      - Provide details about Mr. DVN. Rathan Kumar from Accounts.
+      - List all members of the Accounts Office staff.
+      - Who works in the Accounts department?
+      - Tell me about D. Prasanna Goud from Accounts.
+      - What does the Accounts Office staff do?
+      - Give me information about Senior Assistants in Accounts.
+      - Who handles scholarships in Accounts?
+      - Can you provide details about Mr. S. Anil Kumar?
+
+  - intent: ask_purchase_office_team
+    examples: |
+      - Who is in the Purchase Office team?
+      - Can you tell me about the Purchase Office staff?
+      - Provide details about the Purchase Office team members.
+      - Who are the Purchase Officers?
+      - List all members of the Purchase Office team.
+      - What does the Purchase Office team do?
+      - Give me information about Purchase Officers.
+      - Tell me about the staff working on purchases.
+
+  - intent: ask_alumni_office_team
+    examples: |
+      - Who is in the Alumni Office team?
+      - Can you tell me about the Alumni Office staff?
+      - Provide details about the Alumni Office team members.
+      - Who are the Alumni Officers?
+      - List all members of the Alumni Office team.
+      - What does the Alumni Office team do?
+      - Give me information about Alumni Officers.
+      - Tell me about the staff working with alumni.
+
+  - intent: ask_advisory_body
+    examples: |
+      - Who is part of the Advisory Body?
+      - Can you tell me about the Advisory Body members?
+      - Provide details about the Advisory Body.
+      - Who are the members of the Advisory Body?
+      - List all members of the Advisory Body.
+      - What does the Advisory Body do?
+      - Give me information about the Advisory Body.
+      - Tell me about the members of the Advisory Body.
+
+  - intent: ask_governing_body
+    examples: |
+      - Who is part of the Governing Body?
+      - Can you tell me about the Governing Body members?
+      - Provide details about the Governing Body.
+      - Who are the members of the Governing Body?
+      - List all members of the Governing Body.
+      - What does the Governing Body do?
+      - Give me information about the Governing Body.
+      - Tell me about the members of the Governing Body.
+
+  - intent: ask_academic_council_constitution
+    examples: |
+      - What is the constitution of the academic council?
+      - Can you tell me about the academic council constitution?
+      - How is the academic council structured?
+      - What are the components of the academic council?
+      - Explain the academic council constitution
+      - Give me details about the academic council structure
+
+  - intent: ask_academic_council_members
+    examples: |
+      - Who are the members of the academic council?
+      - Can you list the academic council members?
+      - Tell me about the people in the academic council
+      - What is the composition of the academic council?
+      - Who is the chairman of the academic council?
+      - Can you name the external experts in the academic council?
+      - Who are the university nominees in the academic council?
+      - Tell me about the teachers from the college in the academic council
+      - Who is the CII member in the academic council?
+      - Who is the faculty nominee in the academic council?
+      - Can you provide details about the academic council members?
+
+  - intent: ask_iqac_info
+    examples: |
+      - What is iqac?
+      - Tell me about IQAC
+      - Can you provide information on IQAC?
+      - What does IQAC do?
+      - Explain IQAC
+      - Give me details about IQAC
+      - What is the purpose of IQAC?
+      - How does IQAC function?
+      - What are the objectives of IQAC?
+      - What are the benefits of IQAC?
+      - What strategies does IQAC use?
+      - What is the vision of IQAC?
+
+  - intent: ask_college_committees
+    examples: |
+      - What are the college committees?
+      - Can you list the committees in the college?
+      - Tell me about the committees in the college
+      - What committees does the college have?
+      - Are there any committees in the college?
+
+  - intent: ask_college_mous
+    examples: |
+      - What MOUs does the college have?
+      - Can you list the MOUs of the college?
+      - Tell me about the college's MOUs
+      - With which organizations does the college have MOUs?
+      - Are there any MOUs the college has signed?
+
+  - intent: ask_college_contact_info
+    examples: |
+      - What is the college's contact information?
+      - How can I contact the college?
+      - Give me the college's address
+      - What's the college's phone number?
+      - How do I reach the college?
+      - What's the email for the college?
+      - Tell me about admissions enquiry
+
+  - intent: ask_social_media_links
+    examples: |
+      - What are the college's social media links?
+      - How can I find the college on social media?
+      - Give me the college's Facebook page
+      - What's the college's Instagram?
+      - Where can I find the college's YouTube channel?
+      - Tell me the twitter account of the college
+
+  # Academics Section
+
+  - intent: ask_civil_info
+    examples: |
+      - What is the mission of the Civil Engineering department?
+      - Tell me about the vision of Civil Engineering
+      - What are the program outcomes for civil engineering?
+      - Can you share the program educational objectives of Civil Engineering?
+      - What are the program specific outcomes for Civil?
+      - Tell me about the Civil Engineering department
+      - What is the description of civil engineering?
+
+  - intent: ask_mechanical_info
+    examples: |
+      - What is the overview of the Mechanical Engineering department?
+      - Tell me about the programs offered in Mech
+      - What is the vision of the Mech department?
+      - What are the mission statements for Mechanical Engineering?
+      - How are the placements in Mech?
+      - What are the program educational objectives for Mechanical?
+      - Tell me about the program specific outcomes in Mech Engineering
+      - What are the program outcomes for Mechanical?
+      - What are the PEOs for Masters in Mech?
+      - Tell me about the PSOs for Masters in Mechanical Engineering
+      - What are the POs for Masters programs in Mech?
+
+  - intent: ask_eee_info
+    examples: |
+      - What is the vision of the EEE department?
+      - Tell me about the mission of Electrical and Electronics Engineering
+      - What programs are offered in EEE?
+      - How are the placements in Electrical Engineering?
+      - What are the program outcomes for Electronics Engineering?
+      - Can you give me information about the EEE department?
+      - What is the vision of Electrical Engineering?
+      - Tell me about the mission statements of Electronics Engineering
+      - What courses does EEE offer?
+      - How good are job placements for Electrical and Electronics graduates?
+      - What are the learning outcomes for EEE students?
+
+  - intent: ask_ece_info
+    examples: |
+      - What is the vision of the ECE department?
+      - Tell me about the mission of Electronics and Communication Engineering
+      - What programs are offered in ECE?
+      - What are the program educational objectives for Electronics Engineering?
+      - What are the program specific outcomes for Communication Engineering?
+      - What are the program outcomes for ECE?
+      - Can you give me information about the ECE department?
+      - What is the vision of Electronics Engineering?
+      - Tell me about the mission statements of Communication Engineering
+      - What courses does ECE offer?
+      - What are the learning objectives for ECE students?
+      - What are the specific outcomes for Electronics and Communication graduates?
+
+  - intent: ask_cse_info
+    examples: |
+      - What is the vision of the CSE department?
+      - Tell me about the mission of Computer Science and Engineering
+      - What programs are offered in CSE?
+      - What are the program outcomes for Computer Engineering?
+      - Can you give me information about the CSE department?
+      - Tell me about the CSE department
+      - What are the placements like in CSE?
+      - Tell me about the about section of CSE
+      - What are the programs offered by CSE?
+
+  - intent: ask_aiml_info
+    examples: |
+      - What is the vision of the aiml department?
+      - Tell me about the mission of Artificial Intelligence and Machine Learning
+      - What programs are offered in ai&ml?
+      - What are the program outcomes for AI and ML?
+      - Can you give me information about the AI&ML department?
+      - What is the vision of Artificial Intelligence and Machine Learning?
+      - Tell me about the mission statements of AI&ML
+      - What courses does AI&ML offer?
+      - What are the learning objectives for AI and ML students?
+      - Tell me about the PEOs of aiml programs
+      - What are the PSOs for Machine Learning courses?
+      - Give me details about AI&ML department
+
+  - intent: ask_it_info
+    examples: |
+      - What is the vision of the IT department?
+      - Tell me about the mission of Information Technology
+      - What programs are offered in IT?
+      - What are the program outcomes for Information Technology?
+      - Can you give me information about the IT department?
+      - What is the overview of Information Technology?
+      - Tell me about the description of IT
+      - What courses does IT offer?
+      - What are the learning objectives for IT students?
+      - Give me details about IT department
+      - What is the intake for IT program?
+
+  - intent: ask_cet_info
+    examples: |
+      - What is the vision of the Computer Engineering and Technology department?
+      - Tell me about the mission of CET
+      - What programs are offered in Computer Engineering?
+      - What are the placements like for CET students?
+      - Can you give me information about the IoT department?
+      - What is the overview of CS and BCT?
+      - Tell me about the accreditation of Computer Engineering
+      - What research is done in the CET department?
+      - What are the centers of excellence in Computer Engineering?
+      - Tell me about the collaborations of CET
+      - What are the faculty qualifications in Computer Engineering?
+      - What technical clubs are there in CET?
+      - Who are the top recruiters for Computer Engineering students?
+      - What is the highest salary offered to CET graduates?
+      - Tell me about internships in Computer Engineering
+      - What programs are offered in IoT and Cyber Security?
+
+  - intent: ask_aids_info
+    examples: |
+      - What is the vision of the AI and Data Science department?
+      - Tell me about the mission of Artificial Intelligence and Data Science
+      - What programs are offered in aids?
+      - What are the PEOs for AI and Data Science?
+      - Can you give me information about the AI&DS department?
+      - What is the overview of Artificial Intelligence and Data Science?
+      - Tell me about the PSOs for B.E. in AI and Data Science
+      - What are the POs for M.Tech in Artificial Intelligence?
+      - What courses does AI&DS offer?
+      - What are the program outcomes for aids students?
+      - Give me details about AI&DS department
+      - What are the program educational objectives for B.E. in AI&DS?
+      - Tell me about the program specific outcomes for M.Tech in Data Science
+
+  - intent: ask_chem_eng_info
+    examples: |
+      - What is the vision of the Chemical Engineering department?
+      - Tell me about the mission of Chemical Engineering
+      - What programs are offered in Chemical Engineering?
+      - What are the PEOs for Chemical Engineering?
+      - Can you give me information about the Chemical Engineering department?
+      - What is the overview of Chemical Engineering?
+      - Tell me about the PSOs for Chemical Engineering
+      - What are the POs for Chemical Engineering?
+      - What courses does Chemical Engineering offer?
+      - What are the program outcomes for Chemical Engineering students?
+      - Give me details about Chemical Engineering department
+      - What are the program educational objectives for Chemical Engineering?
+      - Tell me about the program specific outcomes for Chemical Engineering
+      - When was the Chemical Engineering department established?
+      - What is the intake for Chemical Engineering?
+      - Tell me about the accreditation history of Chemical Engineering
+      - What are the career opportunities for Chemical Engineering graduates?
+      - What collaborations does the Chemical Engineering department have?
+      - What initiatives are there in the Chemical Engineering department?
+      - Tell me about faculty involvement in Chemical Engineering
+
+  - intent: ask_biotech_info
+    examples: |
+      - What is the vision of the Biotechnology department?
+      - Tell me about the mission of Biotechnology
+      - What programs are offered in Biotechnology?
+      - What are the PEOs for Biotechnology?
+      - Can you give me information about the Biotechnology department?
+      - What is the overview of Biotechnology?
+      - Tell me about the PSOs for Biotechnology
+      - What are the POs for Biotechnology?
+      - What courses does Biotechnology offer?
+      - What are the program outcomes for Biotechnology students?
+      - Give me details about Biotechnology department
+      - What are the program educational objectives for Biotechnology?
+      - Tell me about the program specific outcomes for Biotechnology
+      - What domains does the Biotechnology department cover?
+      - What infrastructure does the Biotechnology department have?
+      - Tell me about the faculty in Biotechnology
+      - What student engagement activities are there in Biotechnology?
+      - What are the placement opportunities for Biotechnology students?
+      - Which companies recruit Biotechnology graduates?
+      - Where do Biotechnology students go for higher education?
+
+  - intent: ask_physics_info
+    examples: |
+      - What is the vision of the Physics department?
+      - Tell me about the mission of Physics department
+      - What courses are offered in Physics?
+      - What are the academic contributions of the Physics department?
+      - Can you give me information about the Physics department?
+      - What is the overview of Physics department?
+      - Tell me about the faculty development in Physics
+      - What research is done in the Physics department?
+      - What funding has the Physics department received?
+      - Tell me about the events organized by the Physics department
+      - What are the publications from the Physics department?
+      - How does the Physics department contribute to the curriculum?
+      - What are the research facilities in the Physics department?
+
+  - intent: ask_chemistry_info
+    examples: |
+      - What is the vision of the Chemistry department?
+      - Tell me about the mission of Chemistry department
+      - What are the objectives of the Chemistry department?
+      - What are the program educational objectives for Chemistry?
+      - Can you give me information about the Chemistry department?
+      - What is the overview of Chemistry department?
+      - Tell me about the program outcomes in Chemistry
+      - What is the description of the Chemistry department?
+      - What are the goals of the Chemistry department?
+      - How does the Chemistry department contribute to engineering education?
+      - What are the PEOs for Chemistry?
+      - What are the POs for Chemistry?
+      - Tell me about the facilities in the Chemistry department
+      - What is the role of the Chemistry department in CBIT?
+
+  - intent: ask_math_humanities_info
+    examples: |
+      - What is the vision of the Mathematics and Humanities department?
+      - Tell me about the mission of Math and Humanities department
+      - What is the description of the Mathematics department?
+      - Can you give me information about the Humanities department?
+      - What is the overview of Math and Humanities?
+      - Tell me about the goals of the Mathematics and Humanities department
+      - What are the objectives of the Math department?
+      - How does the Humanities department contribute to CBIT?
+      - What is the focus of the Mathematics and Humanities department?
+
+  - intent: ask_english_info
+    examples: |
+      - What is the vision of the English department?
+      - Tell me about the mission of the English department
+      - What courses are offered by the English department?
+      - Can you give me information about the English faculty?
+      - What are the research areas in the English department?
+      - Tell me about the language labs at CBIT
+      - What student clubs are there in the English department?
+      - What is the overview of the English department?
+      - How many PhD faculty are in the English department?
+      - What special courses does the English department offer?
+      - Tell me about the club activities in the English department
+      - What is the faculty strength of the English department?
+
+  - intent: ask_mca_info
+    examples: |
+      - What is the vision of the MCA department?
+      - Tell me about the mission of the Master of Computer Applications department
+      - What programs are offered in MCA?
+      - What are the placements like for MCA students?
+      - Can you give me information about the MCA department?
+      - What are the program educational objectives for MCA?
+      - Tell me about the program outcomes in MCA
+      - What companies recruit MCA students?
+      - What is the intake for the MCA program?
+      - How has the MCA program intake changed over time?
+      - What are the PEOs for Master of Computer Applications?
+      - What are the POs for MCA?
+
+  - intent: ask_sms_info
+    examples: |
+      - What is the vision of the School of Management Studies?
+      - Tell me about the mission of CBIT-School of Management Studies
+      - What programs are offered in the Management department?
+      - What are the program educational objectives for MBA?
+      - Can you give me information about the SMS department?
+      - What is the overview of CBIT's management school?
+      - Tell me about the program outcomes in SMS
+      - What is the MBA program like at CBIT?
+      - What are the PEOs for Management Studies?
+      - What are the POs for the MBA program?
+      - Tell me about the management education at CBIT
+      - What is the vision of the MBA department?
+
+  - intent: ask_pe_info
+    examples: |
+      - What is the vision of the Physical Education department?
+      - Tell me about the mission of PE department
+      - What is the description of Physical Education at CBIT?
+      - Can you give me information about the Physical Education department?
+      - What is the overview of PE?
+      - Tell me about the goals of the Physical Education department
+      - What are the objectives of PE?
+      - How does Physical Education contribute to CBIT?
+      - What is the focus of the PE department?
+      - Tell me about sports at CBIT
+
+    #Placements Section
+
+  - intent: ask_cdc_vision
+    examples: |
+      - What is the CDC vision?
+      - Can you tell me about the CDC vision?
+      - What's the organization's CDC vision?
+      - Tell me the CDC vision statement
+
+  - intent: ask_cdc_mission
+    examples: |
+      - What is the CDC mission?
+      - Can you tell me about the CDC mission?
+      - What's the organization's CDC mission?
+      - Tell me the CDC mission statement
+
+  - intent: ask_cdc_guidelines
+    examples: |
+      - What are the CDC guidelines?
+      - Can you show me the CDC guidelines?
+      - Tell me about the CDC guidelines
+      - What CDC guidelines should I follow?
+
+  - intent: ask_cdc_placement_policy
+    examples: |
+      - What is the placement policy?
+      - Tell me about the CDC placement policy
+      - Can you show the placement policy?
+      - What are the rules for placements?
+
+  - intent: ask_cdc_internship_guidelines
+    examples: |
+      - Where can I find internship guidelines?
+      - Show me the internship guidelines
+      - What are the internship guidelines?
+      - Tell me about CDC internship guidelines
+
+  - intent: ask_cdc_lor_format
+    examples: |
+      - Where can I find the LOR format?
+      - Show me the CDC LOR format
+      - What is the LOR format?
+      - Tell me about the LOR format
+
+  - intent: ask_placement_data
+    examples: |
+      - What are the placement statistics?
+      - Can you show me the placement data?
+      - How many students got placed?
+      - Tell me about recent placements
+      - Placement information for CBIT
+
+  - intent: ask_placement_data_year
+    examples: |
+      - What were the placements in [2024-25](year)?
+      - Show me placement data for [2023-24](year)
+      - How many students were placed in [2022-23](year)?
+      - Placement statistics for year [2024-25](year)
+
+  - intent: ask_cdc_team
+    examples: |
+      - Who are the CDC team members?
+      - Can you show me the CDC team?
+      - Tell me about the CDC team
+      - Who works in the CDC?
+
+  - intent: ask_cdc_member_by_designation
+    examples: |
+      - Who is the [Advisor-CDC](designation)?
+      - Tell me about the [Asst. Director - CDC](designation)
+      - What are the details of the [Asst. Programmer](designation)?
+      - Give me information about the [Spl Gr. Computer Operator](designation)
+      - Who is the [Attender](designation) in the CDC team?
+
+  - intent: ask_skill_development_programs
+    examples: |
+      - What are the skill development programs?
+      - Can you tell me about the skill development programs?
+      - What training programs do you have?
+      - Show me the training programs
+
+  - intent: ask_skill_development_programs_year
+    examples: |
+      - What are the skill development programs for [2021-22](year)?
+      - Show me the training programs for [2022-23](year)
+      - What programs are available in [2023-24](year)?
+
+  - intent: ask_student_placement_coordinators
+    examples: |
+      - What are the student placement coordinators lists?
+      - Can you tell me about the student placement coordinators?
+      - Where can I find the student placement coordinators?
+      - Show me the student placement coordinators lists
+
+  - intent: ask_student_placement_coordinators_year
+    examples: |
+      - What is the student placement coordinators list for [2024-25](year)?
+      - Show me the student placement coordinators for [2023-24](year)
+      - What coordinators are available in [2022-23](year)?
+
+  - intent: ask_infrastructure
+    examples: |
+      - What infrastructure do you have in CDC?
+      - Tell me about the CDC facilities
+      - What facilities are available for placements?
+      - Can you describe the infrastructure of Career Development Centre?
+
+  - intent: ask_cdc_events
+    examples: |
+      - What are the CDC events?
+      - Can you tell me about the CDC events?
+      - What events do you have?
+      - Show me the event details
+      - List CDC events
+
+  - intent: ask_cdc_events_year
+    examples: |
+      - What are the CDC events for [2024](year)?
+      - Show me the event details for [2023](year)
+      - What events are available in [2022](year)?
+      - Give me the events for [2021](year)
+
+  - intent: ask_cdc_contact
+    examples: |
+      - Who should I contact for CDC information?
+      - Give me the CDC contact details
+      - What's the contact information for the CDC?
+      - How can I reach the CDC?
+      - Who is in charge of the CDC?
+      - CDC contact person
+
+  # Research Section
+
+  - intent: ask_research_info
+    examples: |
+      - Tell me about the research facilities
+      - What research opportunities are available?
+      - Can you provide information on research infrastructure?
+      - How does the institution support research?
+      - What are the research and innovation centers?
+      - Tell me about the R&D center
+      - Tell me about r&d
+      - What is the Innovation and Incubation Centre?
+
+  - intent: ask_research_vision
+    examples: |
+      - What is the vision for research at the institution?
+      - Can you tell me about the R&D vision?
+      - What's the long-term goal for research and development?
+      - What does the institution aspire to achieve in research?
+      - How does the organization envision its future in R&D?
+      - What's the research center's vision statement?
+
+  - intent: ask_research_mission
+    examples: |
+      - What is the mission of the research department?
+      - Can you explain the R&D mission?
+      - What's the purpose of the research and development activities?
+      - How does the institution describe its research mission?
+      - What are the main objectives of the R&D department?
+      - What's the core mission for research at the organization?
+
+  - intent: ask_r_and_e_team_info
+    examples: |
+      - Who is in the R&E team?
+      - Can you tell me about the R&E team members?
+      - What are the roles in the R&E team?
+      - Give me information about the Research and Engineering team
+      - Who are the staff members in R&E?
+      - Tell me about the R&E team structure
+      - What are the designations in the R&E team?
+      - Who is the Director of R&D?
+      - Can you provide details about the I&I Director?
+      - Who is the Associate Director of R&D?
+      - Tell me about the Senior Research Assistant
+      - What is the role of the Administrative Executive in I&I?
+
+  - intent: ask_all_research_coordinators
+    examples: |
+      - Can you tell me about the departmental research coordinators?
+      - What are the names of research coordinators in different departments?
+      - Give me information about research coordinators
+      - List all departmental research coordinators
+      - Provide details of all department-wise research coordinators
+
+  - intent: ask_specific_department_coordinator
+    examples: |
+      - Who is the research coordinator for [CSE](department) department?
+      - Tell me about the [ECE](department) department's research coordinator
+      - What's the name of the [Mechanical](department) research coordinator?
+      - Who coordinates research in the [IT](department) department?
+      - [Biotech](department) department research coordinator information
+      - [AIML](department) coordinator details
+      - Give me the contact information for [Civil](department) research coordinator
+      - [EEE](department) department's research point of contact
+      - Who should I reach out to for research in [Chemical](department)?
+
+  - intent: ask_research_infrastructure
+    examples: |
+      - Tell me about the research infrastructure
+      - What facilities are available for research?
+      - Can you describe the R&E Hub?
+      - What is the infrastructure for research at CBIT?
+      - Provide details about the R&E Hub building
+      - What are the features of the research facilities?
+
+  - intent: ask_research_infrastructure_images
+    examples: |
+      - Show me images of the R&E Hub
+      - Can I see pictures of the research facilities?
+      - Provide images of the research infrastructure
+      - Do you have photos of the R&E Hub?
+      - Share pictures of the research building
+
+  - intent: ask_get_funded_info
+    examples: |
+      - Tell me about the Get Funded program
+      - How can I apply for project funding?
+      - What is the process to get funding for student projects?
+      - Can you provide details about funding opportunities at CBIT?
+      - How much funding is available for student projects?
+      - Where can I find guidelines for applying for project funding?
+
+  - intent: ask_research_policies
+    examples: |
+      - Tell me about CBIT's research policies
+      - What are the research-related policies at CBIT?
+      - Can you list the research policies?
+      - Provide details about CBIT's R&D policies
+      - What are the guidelines for research at CBIT?
+
+  - intent: ask_specific_research_policy
+    examples: |
+      - Tell me about the [External Sponsored Research Policy](policy_name)
+      - What is the [Anti-Plagiarism Policy](policy_name)?
+      - Can you explain the [Code of Ethics in Academic Research](policy_name)?
+      - Give me details about the [External Consultancy Research Policy](policy_name)
+      - What does the [Anti-Plagiarism Policy](policy_name) cover?
+
+  - intent: ask_specific_research_committee
+    examples: |
+      - Tell me about the departmental research committee for [CSE](department)
+      - What is the departmental research committee for [ECE](department)?
+      - Provide details about [Civil](department)'s research committee
+      - What are the guidelines for [Mech](department)'s departmental research committee?
+      - Can you share information about [Chemistry](department)'s research committee?
+      - Can you share information about [Physics](department)'s research committee?
+
+  - intent: ask_research_committees
+    examples: |
+      - Tell me about CBIT's research committees
+      - What are the research committees at CBIT?
+      - Provide details about the research advisory committee
+      - Can you list the research committees?
+
+  - intent: ask_research_day_details
+    examples: |
+      - Tell me about Research Day
+      - What is Research Day?
+      - Provide details about Research Day 2024
+      - Can you share information about Research Day 2023?
+      - What happened during Research Day 2022?
+      - Give me details of Research Day 2021
+      - Do you have information about this year's Research Day?
+      - Tell me about last year's Research Day
+
+  - intent: ask_innovation_policy
+    examples: |
+      - Tell me about the Innovation and Incubation Policy
+      - What is CBIT's Innovation Policy?
+      - Can you share details of the incubation policy?
+      - Provide information about the innovation policy document
+
+  - intent: ask_innovation_activities
+    examples: |
+      - What are the innovation-related activities at CBIT?
+      - Tell me about incubation activities at CBIT
+      - Can you list key initiatives under innovation and incubation?
+      - Share achievements of CBIT's incubation program
+      - Provide details about startups mentored under incubation centers
+
+  - intent: ask_ipr_policy
+    examples: |
+      - Tell me about the IPR Policy
+      - What is CBIT's Intellectual Property Rights Policy?
+      - Can you share details of the IPR policy?
+      - Provide information about the IPR policy document
+
+  - intent: ask_ipr_patents
+    examples: |
+      - What are the patents related to IPR at CBIT?
+      - Can you share details of the patents under the IPR?
+      - Provide information about CBIT's patent policy under IPR
+
+  - intent: ask_ipr_copyrights
+    examples: |
+      - What are the copyrights related to IPR at CBIT?
+      - Tell me about the Copyrights under IPR
+      - Provide details about Copyrights policy under IPR
+
+  # Campus Section
+
+  - intent: ask_campus_info
+    examples: |
+      - Tell me about CBIT campus.
+      - What can you tell me about your campus?
+      - Give me details about CBIT's campus.
+      - What initiatives does CBIT campus have?
+      - Can you share some information about CBIT campus?
+
+  - intent: ask_chaitanya_sudhee_info
+    examples: |
+      - Tell me about Chaitanya Sudhee.
+      - What is Chaitanya Sudhee?
+      - Can you share details about Chaitanya Sudhee?
+      - Give me information about Chaitanya Sudhee.
+      - What clubs are part of Chaitanya Sudhee?
+
+  - intent: ask_chaitanya_saahithi_info
+    examples: |
+      - Tell me about Chaitanya Saahithi.
+      - What is Chaitanya Saahithi?
+      - Can you share details about Chaitanya Saahithi?
+      - Give me information about Chaitanya Saahithi.
+      - What clubs are part of Chaitanya Saahithi?
+
+  - intent: ask_chaitanya_samskruthi_info
+    examples: |
+      - Tell me about Chaitanya Samskruthi.
+      - What is Chaitanya Samskruthi?
+      - Can you share details about Chaitanya Samskruthi?
+      - Give me information about Chaitanya Samskruthi.
+      - What clubs are part of Chaitanya Samskruthi?
+
+  - intent: ask_chaitanya_kreeda_info
+    examples: |
+      - Tell me about Chaitanya Kreeda.
+      - What is Chaitanya Kreeda?
+      - Can you share details about Chaitanya Kreeda?
+      - Give me information about Chaitanya Kreeda.
+      - What facilities does Chaitanya Kreeda provide?
+      - What are the achievements of Chaitanya Kreeda?
+
+  - intent: ask_physical_education_info
+    examples: |
+      - Tell me about Physical Education.
+      - What is Physical Education at CBIT?
+      - Can you share details about the sports department?
+      - Give me information about sports at CBIT.
+      - What facilities does the Physical Education department provide?
+      - What is the infrastructure for sports at CBIT?
+      - Tell me about the sports facilities.
+
+  - intent: ask_chaitanya_seva_info
+    examples: |
+      - Tell me about Chaitanya Seva.
+      - What is Chaitanya Seva?
+      - Can you share details about Chaitanya Seva?
+      - Give me information about Chaitanya Seva.
+      - What clubs are part of Chaitanya Seva?
+      - What social service initiatives does CBIT have?
+
+  - intent: ask_chaitanya_chaaya_info
+    examples: |
+      - Tell me about Chaitanya Chaaya.
+      - What is Chaitanya Chaaya?
+      - Can you share details about Chaitanya Chaaya?
+      - Give me information about Chaitanya Chaaya.
+      - What clubs are part of Chaitanya Chaaya?
+      - What creative platforms does CBIT have?
+
+  - intent: ask_chaitanya_smriti_info
+    examples: |
+      - Tell me about Chaitanya Smriti.
+      - What is Chaitanya Smriti?
+      - Can you share details about Chaitanya Smriti?
+      - Give me information about Chaitanya Smriti.
+      - What clubs are part of Chaitanya Smriti?
+      - What is the Alumni Club at CBIT?
+
+  - intent: ask_students_clubs_info
+    examples: |
+      - Tell me about students' clubs.
+      - What are the clubs at CBIT?
+      - Can you share details about students' clubs?
+      - Give me information about CBIT's student clubs.
+
+  - intent: ask_department_clubs
+    examples: |
+      - Tell me about department-specific clubs.
+      - What technical clubs are available in each department?
+      - Can you list the department-wise clubs?
+
+  - intent: ask_professional_bodies
+    examples: |
+      - What professional bodies can students join?
+      - Tell me about the professional chapters at CBIT.
+      - Can you list the professional organizations for students?
+
+  - intent: ask_anti_ragging_info
+    examples: |
+      - Tell me about anti-ragging information.
+      - What is the anti-ragging policy at CBIT?
+      - Can you share details about anti-ragging?
+
+  - intent: ask_anti_ragging_committee
+    examples: |
+      - Tell me about the Anti-Ragging Committee.
+      - What does the Anti-Ragging Committee do?
+      - Can you share details about the Anti-Ragging Committee?
+
+  - intent: ask_anti_ragging_squad
+    examples: |
+      - Tell me about the Anti-Ragging Squad.
+      - What is the role of the Anti-Ragging Squad?
+      - Can you share details about the Anti-Ragging Squad?
+
+  - intent: ask_anti_ragging_duties
+    examples: |
+      - Tell me about Anti-Ragging Duties.
+      - What are the anti-ragging duties at CBIT?
+      - Can you share details about anti-ragging duties?
+
+  - intent: ask_anti_ragging_cell
+    examples: |
+      - Tell me about the Anti-Ragging Cell.
+      - What is the Anti-Ragging Cell (Help Desk)?
+      - Can you share contact details of the Anti-Ragging Cell?
+
+  - intent: ask_disciplinary_committee
+    examples: |
+      - Tell me about the Disciplinary Committee.
+      - What does the Disciplinary Committee do?
+      - Can you share details about the Disciplinary Committee?
+
+  # Admissions Section
+
+  - intent: ask_why_cbit
+    examples: |
+      - Why should I choose CBIT?
+      - What makes CBIT special?
+      - Why study at CBIT?
+      - Tell me the benefits of studying at CBIT.
+
+  - intent: ask_programs_offered
+    examples: |
+      - What programs does CBIT offer?
+      - What undergraduate programs are offered at CBIT?
+      - What postgraduate courses are available?
+      - What programs are offered?
+
+  - intent: ask_admission_procedure
+    examples: |
+      - How can I get admission to CBIT?
+      - Tell me about the admission process.
+      - What is the admission procedure for B.Tech at CBIT?
+      - How are MBA admissions handled at CBIT?
+
+  - intent: ask_contact_admissions
+    examples: |
+      - How can I contact admissions?
+      - Give me the contact details for admissions.
+      - Whom should I reach out to for admissions?
+      - What is the phone number for CBIT admissions?
+      - Can you provide the email address for CBIT admissions?
+
+  - intent: ask_ug_course_intake
+    examples: |
+      - What is the intake for UG courses at CBIT?
+      - Can you tell me the approved seats for undergraduate programs?
+      - How many seats are available for B.E. courses?
+      - What is the AICTE-approved intake for UG programs?
+
+  - intent: ask_pg_course_intake
+    examples: |
+      - What is the intake for PG courses at CBIT?
+      - Can you tell me the approved seats for postgraduate programs?
+      - How many seats are available for M.Tech and MBA programs?
+      - What is the AICTE-approved intake for PG programs?
+
+  - intent: ask_tuition_fee_convener
+    examples: |
+      - What is the tuition fee under Convener category?
+      - Tell me about Convener category fees.
+      - How much is the fee for B.E. under Convener quota?
+      - What are the fees for MBA under Convener quota?
+
+  - intent: ask_tuition_fee_b_category
+    examples: |
+      - What is the tuition fee under B-Category?
+      - Tell me about B-Category fees.
+      - How much is the fee for M.Tech under B-Category?
+      - What are the fees for MCA under Management quota?
+
+  - intent: ask_tuition_fee_nri
+    examples: |
+      - What is the tuition fee for NRI students?
+      - Tell me about NRI category fees.
+      - How much is the fee for B.E. under NRI quota?
+      - What are the fees for MBA under NRI quota?
+
+  - intent: ask_certificates_required
+    examples: |
+      - What certificates are required for admission?
+      - Can you list the documents needed for admission?
+      - What are the required certificates for CBIT admissions?
+      - Tell me about the certificates needed for CBIT admissions.
+
+  - intent: ask_admission_guidelines
+    examples: |
+      - What are the guidelines for the admission process?
+      - Can you share the instructions for reporting at CBIT?
+      - Tell me about the steps to follow during admission.
+      - What are the rules for reporting at CBIT during admissions?
+
+  - intent: ask_scholarship_eligibility
+    examples: |
+      - What is the eligibility for scholarship renewal?
+      - Who is eligible for the scholarship renewal process?
+      - Can you tell me about the eligibility criteria for scholarships?
+      - What are the categories eligible for scholarships?
+
+  - intent: ask_scholarship_application
+    examples: |
+      - How can I apply for a scholarship renewal?
+      - What is the deadline for scholarship applications?
+      - Tell me about the application process for scholarships.
+      - Where can I apply for a scholarship renewal?
+
+  - intent: ask_scholarship_documents
+    examples: |
+      - What documents are required for scholarship renewal?
+      - Can you list the documents needed for applying for a scholarship?
+      - What are the required certificates for scholarship applications?
+      - Tell me about the documents needed for ePASS scholarships.
+
+  # Facilities Section
+
+  - intent: ask_hostel_description
+    examples: |
+      - Tell me about the CBIT hostel
+      - What is the hostel like?
+      - Can you describe the hostel?
+
+  - intent: ask_hostel_details
+    examples: |
+      - Give me details about the hostel
+      - What are the specifics of the Junior and Senior blocks?
+      - How many students can stay in the hostel?
+
+  - intent: ask_hostel_contact
+    examples: |
+      - Who can I contact for hostel-related queries?
+      - Give me the contact details for the hostel
+      - Who is responsible for managing the hostel?
+
+  - intent: ask_transport_instructions
+    examples: |
+      - What are the transport instructions?
+      - Can you tell me the rules for using the college buses?
+      - What guidelines should parents and students follow for transport?
+
+  - intent: ask_transport_how_to_apply
+    examples: |
+      - How can I apply for transport?
+      - What is the procedure to get a bus seat?
+      - How do I register for college transport?
+
+  - intent: ask_transport_contact_details
+    examples: |
+      - Who can I contact regarding transport issues?
+      - Give me the contact details for the transport department.
+      - Who is in charge of student transport?
+
+  - intent: ask_data_center_description
+    examples: |
+      - What is the Data Center like?
+      - Tell me about chnms 
+      - Tell me about the Data Center and CWN.
+      - What is the Data Center at CBIT?
+      - Can you describe the Campus Wide Networking?
+
+  - intent: ask_wifi_facility_description
+    examples: |
+      - What is the Wi-Fi facility at CBIT like?
+      - Tell me about the wireless connectivity on campus.
+      - How does Wi-Fi work at CBIT?
+
+  - intent: ask_data_center_details
+    examples: |
+      - Can you give me details about the Data Center?
+      - What servers are available in the Data Center?
+      - What software is installed in the Data Center?
+
+  - intent: ask_chnms_details
+    examples: |
+      - Can you provide contact details about CHNMS?
+      - Who are the contacts for CHNMS?
+      - How can I reach out to CHNMS?
+      - What is the phone number for CHNMS?
+      - Can you provide details about Computers’ Hardware & Network Maintenance Systems?
+
+  - intent: ask_health_center_description
+    examples: |
+      - Tell me about the Health Center at CBIT.
+      - What is the Health Center like?
+      - Can you describe the campus health services?
+
+  - intent: ask_medical_staff_details
+    examples: |
+      - Who are the medical staff at CBIT?
+      - What are the roles of medical staff at the Health Center?
+      - Tell me about the medical officer and nurse at CBIT.
+
+  - intent: ask_ambulance_service_details
+    examples: |
+      - Is there an ambulance service at CBIT?
+      - What is the purpose of the ambulance service at CBIT?
+      - Can you provide details about emergency transport at CBIT?
+
+  - intent: ask_media_center_description
+    examples: |
+      - Tell me about the Media Center.
+      - What is the Media Center at CBIT?
+      - Can you describe the facilities of the Media Center?
+
+  - intent: ask_e_content_details
+    examples: |
+      - What are the details of e-Content development?
+      - How is e-Content shared at CBIT?
+      - Tell me about the public and institute links for e-Content.
+
+  - intent: ask_access_details
+    examples: |
+      - How can students access video lectures?
+      - What are the access requirements for recorded lectures?
+      - Can you provide details about accessing e-content?
+
+  - intent: ask_ict_tools_description
+    examples: |
+      - Tell me about ICT tools at CBIT.
+      - What are ICT tools used for?
+      - Can you describe ICT tools?
+
+  - intent: ask_ict_infrastructure_details
+    examples: |
+      - What is the ICT infrastructure at CBIT?
+      - Tell me about computer availability and internet connectivity.
+      - How are faculty trained to use ICT tools?
+
+  - intent: ask_blended_learning_details
+    examples: |
+      - What is blended learning at CBIT?
+      - What tools are used for blended learning?
+      - How does CBIT integrate ICT into academics?
+
+  - intent: ask_lms_details
+    examples: |
+      - Tell me about the Learning Management System.
+      - What is CBIT LMS?
+      - How does LMS work at CBIT?
+
+  - intent: ask_library_information_center_details
+    examples: |
+      - What resources are available in the Library and Information Center?
+      - How can I access digital resources from the library?
+      - Tell me about remote access to e-resources.

@@ -1,0 +1,316 @@
+version: "3.1"
+
+intents:
+  - greet
+  - goodbye
+  # About Section
+  - ask_college_info
+  - ask_college_vision
+  - ask_college_mission
+  - ask_college_recognitions
+  - ask_college_management
+  - ask_specific_management_position
+  - ask_president_message
+  - ask_principal_message
+  - ask_directors
+  - ask_specific_director
+  - ask_courses
+  - ask_specific_hods
+  - ask_hods
+  - ask_faculty
+  - ask_aec_info
+  - ask_coe_info
+  - ask_hr_team
+  - ask_project_office_team
+  - ask_accounts_office_staff
+  - ask_purchase_office_team
+  - ask_alumni_office_team
+  - ask_advisory_body
+  - ask_governing_body
+  - ask_academic_council_constitution
+  - ask_academic_council_members
+  - ask_iqac_info
+  - ask_college_committees
+  - ask_college_mous
+  - ask_college_contact_info
+  - ask_social_media_links
+  # Academics Section
+  - ask_civil_info
+  - ask_mechanical_info
+  - ask_eee_info
+  - ask_ece_info
+  - ask_cse_info
+  - ask_aiml_info
+  - ask_it_info
+  - ask_cet_info
+  - ask_aids_info
+  - ask_chem_eng_info
+  - ask_biotech_info
+  - ask_physics_info
+  - ask_chemistry_info
+  - ask_math_humanities_info
+  - ask_english_info
+  - ask_mca_info
+  - ask_sms_info
+  - ask_pe_info
+  #Placement Section
+  - ask_cdc_vision
+  - ask_cdc_mission
+  - ask_cdc_guidelines
+  - ask_cdc_placement_policy
+  - ask_cdc_internship_guidelines
+  - ask_cdc_lor_format
+  - ask_placement_data
+  - ask_placement_data_year
+  - ask_cdc_team
+  - ask_cdc_member_by_designation
+  - ask_skill_development_programs
+  - ask_skill_development_programs_year
+  - ask_student_placement_coordinators
+  - ask_student_placement_coordinators_year
+  - ask_infrastructure
+  - ask_cdc_events
+  - ask_cdc_events_year
+  - ask_cdc_contact
+  # Research Section
+  - ask_research_info
+  - ask_research_vision
+  - ask_research_mission
+  - ask_r_and_e_team_info
+  - ask_all_research_coordinators
+  - ask_specific_department_coordinator
+  - ask_research_infrastructure
+  - ask_research_infrastructure_images
+  - ask_get_funded_info
+  - ask_research_policies
+  - ask_specific_research_policy
+  - ask_specific_research_committee
+  - ask_research_committees
+  - ask_research_day_details
+  - ask_innovation_policy
+  - ask_innovation_activities
+  - ask_ipr_policy
+  - ask_ipr_patents
+  - ask_ipr_copyrights
+  # Campus Section
+  - ask_campus_info
+  - ask_chaitanya_sudhee_info
+  - ask_chaitanya_saahithi_info
+  - ask_chaitanya_samskruthi_info
+  - ask_chaitanya_kreeda_info
+  - ask_physical_education_info
+  - ask_chaitanya_seva_info
+  - ask_chaitanya_chaaya_info
+  - ask_chaitanya_smriti_info
+  - ask_students_clubs_info
+  - ask_department_clubs
+  - ask_professional_bodies
+  - ask_anti_ragging_info
+  - ask_anti_ragging_committee
+  - ask_anti_ragging_squad
+  - ask_anti_ragging_duties
+  - ask_anti_ragging_cell
+  - ask_disciplinary_committee
+  # Admissions Section
+  - ask_why_cbit
+  - ask_programs_offered
+  - ask_admission_procedure
+  - ask_contact_admissions
+  - ask_ug_course_intake
+  - ask_pg_course_intake
+  - ask_tuition_fee_convener
+  - ask_tuition_fee_b_category
+  - ask_tuition_fee_nri
+  - ask_certificates_required
+  - ask_admission_guidelines
+  - ask_scholarship_eligibility
+  - ask_scholarship_application
+  - ask_scholarship_documents
+  # Facilities Section
+  - ask_hostel_description
+  - ask_hostel_details
+  - ask_hostel_contact
+  - ask_transport_instructions
+  - ask_transport_how_to_apply
+  - ask_transport_contact_details
+  - ask_data_center_description
+  - ask_wifi_facility_description
+  - ask_data_center_details
+  - ask_chnms_details
+  - ask_health_center_description
+  - ask_medical_staff_details
+  - ask_ambulance_service_details
+  - ask_media_center_description
+  - ask_e_content_details
+  - ask_access_details
+  - ask_ict_tools_description
+  - ask_ict_infrastructure_details
+  - ask_blended_learning_details
+  - ask_lms_details
+  - ask_library_information_center_details
+
+entities:
+  - year
+  - designation
+  - department
+  - policy_name
+
+slots:
+  year:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: year
+  designation:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: designation
+  department:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: department
+  policy_name:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: policy_name
+
+responses:
+  utter_greet:
+    - text: "Hello! I'm ChaiBot.. How can I help you with information about our college?"
+
+  utter_goodbye:
+    - text: "Goodbye! If you have more questions, feel free to ask anytime."
+
+actions:
+  # About Section
+  - action_college_info
+  - action_college_vision
+  - action_college_mission
+  - action_college_recognitions
+  - action_college_management
+  - action_president_message
+  - action_principal_message
+  - action_directors
+  - action_specific_director
+  - action_show_courses
+  - action_hods
+  - action_list_all_hods
+  - action_faculty
+  - action_get_aec_info
+  - action_get_coe_info
+  - action_hr_team
+  - action_project_office_team
+  - action_accounts_office_staff
+  - action_purchase_office_team
+  - action_alumni_office_team
+  - action_advisory_body
+  - action_governing_body
+  - action_academic_council_constitution
+  - action_academic_council_members
+  - action_iqac_info
+  - action_college_committees
+  - action_college_mous
+  - action_show_college_contact_info
+  - action_show_social_media_links
+  # Academics Section
+  - action_retrieve_civil_info
+  - action_retrieve_mechanical_info
+  - action_retrieve_eee_info
+  - action_retrieve_ece_info
+  - action_retrieve_cse_info
+  - action_retrieve_aiml_info
+  - action_retrieve_it_info
+  - action_retrieve_cet_info
+  - action_retrieve_aids_info
+  - action_retrieve_chem_eng_info
+  - action_retrieve_biotech_info
+  - action_retrieve_physics_info
+  - action_retrieve_chemistry_info
+  - action_retrieve_math_humanities_info
+  - action_retrieve_english_info
+  - action_retrieve_mca_info
+  - action_retrieve_sms_info
+  - action_retrieve_pe_info
+  # Placement Section
+  - action_cdc_vision
+  - action_cdc_mission
+  - action_cdc_guidelines
+  - action_cdc_placement_policy
+  - action_cdc_internship_guidelines
+  - action_cdc_lor_format
+  - action_show_placement_data
+  - action_show_cdc_team
+  - action_show_cdc_member_by_designation
+  - action_show_skill_development_programs
+  - action_show_student_placement_coordinators
+  - action_show_infrastructure
+  - action_show_cdc_events
+  - action_show_cdc_contact
+  # Research Section
+  - action_research_info
+  - action_research_vision
+  - action_research_mission
+  - action_r_and_e_team_info
+  - action_all_departmental_coordinators
+  - action_specific_department_coordinator
+  - action_research_infrastructure
+  - action_research_infrastructure_images
+  - action_get_funded_info
+  - action_research_policies
+  - action_specific_research_policy
+  - action_specific_research_committee
+  - action_research_committees
+  - action_research_day_details
+  - action_innovation_policy
+  - action_innovation_activities
+  - action_ipr_policy
+  - action_ipr_patents
+  - action_ipr_copyrights
+  # Campus Section
+  - action_campus_info
+  - action_chaitanya_sudhee_info
+  - action_chaitanya_saahithi_info
+  - action_chaitanya_samskruthi_info
+  - action_chaitanya_kreeda_info
+  - action_physical_education_info
+  - action_chaitanya_seva_info
+  - action_chaitanya_chaaya_info
+  - action_chaitanya_smriti_info
+  - action_students_clubs_info
+  - action_anti_ragging_info
+  # Admissions Section
+  - action_admissions_info
+  - action_contact_info_admissions
+  - action_course_intake_info
+  - action_tuition_fee_info
+  - action_admission_form_info
+  - action_scholarship_renewal_info
+  # Facilities Section
+  - action_hostel_description
+  - action_hostel_details
+  - action_hostel_contact
+  - action_transport_instructions
+  - action_transport_how_to_apply
+  - action_transport_contact_details
+  - action_data_center_description
+  - action_wifi_facility_description
+  - action_data_center_details
+  - action_chnms_details
+  - action_health_center_description
+  - action_medical_staff_details
+  - action_ambulance_service_details
+  - action_media_center_description
+  - action_e_content_details
+  - action_access_details
+  - action_ict_tools_description
+  - action_ict_infrastructure_details
+  - action_blended_learning_details
+  - action_learning_management_system_details
+  - action_library_information_center_details
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

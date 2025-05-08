@@ -1,0 +1,276 @@
+[
+    {
+        "admissions": {
+            "introduction": "Thank you for expressing an interest in CBIT. Investing in quality education is essential, and CBIT offers career-defining programs that shape a bright future. These years are crucial for building relationships with fellow students and teachers, laying the foundation for success.",
+            "why_cbit": "A course at CBIT can change the course of your life. Our top-of-the-line Engineering and Management Sciences courses ensure a promising tomorrow through innovative, industry-based teaching methodologies. We focus on practical knowledge and real-world exposure to better equip students for their dream careers.",
+            "programs_offered": {
+                "undergraduate": [
+                    "B.E. (Bachelor of Engineering)",
+                    "B.Tech. (Bachelor of Technology)",
+                    "UG with Honors",
+                    "Additional Minor Engineering"
+                ],
+                "postgraduate": [
+                    "M.E. (Master of Engineering)",
+                    "M.Tech. (Master of Technology)",
+                    "Courses for Working Professionals"
+                ]
+            },
+            "admission_procedure": {
+                "general": "All the admissions are based on merit.",
+                "be_btech": {
+                    "a_category": {
+                        "quota": "Convener quota",
+                        "percentage": "70%",
+                        "criteria": "Through TSEAMCET Ranks"
+                    },
+                    "b_category": {
+                        "quota": "Management quota",
+                        "percentage": "15% + 15%",
+                        "criteria": [
+                            "15% for candidates throughout India without reservations through IIT JEE Mains Ranks / TSEAMCET Ranks / Qualifying Exam Marks",
+                            "15% for NRI / NRI sponsored candidates through Qualifying Exam Marks"
+                        ]
+                    }
+                },
+                "me_mtech": {
+                    "a_category": {
+                        "quota": "Convener quota",
+                        "percentage": "70%",
+                        "criteria": "Through GATE / TSPGECET Ranks"
+                    },
+                    "b_category": {
+                        "quota": "Management quota",
+                        "percentage": "30%",
+                        "criteria": "Through GATE / TSPGECET / Qualifying Exam Marks"
+                    }
+                },
+                "mba_mca": {
+                    "a_category": {
+                        "quota": "Convener quota",
+                        "percentage": "70%",
+                        "criteria": "Through TSICET Ranks"
+                    },
+                    "b_category": {
+                        "quota": "Management quota",
+                        "percentage": "30%",
+                        "criteria": "Through TSICET / Qualifying Exam Marks"
+                    }
+                },
+                "notes": [
+                    "Reservations are followed as per State Government Norms in all the A-Category Admissions.",
+                    "All the A-Category seats are filled by the respective Convenors of TSEAMCET, TSPGECET, TSICET.",
+                    "All the B-Category seats are filled by the Institute Management as per the guidelines issued by TSCHE, Telangana State."
+                ]
+            }
+        }
+    },
+    {
+        "contact": "Admissions will be made as per the guidelines issued by the AICTE/ Osmania University/ State Government.",
+        "contact_details": {
+            "phone": "8466997216",
+            "email": "aec@cbit.ac.in"
+        }
+    },
+    {
+        "intake_approved_by_aicte": {
+            "academic_year": "2024-25",
+            "ug_courses": [
+                {
+                    "course_name": "B.E - Civil Engineering",
+                    "intake": 120
+                },
+                {
+                    "course_name": "B.E - Mechanical Engineering",
+                    "intake": 120
+                },
+                {
+                    "course_name": "B.E - Electronics & Communications Engineering",
+                    "intake": 180
+                },
+                {
+                    "course_name": "B.E - Computer Science and Engineering",
+                    "intake": 360
+                },
+                {
+                    "course_name": "B.E - Electrical & Electronics Engineering",
+                    "intake": 120
+                },
+                {
+                    "course_name": "B.E - Information Technology",
+                    "intake": 180
+                },
+                {
+                    "course_name": "B.Tech - Chemical Engineering",
+                    "intake": 60
+                },
+                {
+                    "course_name": "B.Tech - Biotechnology",
+                    "intake": 120
+                },
+                {
+                    "course_name": "B.E - Artificial Intelligence and Data Science",
+                    "intake": 120
+                },
+                {
+                    "course_name": "B.E - Computer Science and Engineering (Artificial Intelligence and Machine Learning)",
+                    "intake": 180
+                },
+                {
+                    "course_name": "B.E - Computer Science and Engineering (Internet of Things and Cyber Security including Blockchain Technology)",
+                    "intake": 60
+                },
+                {
+                    "course_name": "B.E - Electronics Engineering (VLSI Design and Technology)",
+                    "intake": 60
+                }
+            ],
+            "pg_courses": [
+                {
+                    "course_name": "MBA (Master of Business Administration)",
+                    "intake": 120
+                },
+                {
+                    "course_name": "MCA (Master of Computer Applications)",
+                    "intake": 60
+                },
+                {
+                    "course_name": "ME - Structural Engineering (Civil)",
+                    "intake": 18
+                },
+                {
+                    "course_name": "ME - CAD / CAM (Mechanical)",
+                    "intake": 18
+                },
+                {
+                    "course_name": "M.Tech - Computer Science and Engineering",
+                    "intake": 24
+                },
+                {
+                    "course_name": "ME - Communication Engineering (ECE)",
+                    "intake": 12
+                },
+                {
+                    "course_name": "ME - Power Systems & Power Electronics (EEE)",
+                    "intake": 12
+                },
+                {
+                    "course_name": "ME - Embedded Systems and VLSI Design (ECE)",
+                    "intake": 18
+                },
+                {
+                    "course_name": "M.Tech - Artificial Intelligence and Data Science",
+                    "intake": 18
+                },
+                {
+                    "course_name": "M.Tech - Information Technology (Artificial Intelligence and Robotics)",
+                    "intake": 18
+                }
+            ]
+        }
+    },
+    {
+        "tuition_fee_details": {
+            "academic_year": "2023-2024",
+            "admission_categories": [
+                {
+                    "category": "Convener",
+                    "be_btech_fee": "Rs. 1,40,000",
+                    "me_mtech_fee": "Rs. 1,51,600",
+                    "mca_fee": "Rs. 95,000",
+                    "mba_fee": "Rs. 90,000"
+                },
+                {
+                    "category": "B-Category",
+                    "be_btech_fee": "Rs. 1,40,000",
+                    "me_mtech_fee": "Rs. 1,51,600",
+                    "mca_fee": "Rs. 95,000",
+                    "mba_fee": "Rs. 90,000"
+                },
+                {
+                    "category": "NRI",
+                    "be_btech_fee": "USD 5,000",
+                    "me_mtech_fee": "N/A",
+                    "mca_fee": "N/A",
+                    "mba_fee": "N/A"
+                }
+            ],
+            "note": "This fee is subject to the final fixation of the annual fee for the block period 2022-2025 by the authorities of the State, Courts of Law, and TAFRC for B.E./B.Tech courses."
+        }
+    },
+    {
+        "admissionForm": {
+            "certificatesRequired": [
+                "Allotment Order (Final Phase)",
+                "Joining Report (Final Phase)",
+                "Convener Fee Paid Challan (if applicable)",
+                "TSEAMCET-22 Hall Ticket",
+                "TSEAMCET-22 Rank Card",
+                "\"Receipt of Certificates\" from the convener TSEAMCET-22",
+                "S.S.C or its equivalent Marks memo",
+                "Intermediate or its equivalent Memo-Cum-Pass Certificate (Long Memo/Short Memo)",
+                "Study Certificates (VI to XII)",
+                "Transfer Certificate (TC)",
+                "EWS Income Certificate issued by Tahsildar valid for the year 2022-23 (if applicable)",
+                "Caste Certificate issued by competent authority (if applicable)",
+                "Any other certificates (PHC, CAP, NCC, SG(Sports)) (if applicable)",
+                "Aadhaar Card",
+                "5 Passport Size Photos"
+            ],
+            "guidelines": [
+                "Students should bring all the original certificates for verification.",
+                "Submit the Original TC of Inter/equivalent, Original Income Certificate (if applicable), Original Caste Certificate (if applicable), and 2 sets of Xerox copies of the specified certificates (Sl.No 1 to 14) while reporting.",
+                "Pay the Miscellaneous Fee as specified.",
+                "Follow the Tuition Fee Notice as mentioned in the attached document.",
+                "Student must be accompanied by Parent/Guardian.",
+                "Only one person is allowed along with the student during reporting at the College."
+            ]
+        }
+    },
+    {
+        "scholarshipRenewal": {
+            "eligibility": {
+                "programs": [
+                    "B.E",
+                    "B.Tech",
+                    "MCA",
+                    "MBA",
+                    "ME",
+                    "M.Tech (PGECET)"
+                ],
+                "native": "Telangana",
+                "categories": [
+                    "SC",
+                    "ST",
+                    "BC",
+                    "EBC",
+                    "Disabled (PHC)",
+                    "Minority"
+                ]
+            },
+            "application": {
+                "deadline": "30-11-2023",
+                "website": "https://telanganaepass.cgg.gov.in/",
+                "guidelines": [
+                    "Students must apply for the scholarship online before the deadline.",
+                    "If they fail to apply on time, tuition fee reimbursement will not be granted, and they will be required to pay the fee themselves."
+                ],
+                "submissionProcess": {
+                    "step1": "Complete online submission of the application.",
+                    "step2": "Submit the hard copy of the application along with the required documents (Xerox copies) and income affidavit (original) at the Scholarship Section, Administrative Office."
+                }
+            },
+            "documentsRequired": [
+                "Epass Online Application Form",
+                "Provisional Allotment Order",
+                "Original Income Affidavit (signed by the student and parent with date)",
+                "Passed/Promoted Marks Memo of Previous Year (1st and 2nd semester)",
+                "Bonafide Certificate (issued by the Exam Branch, CBIT)",
+                "Aadhaar Card",
+                "Student's Bank Account Pass Book",
+                "Attendance Certificate (Certified by HOD for the year 2022-23)",
+                "If parents are in private/government employment, submit salary certificate from their employer"
+            ]
+        }
+    }
+]

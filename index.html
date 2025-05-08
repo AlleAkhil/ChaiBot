@@ -1,0 +1,91 @@
+<html>
+  <head>
+    <title>Home</title>
+  </head>
+  <body>
+    <style>
+      /* Header styling */
+      .rw-conversation-container .rw-header {
+        background-color: #385529;
+        border-bottom: 1px solid #971b1e;
+      }
+
+      /* Chatbot reply message styling */
+      .rw-conversation-container
+        .rw-messages-container
+        .rw-message
+        .rw-response {
+        color: #971b1e; /* Chatbot reply text color */
+        background-color: #ffffff; /* Chatbot reply background (already white) */
+        border: 2px solid #971b1e;
+      }
+
+      /* User message styling */
+      .rw-conversation-container .rw-messages-container .rw-message .rw-client {
+        color: #385529; /* User message text color */
+        background-color: #ffffff; /* User message background set to white */
+        border: 2px solid #385529;
+      }
+
+      /* User input (text box) styling */
+      .rw-sender {
+        background-color: #f7f7f7; /* Light gray background for the input area */
+        border-top: 1px solid #971b1e; /* Optional border for separation */
+      }
+
+      .rw-new-message {
+        color: #385529; /* Dark green text for user input */
+        background-color: #d6e8d6; /* Light green background for user input box */
+        font-size: 14px;
+      }
+
+      .rw-launcher {
+        background-color: #385529; /* Dark red background for chatbot launcher */
+        border: 2px solid #971b1e;
+      }
+
+      .rw-conversation-container .rw-header.rw-with-subtitle .rw-avatar {
+        top: 12px;
+      }
+
+      .rw-conversation-container .rw-header .rw-avatar {
+        height: 45px;
+        width: 31px;
+        position: absolute;
+        left: 14px;
+      }
+
+      .rw-conversation-container .rw-send .rw-send-icon-ready {
+        fill: #971b1e;
+    </style>
+
+    <script>
+      !(function () {
+        let e = document.createElement("script"),
+          t = document.head || document.getElementsByTagName("head")[0];
+        (e.src =
+          "https://cdn.jsdelivr.net/npm/rasa-webchat@1.x.x/lib/index.js"),
+          // Replace 1.x.x with the version that you want
+          (e.async = !0),
+          (e.onload = () => {
+            window.WebChat.default(
+              {
+                initPayload: "/greet",
+                customData: { language: "en" },
+                socketUrl: "http://localhost:5005",
+                profileAvatar: "./assets/cbit.png",
+                title: "ChaiBot: College Assistant",
+                subtitle: "Ask me anything about our college!",
+                showMessageDate: true,
+                inputTextFieldHint: "What's in your mind?",
+                hideWhenNotConnected: true, // add other props here
+              },
+              null
+            );
+          }),
+          t.insertBefore(e, t.firstChild);
+      })();
+      localStorage.clear();
+    </script>
+  </body>
+</html>
